@@ -1,1 +1,1 @@
-# Class Schdeduler
+# Class scheduler
