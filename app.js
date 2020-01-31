@@ -1,81 +1,62 @@
-var createError = require("http-errors");
 var express = require("express");
-var path = require("path");
-var cookieParser = require("cookie-parser");
-var logger = require("morgan");
 const puppeteer = require("puppeteer");
-
-var indexRouter = require("./routes/index");
-var usersRouter = require("./routes/users");
-
 var app = express();
 
-// // view engine setup
-// app.set("views", path.join(__dirname, "views"));
-// app.set("view engine", "jade");
 
-// app.use(logger("dev"));
-// app.use(express.json());
-// app.use(express.urlencoded({ extended: false }));
-// app.use(cookieParser());
-// app.use(express.static(path.join(__dirname, "public")));
+async function run() {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
 
-// app.use("/", indexRouter);
-// app.use("/users", usersRouter);
+  console.log("The Process has started....");
+  await page.setViewport({ width: 1920, height: 1080 });
 
-// // catch 404 and forward to error handler
-// app.use(function (req, res, next) {
-//   next(createError(404));
-// });
+  await page.goto(
+    "https://sis-reg.utc.edu/StudentRegistrationSsb/ssb/classSearch/classSearch", {
+    waitUntil: 'networkidle2'
+  }
+  );
 
-// // error handler
-// app.use(function (err, req, res, next) {
-//   // set locals, only providing error in development
-//   res.locals.message = err.message;
-//   res.locals.error = req.app.get("env") === "development" ? err : {};
+  await page.screenshot({ path: './public/images/1.jpg', type: 'jpeg', fullPage: true });
 
-//   // render the error page
-//   res.status(err.status || 500);
-//   res.render("error");
-// });
-var test = document.getElementById('txt_keywordlike').value
+  //   await Promise.all([
+  //     page.waitForNavigation(),
+  //     console.log("All shit has been done now")
+  // ]);
+
+  await Promise.all([
+    // page.waitForNavigation(waitOptions),
+    page.click("#classSearchLink"),
+  ]);
+
+  await page.screenshot({ path: './public/images/2.jpg', type: 'jpeg', fullPage: true });
+
+  await page.evaluate(() => {
+    // let elements = document.getElementById("txt_term")
+    return document.getElementById("txt_term").setAttribute("listofsearchterms", "201920");
+  });
+
+  await Promise.all([
+    // page.waitForNavigation(waitOptions),
+    page.click("#term-go"),
+    page.waitForNavigation({ waitUntil: 'networkidle2' }),
+  ]);
+
+  await Promise.all([
+    page.screenshot({ path: './public/images/3.jpg', type: 'jpeg', fullPage: true }),
+    page.waitForNavigation({ waitUntil: 'networkidle2' }),
+  ]);
 
 
-  (async () => {
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
+  console.log("Server has started on port 8080");
 
-    // var heights = await page.evaluate(() => {
-    //   return window.innerHeight;
-    // });
+  await page.close();
+  await browser.close();
+}
 
-    // var widths = await page.evaluate(() => {
-    //   return window.innerWidth;
-    // });
+app.use("/home", (req, res) => {
+  res.send("Worked")
+  run();
+})
 
-    console.log("The Process has started....");
 
-    // await page.setViewport({
-    //   width: 1500,
-    //   height: heights,
-    //   deviceScaleFactor: 1
-    // });
-
-    await page.goto(
-      "https://sis-reg.utc.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    );
-    const s = await page.evaluate(
-      () => document.getElementById("txt_keywordlike").value = "20054"
-    );
-
-    // fs.writeFileSync("tes1.txt", name);
-    app.get("/home", (req, res) => {
-      res.write("Name: ");
-      res.end();
-      // console.log(document.getElementById('txt_keywordlike').value)
-    }).listen(8080);
-
-    console.log("Server has started on port 8080");
-
-    await browser.close();
-  })();
+app.listen(8080)
