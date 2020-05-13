@@ -1,13 +1,15 @@
 var express = require("express");
 const puppeteer = require("puppeteer");
 var app = express();
-
+const exportGraph = require("./lib/chart");
+const processPage = require("./lib/process");
 
 async function run() {
   //const browser = await puppeteer.launch();
   const browser = await puppeteer.launch({headless: false});
   const page = await browser.newPage();
-  page.on('console', msg => console.log('PAGE LOG:', msg.text()));
+  page.on('console', msg => console.log(msg.text()));
+  
 
   console.log("The Process has started....");
   await page.setViewport({ width: 1920, height: 1080 });
@@ -57,19 +59,22 @@ async function run() {
     page.waitForSelector(".meeting")
   ]);
 
-  while(true) {
-    await page.evaluate(() => {
-      // Class "meeting" holds all the info in the first "span" tag
-      var x = document.getElementsByClassName("meeting");
-      for (var i = 0; i < x.length; i++) {
-        console.log(x[i].children[1].innerText);
-      }
-      return;
-    });
+  const days = 5;
+  const hours = 12;
+  var calendarData = new Array(days*hours);
+  for (var i = 0; i < days*hours; i++) {
+    calendarData[i] = new Array(3);
+    calendarData[i][0] = i%5;
+    calendarData[i][1] = Math.floor(i/5);
+    calendarData[i][2] = 0;
+  }
 
+  var res = true
+  while(res) {
+    calendarData = await processPage(page, calendarData, days, hours);
 
     // Button with title "next" continues. If hasAttribute "disabled" then stop
-    var res = await page.evaluate(() => {
+    res = await page.evaluate(() => {
       // Class "meeting" holds all the info in the first "span" tag
       var x = document.getElementsByClassName("next");
       if(x[0].hasAttribute("disabled")) {
@@ -77,19 +82,18 @@ async function run() {
       }
       return true;
     });
-    if(res == false) {
-      break;
-    }
 
     await Promise.all([
-      // page.waitForNavigation(waitOptions),
       page.click(".next"),
-      //page.waitForNavigation({ waitUntil: 'networkidle2' }),
-      await page.waitFor(1000)
+      page.waitFor(1000)
     ]);
   }
 
+  exportGraph(calendarData)
+
+
   await Promise.all([
+
     page.screenshot({ path: './public/images/4.jpg', type: 'jpeg', fullPage: true }),
     page.waitForNavigation({ waitUntil: 'networkidle2' }),
   ]);
@@ -100,10 +104,12 @@ async function run() {
   await browser.close();
 }
 
+run()
+/*
 app.use("/home", (req, res) => {
   res.send("Worked")
   run();
-})
+})*/
 
 
 app.listen(8080)
