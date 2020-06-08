@@ -8,7 +8,7 @@ async function timeout(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 var arr = [40243, 42877, 41189, 41190, 40244];
-for (let i = 0; i < 5; i++) {
+for (let i = 0; i < 20; i++) {
   // const element = array[i];
 
   (async () => {
