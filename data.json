@@ -1,0 +1,56 @@
+[
+  { "Subject": "ACC", "CRN": "40243" },
+  { "Subject": "ACC", "CRN": "42877" },
+  { "Subject": "ACC", "CRN": "41189" },
+  { "Subject": "ACC", "CRN": "41190" },
+  { "Subject": "ACC", "CRN": "40244" },
+  { "Subject": "ACC", "CRN": "40537" },
+  { "Subject": "ACC", "CRN": "41216" },
+  { "Subject": "ACC", "CRN": "40690" },
+  { "Subject": "ACC", "CRN": "41255" },
+  { "Subject": "ACC", "CRN": "40911" }
+][
+  ({ "Subject": "ACC", "CRN": "41069" },
+  { "Subject": "ACC", "CRN": "43499" },
+  { "Subject": "ACC", "CRN": "40668" },
+  { "Subject": "ACC", "CRN": "40245" },
+  { "Subject": "ACC", "CRN": "41217" },
+  { "Subject": "ACC", "CRN": "43023" },
+  { "Subject": "ACC", "CRN": "41074" },
+  { "Subject": "ACC", "CRN": "41348" },
+  { "Subject": "ACC", "CRN": "40246" },
+  { "Subject": "ACC", "CRN": "41963" })
+][
+  ({ "Subject": "ACC", "CRN": "40247" },
+  { "Subject": "ACC", "CRN": "40248" },
+  { "Subject": "ACC", "CRN": "40249" },
+  { "Subject": "ACC", "CRN": "40250" },
+  { "Subject": "ACC", "CRN": "40251" },
+  { "Subject": "ACC", "CRN": "42888" },
+  { "Subject": "ACC", "CRN": "41070" },
+  { "Subject": "ACC", "CRN": "41071" },
+  { "Subject": "ACC", "CRN": "42555" },
+  { "Subject": "ACC", "CRN": "40669" })
+][
+  ({ "Subject": "ACC", "CRN": "43111" },
+  { "Subject": "ACC", "CRN": "40643" },
+  { "Subject": "ACC", "CRN": "40254" },
+  { "Subject": "ACC", "CRN": "40255" },
+  { "Subject": "ACC", "CRN": "43731" },
+  { "Subject": "ACC", "CRN": "42876" },
+  { "Subject": "ACC", "CRN": "43200" },
+  { "Subject": "ACC", "CRN": "40782" },
+  { "Subject": "ACC", "CRN": "40256" },
+  { "Subject": "ACC", "CRN": "41349" })
+][
+  ({ "Subject": "ACC", "CRN": "40257" },
+  { "Subject": "ACC", "CRN": "41350" },
+  { "Subject": "ACC", "CRN": "41410" },
+  { "Subject": "ANTH", "CRN": "40854" },
+  { "Subject": "ANTH", "CRN": "40853" },
+  { "Subject": "ANTH", "CRN": "40855" },
+  { "Subject": "ANTH", "CRN": "40856" },
+  { "Subject": "ANTH", "CRN": "40857" },
+  { "Subject": "ANTH", "CRN": "40858" },
+  { "Subject": "ANTH", "CRN": "42916" })
+]
