@@ -39,8 +39,9 @@ async function timeout(ms) {
   page.keyboard.down("Enter");
   await timeout(5000);
   //   await page.screenshot({ path: `third.jpg`, fullPage: true });
+
   for (let c = 0; c < 5; c++) {
-    var data = await page.evaluate(() => {
+    var datas = await page.evaluate(() => {
       // var tr = document.querySelectorAll("tr");
       var content = document.getElementsByClassName("readonly");
       var titleLinkArray = [];
@@ -60,14 +61,33 @@ async function timeout(ms) {
       }
       return titleLinkArray;
     });
-    console.log(data);
+    // console.log(data);
 
     // await browser.close();
 
-    fs.appendFile("data.json", JSON.stringify(data), function(err) {
-      if (err) throw err;
-      console.log("Saved!");
+    // fs.readFile("data.json", function(err, data) {
+    //   var json = JSON.stringify;
+    // });
+    fs.readFile("data.json", "utf8", function(err, data) {
+      if (err) {
+        console.log(err);
+      }
+      var json = JSON.parse(data);
+      // console.log(json);
+      for (let x = 0; x < datas.length; x++) {
+        json.push(datas[x]);
+      }
+      // json.push({ name: "Kishan" });
+
+      fs.writeFile("data.json", JSON.stringify(json), err => {
+        if (err) reject(err);
+      });
     });
+
+    // fs.appendFile("data.json", JSON.stringify(data), function(err) {
+    //   if (err) throw err;
+    //   console.log("Saved!");
+    // });
 
     await page.click('button[title="Next"]');
 
