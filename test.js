@@ -3,6 +3,7 @@ const puppeteer = require("puppeteer");
 var app = express();
 var port = 8080;
 const fs = require("fs");
+const $ = require("jquery");
 
 async function timeout(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -42,21 +43,21 @@ async function timeout(ms) {
 
   for (let c = 0; c < 5; c++) {
     var datas = await page.evaluate(() => {
-      // var tr = document.querySelectorAll("tr");
       var content = document.getElementsByClassName("readonly");
       var titleLinkArray = [];
-      //   var str = $("#content").text();
-      //   // str= str.replace(/ +(?= )/g,'');
-      //    str = str.replace(/(\n)/gm,"").trim();
-
-      //   var updatedStr = str.split(" ").join(" ");
-      // console.log("Hello")
       var m = 0;
+      var titleNum = 0;
       for (var i = 1; i < content.length; i = i + 12) {
+        var title = document.getElementsByClassName("section-details-link");
         titleLinkArray[m] = {
+          Title: title[titleNum].innerText,
           Subject: content[i - 1].innerText,
-          CRN: content[i + 3].innerText
+          Hours: content[i + 2].innerText,
+          CRN: content[i + 3].innerText,
+          Meeting_Times: $(content[i + 5]).text(),
+          Campus: content[i + 6].innerText
         };
+        titleNum++;
         m++;
       }
       return titleLinkArray;

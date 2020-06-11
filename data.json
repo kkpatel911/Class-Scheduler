@@ -1,53 +1,403 @@
 [
   { "Test": "Test" },
-  { "Subject": "ACC", "CRN": "40243" },
-  { "Subject": "ACC", "CRN": "42877" },
-  { "Subject": "ACC", "CRN": "41189" },
-  { "Subject": "ACC", "CRN": "41190" },
-  { "Subject": "ACC", "CRN": "40244" },
-  { "Subject": "ACC", "CRN": "40537" },
-  { "Subject": "ACC", "CRN": "41216" },
-  { "Subject": "ACC", "CRN": "40690" },
-  { "Subject": "ACC", "CRN": "41255" },
-  { "Subject": "ACC", "CRN": "40911" },
-  { "Subject": "ACC", "CRN": "41069" },
-  { "Subject": "ACC", "CRN": "43499" },
-  { "Subject": "ACC", "CRN": "40668" },
-  { "Subject": "ACC", "CRN": "40245" },
-  { "Subject": "ACC", "CRN": "41217" },
-  { "Subject": "ACC", "CRN": "43023" },
-  { "Subject": "ACC", "CRN": "41074" },
-  { "Subject": "ACC", "CRN": "41348" },
-  { "Subject": "ACC", "CRN": "40246" },
-  { "Subject": "ACC", "CRN": "41963" },
-  { "Subject": "ACC", "CRN": "40247" },
-  { "Subject": "ACC", "CRN": "40248" },
-  { "Subject": "ACC", "CRN": "40249" },
-  { "Subject": "ACC", "CRN": "40250" },
-  { "Subject": "ACC", "CRN": "40251" },
-  { "Subject": "ACC", "CRN": "42888" },
-  { "Subject": "ACC", "CRN": "41070" },
-  { "Subject": "ACC", "CRN": "41071" },
-  { "Subject": "ACC", "CRN": "42555" },
-  { "Subject": "ACC", "CRN": "40669" },
-  { "Subject": "ACC", "CRN": "43111" },
-  { "Subject": "ACC", "CRN": "40643" },
-  { "Subject": "ACC", "CRN": "40254" },
-  { "Subject": "ACC", "CRN": "40255" },
-  { "Subject": "ACC", "CRN": "43731" },
-  { "Subject": "ACC", "CRN": "42876" },
-  { "Subject": "ACC", "CRN": "43200" },
-  { "Subject": "ACC", "CRN": "40782" },
-  { "Subject": "ACC", "CRN": "40256" },
-  { "Subject": "ACC", "CRN": "41349" },
-  { "Subject": "ACC", "CRN": "40257" },
-  { "Subject": "ACC", "CRN": "41350" },
-  { "Subject": "ACC", "CRN": "41410" },
-  { "Subject": "ANTH", "CRN": "40854" },
-  { "Subject": "ANTH", "CRN": "40853" },
-  { "Subject": "ANTH", "CRN": "40855" },
-  { "Subject": "ANTH", "CRN": "40856" },
-  { "Subject": "ANTH", "CRN": "40857" },
-  { "Subject": "ANTH", "CRN": "40858" },
-  { "Subject": "ANTH", "CRN": "42916" }
+  {
+    "Title": "Accounting and Financial Reporting: A User's Perspective",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40243",
+    "Meeting_Times": "NoneSMTWTFS -  Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UTC Online"
+  },
+  {
+    "Title": "Principles of Accounting I",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "42877",
+    "Meeting_Times": "WednesdaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Fletcher Hall Room: 210 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting I",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "41189",
+    "Meeting_Times": "Monday,Wednesday,FridaySMTWTFS10:00  AM - 10:50  AM Type: Class Building: Fletcher Hall Room: 105 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting I",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "41190",
+    "Meeting_Times": "TuesdaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Engr/Math/CPSC Room: 238 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting I",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40244",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS01:40  PM - 02:55  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting I",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40537",
+    "Meeting_Times": "Monday,Wednesday,FridaySMTWTFS12:00  PM - 12:50  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting I",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "41216",
+    "Meeting_Times": "FridaySMTWTFS01:00  PM - 03:00  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 09/04/2020 End Date: 09/04/2020FridaySMTWTFS01:00  PM - 03:00  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 09/18/2020 End Date: 09/18/2020FridaySMTWTFS01:00  PM - 03:00  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 10/09/2020 End Date: 10/09/2020FridaySMTWTFS01:00  PM - 03:00  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 10/30/2020 End Date: 10/30/2020NoneSMTWTFS -  Type: Class Building: Off Campus Room: HYBRID Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UTC Online"
+  },
+  {
+    "Title": "Principles of Accounting I",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40690",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS09:25  AM - 10:40  AM Type: Class Building: Fletcher Hall Room: 201 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting I",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "41255",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS08:00  AM - 09:15  AM Type: Class Building: Fletcher Hall Room: 105 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting I",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40911",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS01:40  PM - 02:55  PM Type: Class Building: Fletcher Hall Room: 210 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting I",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "41069",
+    "Meeting_Times": "ThursdaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Davenport Hall Room: 305 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting I",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "43499",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS10:50  AM - 12:05  PM Type: Class Building: Davenport Hall Room: 305 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting II",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40668",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS01:40  PM - 02:55  PM Type: Class Building: Fletcher Hall Room: 125 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting II",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40245",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS03:05  PM - 04:20  PM Type: Class Building: Fletcher Hall Room: 125 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting II",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "41217",
+    "Meeting_Times": "FridaySMTWTFS01:00  PM - 03:00  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 09/04/2020 End Date: 09/04/2020FridaySMTWTFS01:00  PM - 03:00  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 09/18/2020 End Date: 09/18/2020FridaySMTWTFS01:00  PM - 03:00  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 10/09/2020 End Date: 10/09/2020FridaySMTWTFS01:00  PM - 03:00  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 10/23/2020 End Date: 10/23/2020FridaySMTWTFS01:00  PM - 03:00  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 11/20/2020 End Date: 11/20/2020NoneSMTWTFS -  Type: Class Building: Off Campus Room: HYBRID Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UTC Online"
+  },
+  {
+    "Title": "Principles of Accounting II",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "43023",
+    "Meeting_Times": "MondaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Davenport Hall Room: 207 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting II",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "41074",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS09:25  AM - 10:40  AM Type: Class Building: Fletcher Hall Room: 105 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Principles of Accounting II",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "41348",
+    "Meeting_Times": "Monday,Wednesday,FridaySMTWTFS11:00  AM - 11:50  AM Type: Class Building: Fletcher Hall Room: 105 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Intermediate Accounting I",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40246",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS03:05  PM - 04:20  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Intermediate Accounting I",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "41963",
+    "Meeting_Times": "TuesdaySMTWTFS05:30  PM - 06:45  PM Type: Class Building: Fletcher Hall Room: 125 Start Date: 08/17/2020 End Date: 12/08/2020NoneSMTWTFS -  Type: Class Building: Off Campus Room: HYBRID Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UTC Online"
+  },
+  {
+    "Title": "Intermediate Accounting II",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40247",
+    "Meeting_Times": "Monday,WednesdaySMTWTFS03:25  PM - 04:40  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Managerial Cost Accounting",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40248",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS09:25  AM - 10:40  AM Type: Class Building: Fletcher Hall Room: 200 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Managerial Cost Accounting",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40249",
+    "Meeting_Times": "WednesdaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Fletcher Hall Room: 201 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Federal Tax Accounting",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40250",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS10:50  AM - 12:05  PM Type: Class Building: Fletcher Hall Room: 200 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Federal Tax Accounting",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40251",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS12:15  PM - 01:30  PM Type: Class Building: Fletcher Hall Room: 200 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Experiential Learning: Academic Internship Program",
+    "Subject": "ACC",
+    "Hours": "1 TO 3",
+    "CRN": "42888",
+    "Meeting_Times": "NoneSMTWTFS -  Type: Class Building: None Room: None Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Advanced Accounting",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "41070",
+    "Meeting_Times": "Monday,WednesdaySMTWTFS02:00  PM - 03:15  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Advanced Accounting",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "41071",
+    "Meeting_Times": "MondaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Fletcher Hall Room: 105 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Accounting Data Analytics",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "42555",
+    "Meeting_Times": "Monday,WednesdaySMTWTFS03:25  PM - 04:40  PM Type: Class Building: Fletcher Hall Room: 117 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Auditing",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40669",
+    "Meeting_Times": "WednesdaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Fletcher Hall Room: 121 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Governmental Accounting",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "43111",
+    "Meeting_Times": "NoneSMTWTFS -  Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UTC Online"
+  },
+  {
+    "Title": "Accounting Information Systems",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40643",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS03:05  PM - 04:20  PM Type: Class Building: Fletcher Hall Room: 111 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Accounting Information Systems",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40254",
+    "Meeting_Times": "ThursdaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Fletcher Hall Room: 111 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Taxation of Corporations and Partnerships",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40255",
+    "Meeting_Times": "TuesdaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Davenport Hall Room: 207 Start Date: 09/15/2020 End Date: 09/15/2020TuesdaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Davenport Hall Room: 207 Start Date: 10/20/2020 End Date: 10/20/2020TuesdaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Davenport Hall Room: 207 Start Date: 11/24/2020 End Date: 11/24/2020NoneSMTWTFS -  Type: Class Building: Off Campus Room: HYBRID Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UTC Online"
+  },
+  {
+    "Title": "Departmental Thesis",
+    "Subject": "ACC",
+    "Hours": "1 TO 3",
+    "CRN": "43731",
+    "Meeting_Times": "NoneSMTWTFS -  Type: Class Building: None Room: None Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Special Topics in Accounting",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "42876",
+    "Meeting_Times": "Monday,WednesdaySMTWTFS03:25  PM - 04:40  PM Type: Class Building: Fletcher Hall Room: 117 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Governmental and Nonprofit Accounting",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "43200",
+    "Meeting_Times": "NoneSMTWTFS -  Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UTC Online"
+  },
+  {
+    "Title": "Taxation of Corporations and Partnerships",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40782",
+    "Meeting_Times": "TuesdaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Davenport Hall Room: 207 Start Date: 09/15/2020 End Date: 09/15/2020TuesdaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Davenport Hall Room: 207 Start Date: 10/20/2020 End Date: 10/20/2020TuesdaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Davenport Hall Room: 207 Start Date: 11/24/2020 End Date: 11/24/2020NoneSMTWTFS -  Type: Class Building: Off Campus Room: HYBRID Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UTC Online"
+  },
+  {
+    "Title": "Advanced Managerial Accounting and Control",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40256",
+    "Meeting_Times": "MondaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Fletcher Hall Room: 201 Start Date: 08/17/2020 End Date: 10/05/2020NoneSMTWTFS -  Type: Class Building: Off Campus Room: HYBRID Start Date: 08/17/2020 End Date: 10/05/2020",
+    "Campus": "UTC Online"
+  },
+  {
+    "Title": "Advanced Managerial Accounting Lab",
+    "Subject": "ACC",
+    "Hours": "1",
+    "CRN": "41349",
+    "Meeting_Times": "Monday,WednesdaySMTWTFS08:05  PM - 09:15  PM Type: Class Building: Fletcher Hall Room: 201 Start Date: 08/17/2020 End Date: 10/05/2020NoneSMTWTFS -  Type: Class Building: Off Campus Room: HYBRID Start Date: 08/17/2020 End Date: 10/05/2020",
+    "Campus": "UTC Online"
+  },
+  {
+    "Title": "Financial Accounting Theory and Issues",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "40257",
+    "Meeting_Times": "Monday,WednesdaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Fletcher Hall Room: 200 Start Date: 10/06/2020 End Date: 11/30/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Financial Accounting Theory and Issues Lab",
+    "Subject": "ACC",
+    "Hours": "1",
+    "CRN": "41350",
+    "Meeting_Times": "Monday,WednesdaySMTWTFS08:05  PM - 09:15  PM Type: Class Building: Fletcher Hall Room: 200 Start Date: 10/06/2020 End Date: 11/30/2020NoneSMTWTFS -  Type: Class Building: Off Campus Room: HYBRID Start Date: 10/06/2020 End Date: 11/30/2020",
+    "Campus": "UTC Online"
+  },
+  {
+    "Title": "Accounting for Managers",
+    "Subject": "ACC",
+    "Hours": "3",
+    "CRN": "41410",
+    "Meeting_Times": "MondaySMTWTFS05:30  PM - 08:00  PM Type: Class Building: Fletcher Hall Room: 114 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Mysteries of the Human Journey",
+    "Subject": "ANTH",
+    "Hours": "3",
+    "CRN": "40854",
+    "Meeting_Times": "Monday,Wednesday,FridaySMTWTFS10:00  AM - 10:50  AM Type: Class Building: Derthick Lecture Hall Room: 201 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Mysteries of the Human Journey",
+    "Subject": "ANTH",
+    "Hours": "3",
+    "CRN": "40853",
+    "Meeting_Times": "Monday,WednesdaySMTWTFS02:00  PM - 03:15  PM Type: Class Building: Engr/Math/CPSC Room: 230 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Biological Anthropology",
+    "Subject": "ANTH",
+    "Hours": "4",
+    "CRN": "40855",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS12:15  PM - 01:30  PM Type: Class Building: Brock Hall Room: 201 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Biological Anthropology Laboratory",
+    "Subject": "ANTH",
+    "Hours": "0",
+    "CRN": "40856",
+    "Meeting_Times": "TuesdaySMTWTFS01:40  PM - 03:30  PM Type: Class Building: Brock Hall Room: 106 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Biological Anthropology Laboratory",
+    "Subject": "ANTH",
+    "Hours": "0",
+    "CRN": "40857",
+    "Meeting_Times": "ThursdaySMTWTFS01:40  PM - 03:30  PM Type: Class Building: Brock Hall Room: 106 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Biological Anthropology Laboratory",
+    "Subject": "ANTH",
+    "Hours": "0",
+    "CRN": "40858",
+    "Meeting_Times": "ThursdaySMTWTFS09:00  AM - 10:50  AM Type: Class Building: Brock Hall Room: 106 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  },
+  {
+    "Title": "Cultural Anthropology",
+    "Subject": "ANTH",
+    "Hours": "3",
+    "CRN": "42916",
+    "Meeting_Times": "Tuesday,ThursdaySMTWTFS12:15  PM - 01:30  PM Type: Class Building: Lupton Hall Room: 242 Start Date: 08/17/2020 End Date: 12/08/2020",
+    "Campus": "UT Chattanooga"
+  }
 ]
