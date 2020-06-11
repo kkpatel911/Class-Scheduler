@@ -55,10 +55,14 @@ async function timeout(ms) {
           Hours: content[i + 2].innerText,
           CRN: content[i + 3].innerText,
           Meeting_Days: $(content[i + 5]).find("li").filter(function( index ) {
-            console.log("Checking day");
             return this.getAttribute("aria-checked") == "true";
           }).text(),
-          Meeting_Times: $(content[i + 5]).text(),
+          Meeting_Times: $(content[i + 5]).children(".meeting:nth-child(1)")
+            .children("span:nth-child(2)").text(),
+          Meeting_Place: $(content[i + 5]).children(".meeting:nth-child(1)")
+            .children("span:nth-child(4)").text(),
+          Meeting_Room: $(content[i + 5]).children(".meeting:nth-child(1)")
+            .children("span:nth-child(5)").text(),
           Campus: content[i + 6].innerText
         };
         titleNum++;
