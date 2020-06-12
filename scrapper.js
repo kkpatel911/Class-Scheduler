@@ -9,8 +9,6 @@ async function timeout(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-// const element = array[i];
-
 (async () => {
   const browser = await puppeteer.launch({ headless: false });
 
@@ -24,7 +22,6 @@ async function timeout(ms) {
 
   page.click("#classSearchLink");
   await page.waitForNavigation({ waitUntil: "networkidle0" });
-  // await page.screenshot({ path: `second-${i}.png`, fullPage: true });
 
   page.evaluate(() => {
     return document
@@ -39,30 +36,53 @@ async function timeout(ms) {
   await timeout(5000);
   page.keyboard.down("Enter");
   await timeout(5000);
-  //   await page.screenshot({ path: `third.jpg`, fullPage: true });
 
-  for (let c = 0; c < 5; c++) {
+  // Shows 50 classes at a time
+  await page.select(".page-size-select", "50");
+  await timeout(6000);
+
+  // await page.screenshot({ path: `third.jpg`, fullPage: true });
+  for (let c = 0; c < 1; c++) {
     var datas = await page.evaluate(() => {
       var content = document.getElementsByClassName("readonly");
       var titleLinkArray = [];
       var m = 0;
       var titleNum = 0;
       for (var i = 1; i < content.length; i = i + 12) {
+        var meetingTimes = [];
+        meetingTimes.push(
+          $(content[i + 5])
+            .find("li")
+            .filter(function(index) {
+              return this.getAttribute("aria-checked") == "true";
+            })
+            .text()
+        );
+        meetingTimes.push(
+          $(content[i + 5])
+            .children(".meeting:nth-child(1)")
+            .children("span:nth-child(2)")
+            .text()
+        );
         var title = document.getElementsByClassName("section-details-link");
         titleLinkArray[m] = {
           Title: title[titleNum].innerText,
           Subject: content[i - 1].innerText,
           Hours: content[i + 2].innerText,
           CRN: content[i + 3].innerText,
-          Meeting_Days: $(content[i + 5]).find("li").filter(function( index ) {
-            return this.getAttribute("aria-checked") == "true";
-          }).text(),
-          Meeting_Times: $(content[i + 5]).children(".meeting:nth-child(1)")
-            .children("span:nth-child(2)").text(),
-          Meeting_Place: $(content[i + 5]).children(".meeting:nth-child(1)")
-            .children("span:nth-child(4)").text(),
-          Meeting_Room: $(content[i + 5]).children(".meeting:nth-child(1)")
-            .children("span:nth-child(5)").text(),
+          Meeting: meetingTimes,
+          /** 
+           * Meeting place & Meeting room is important information but not needed
+           * 
+           Meeting_Place: $(content[i + 5])
+             .children(".meeting:nth-child(1)")
+            .children("span:nth-child(4)")
+            .text(),
+           Meeting_Room: $(content[i + 5])
+             .children(".meeting:nth-child(1)")
+             .children("span:nth-child(5)")
+             .text(),
+          */
           Campus: content[i + 6].innerText
         };
         titleNum++;
