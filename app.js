@@ -10,10 +10,10 @@ app.use(express.static(__dirname + '/public'))
 app.use(bodyParser.urlencoded({ extended: false }));
 
 app.get('/', function(req,res) {
-    res.render('query');
+    res.render('configSearch');
 });
 
-app.post('/chart', function(req,res) {
+app.get('/chart', function(req,res) {
     var calendarData = []
     fs.readFile("data.json", "utf8", function(err, data) {
       if (err) {
