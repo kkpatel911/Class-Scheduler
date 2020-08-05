@@ -1,15 +1,30 @@
 html
   head
     //link(rel='stylesheet', href='/stylesheets/style.css')
-    script(type='text/javascript', src="http://code.jquery.com/jquery-1.9.1.min.js")
+    link(rel='stylesheet', href='stylesheets/style.css')
+    link(rel="stylesheet", href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css")
+    link(rel="stylesheet", href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css")
+    script(src='https://code.jquery.com/jquery-3.5.1.min.js')
+    script(src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js")
     script(type='text/javascript', src="http://code.highcharts.com/highcharts.js")
     script(type='text/javascript', src="http://code.highcharts.com/modules/exporting.js")
     script(type='text/javascript', src="https://code.highcharts.com/modules/heatmap.js")
     script(type='text/javascript', src="http://code.highcharts.com/modules/export-data.js")
     script(type='text/javascript', src="http://code.highcharts.com/modules/accessibility.js")
-    title Delivered Leads      
+    title Delivered Leads
   body
-    div#container(style="min-width: 500px; height: 500px; margin: 0 auto")
+    .container
+        .row
+            .col-6.align-self-center
+                h1.py-5.float-right.display-4 Moc Meetup
+            .col-6
+                img(src='images/logo.png')
+        .row.justify-content-center
+            .col-12
+                #container(style="min-width: 500px; height: 500px; margin: 0 auto")
+        .row.justify-content-center
+            .col-6
+                button.form-control(type="submit") Save as Club Scheduler Page
     script.
         function getPointCategoryName(point, dimension) {
             var series = point.series,
@@ -19,7 +34,6 @@ html
         }
 
         window.onload = function () {
-            console.log("HI!")
             Highcharts.chart('container', {
                 credits: {
                     enabled: false
@@ -31,7 +45,7 @@ html
                     plotBorderWidth: 1
                 },
                 title: {
-                    text: "Class heatmap by day"
+                    text: "Club Schedule"
                 },
                 
                 xAxis: {
