@@ -16,60 +16,58 @@ html
           img(src='images/logo.png')
       .row.py-3
         .col-12
-          h4.text-center.border-bottom.border-secondary.pb-3 The tool to find the class-free times for your target audience!
-      form(action='/chart', method='GET')
+          h4.text-center.border-bottom.border-secondary.pb-3 Find the class-free times for your target audience!
+      form(action='/chart', method='POST')
         // Days of the week to check
-        .row.py-3
-          .col-lg-2.col-md-3.col-sm-4.col-6
-            input#mondayCheck.form-check-input(type='checkbox', checked='')
-            label.form-check-label(for='genedCheck') Monday
-          .col-lg-2.col-md-3.col-sm-4.col-6
-            input#tuesdayCheck.form-check-input(type='checkbox', checked='')
-            label.form-check-label(for='tuesdayCheck') Tuesday
-          .col-lg-2.col-md-3.col-sm-4.col-6
-            input#wednesdayCheck.form-check-input(type='checkbox', checked='')
-            label.form-check-label(for='wednesdayCheck') Wednesday
-          .col-lg-2.col-md-3.col-sm-4.col-6
-            input#thursdayCheck.form-check-input(type='checkbox', checked='')
-            label.form-check-label(for='thursdayCheck') Thursday
-          .col-lg-2.col-md-3.col-sm-4.col-6
-            input#fridayCheck.form-check-input(type='checkbox', checked='')
-            label.form-check-label(for='fridayCheck') Friday
-          .col-lg-2.col-md-3.col-sm-4.col-6
-            input#saturdayCheck.form-check-input(type='checkbox')
-            label.form-check-label(for='saturdayCheck') Saturday
-          .col-lg-2.col-md-3.col-sm-4.col-6
-            input#sundayCheck.form-check-input(type='checkbox')
-            label.form-check-label(for='sundayCheck') Sunday
+        //- .row.py-3
+        //-   .col-lg-2.col-md-3.col-sm-4.col-6
+        //-     input#mondayCheck.form-check-input(type='checkbox', checked='', name="isMonday")
+        //-     label.form-check-label(for='genedCheck') Monday
+        //-   .col-lg-2.col-md-3.col-sm-4.col-6
+        //-     input#tuesdayCheck.form-check-input(type='checkbox', checked='', name="isTuesday")
+        //-     label.form-check-label(for='tuesdayCheck') Tuesday
+        //-   .col-lg-2.col-md-3.col-sm-4.col-6
+        //-     input#wednesdayCheck.form-check-input(type='checkbox', checked='', name="isWednesday")
+        //-     label.form-check-label(for='wednesdayCheck') Wednesday
+        //-   .col-lg-2.col-md-3.col-sm-4.col-6
+        //-     input#thursdayCheck.form-check-input(type='checkbox', checked='', name="isThursday")
+        //-     label.form-check-label(for='thursdayCheck') Thursday
+        //-   .col-lg-2.col-md-3.col-sm-4.col-6
+        //-     input#fridayCheck.form-check-input(type='checkbox', checked='', name="isFriday")
+        //-     label.form-check-label(for='fridayCheck') Friday
+        //-   .col-lg-2.col-md-3.col-sm-4.col-6
+        //-     input#saturdayCheck.form-check-input(type='checkbox', name="isSaturday")
+        //-     label.form-check-label(for='saturdayCheck') Saturday
+        //-   .col-lg-2.col-md-3.col-sm-4.col-6
+        //-     input#sundayCheck.form-check-input(type='checkbox', name="isSunday")
+        //-     label.form-check-label(for='sundayCheck') Sunday
+        // Onchange use an ajax call to update the class list below, which the user can then dynamically add to
+        .row.pt-3
+          .col-md-3.col-5
+            select#inputState.form-control(name="major1")
+              option(selected='') Use a Preset...
+              option Computer Science Freshman
+              option Computer Science General
+              option Business Freshman
+              option Business General
+          .col-md-2.col-4.align-self-center.pl-5
+            input#genedCheck.form-check-input(type='checkbox', name="geneds")
+            label.form-check-label(for='genedCheck') Geneds
+        
         // Majors & Years (dynamically add readonly input fields copying values using add button)
         .row.pt-3
-          .col-md-3.col-10.px-0
-            select#inputState.form-control
+          .col-md-3.col-5
+            select#inputState.form-control(name="major1")
               option(selected='') Choose...
               option ART
               option BUS
               option CPSC
               option ENGR
+          .col-md-3.col-5.pr-0
+            input#inputClassNumber.form-control(name="classNumber1")
           .col-md-1.col-2.pl-0
             button.btn-secondary.form-control
               i.fa.fa-plus
-          .col-md-2.col-sm-4.col-6
-            input#selectorFreshmanCheck.form-check-input(type='checkbox')
-            label.form-check-label(for='selectorFreshmanCheck') Freshman
-          .col-md-2.col-sm-4.col-6
-            input#selectorSophomoreCheck.form-check-input(type='checkbox')
-            label.form-check-label(for='selectorSophomoreCheck') Sophomore
-          .col-md-2.col-sm-4.col-6
-            input#selectorJuniorCheck.form-check-input(type='checkbox')
-            label.form-check-label(for='selectorJuniorCheck') Junior
-          .col-md-2.col-sm-4.col-6
-            input#selectorSeniorCheck.form-check-input(type='checkbox')
-            label.form-check-label(for='selectorSeniorCheck') Senior
-        // Geneds
-        .row.py-3
-          .col-12
-            input#genedCheck.form-check-input(type='checkbox')
-            label.form-check-label(for='genedCheck') Geneds
         // Submit!
         .row.py-3.border-bottom.border-secondary
-          input.btn-primary.form-control.col-2.offset-10(type='submit', value='Search')
+          input.btn-primary.form-control.col-md-2.offset-md-10.col-3.offset-9(type='submit', value='Search')

@@ -5,6 +5,9 @@ var port = 8080;
 const fs = require("fs");
 const $ = require("jquery");
 
+// TODO: Also put class start and end in data
+// TODO: Add keyword for major and run for every type of major
+
 async function timeout(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
