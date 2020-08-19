@@ -1,0 +1,57 @@
+[
+	{
+		"Title": "Digital Logic and Introduction to Computer Hardware",
+		"Subject": "CPEN",
+		"Hours": "4",
+		"CRN": "40489",
+		"Meeting": [
+			"TTT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Digital Logic and Introduction to Computer Hardware",
+		"Subject": "CPEN",
+		"Hours": "4",
+		"CRN": "42033",
+		"Meeting": [
+			"TTW",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Computer System Organization and Assembly Language Programming",
+		"Subject": "CPEN",
+		"Hours": "4",
+		"CRN": "41437",
+		"Meeting": [
+			"TMW",
+			"03:00  PM - 04:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Interdisciplinary Design Project I",
+		"Subject": "CPEN",
+		"Hours": "3",
+		"CRN": "41392",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Computer Architecture",
+		"Subject": "CPEN",
+		"Hours": "3",
+		"CRN": "40490",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 03:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

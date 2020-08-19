@@ -1,0 +1,57 @@
+[
+	{
+		"Title": "Introduction to Astronomy - The Solar System",
+		"Subject": "ASTR",
+		"Hours": "3",
+		"CRN": "43500",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Astronomy - Stars to Galaxies",
+		"Subject": "ASTR",
+		"Hours": "3",
+		"CRN": "40163",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Astronomy Laboratory - Stars to Galaxies",
+		"Subject": "ASTR",
+		"Hours": "1",
+		"CRN": "40164",
+		"Meeting": [
+			"T",
+			"05:00  PM - 06:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Astronomy Laboratory - Stars to Galaxies",
+		"Subject": "ASTR",
+		"Hours": "1",
+		"CRN": "40165",
+		"Meeting": [
+			"T",
+			"05:00  PM - 06:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Astronomy Laboratory - Stars to Galaxies",
+		"Subject": "ASTR",
+		"Hours": "1",
+		"CRN": "40552",
+		"Meeting": [
+			"T",
+			"03:00  PM - 04:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"Title": "Nutrition",
+		"Subject": "NUTR",
+		"Hours": "3",
+		"CRN": "42981",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Nutrition",
+		"Subject": "NUTR",
+		"Hours": "3",
+		"CRN": "41641",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Food and Culture",
+		"Subject": "NUTR",
+		"Hours": "3",
+		"CRN": "41642",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Life Cycle Nutrition",
+		"Subject": "NUTR",
+		"Hours": "3",
+		"CRN": "41643",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Sports Nutrition",
+		"Subject": "NUTR",
+		"Hours": "3",
+		"CRN": "41644",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Nutrition Education: Principles and Practice",
+		"Subject": "NUTR",
+		"Hours": "3",
+		"CRN": "43711",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	}
+]

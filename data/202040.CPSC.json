@@ -1,0 +1,860 @@
+[
+	{
+		"Title": "Introduction to Computing",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40477",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Introduction to Computing",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40478",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Introduction to Computing",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40479",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Introduction to Computing",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40884",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Introduction to Computing",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40885",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Introduction to Computing",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "41097",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Fundamentals of Computer Science",
+		"Subject": "CPSC",
+		"Hours": "4",
+		"CRN": "40895",
+		"Meeting": [
+			"W",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Fundamentals of Computer Science",
+		"Subject": "CPSC",
+		"Hours": "4",
+		"CRN": "40590",
+		"Meeting": [
+			"MWFT",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Fundamentals of Computer Science",
+		"Subject": "CPSC",
+		"Hours": "4",
+		"CRN": "40480",
+		"Meeting": [
+			"WTT",
+			"01:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Fundamentals of Computer Science",
+		"Subject": "CPSC",
+		"Hours": "4",
+		"CRN": "40561",
+		"Meeting": [
+			"MWFM",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Fundamentals of Computer Science",
+		"Subject": "CPSC",
+		"Hours": "4",
+		"CRN": "42219",
+		"Meeting": [
+			"MW",
+			"05:30  PM - 07:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Fundamentals of Computer Science",
+		"Subject": "CPSC",
+		"Hours": "4",
+		"CRN": "41502",
+		"Meeting": [
+			"MWFT",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Data Structures and Program Design",
+		"Subject": "CPSC",
+		"Hours": "4",
+		"CRN": "40481",
+		"Meeting": [
+			"MWFT",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Data Structures and Program Design",
+		"Subject": "CPSC",
+		"Hours": "4",
+		"CRN": "42220",
+		"Meeting": [
+			"TMW",
+			"10:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Data Structures and Program Design",
+		"Subject": "CPSC",
+		"Hours": "4",
+		"CRN": "41227",
+		"Meeting": [
+			"TMWF",
+			"10:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Software Design and Development",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40897",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Software Design and Development",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40675",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Operating Systems",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40813",
+		"Meeting": [
+			"TTT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Introduction to Operating Systems",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40676",
+		"Meeting": [
+			"TTT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Algorithm Analysis and Advanced Data Structures",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40482",
+		"Meeting": [
+			"MW",
+			"12:00  PM - 01:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "File and Database Processing",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40483",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "File and Database Processing",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40961",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Information Security and Assurance",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "41436",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Ethical and Social Issues in Computing",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40484",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Ethical and Social Issues in Computing",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40708",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Computer Science Internship",
+		"Subject": "CPSC",
+		"Hours": "1 TO 3",
+		"CRN": "43269",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Survey of Programming Languages",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "43270",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Programming Languages for Advanced Data",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "42589",
+		"Meeting": [
+			"MW",
+			"06:00  PM - 07:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Databases and Security",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "41424",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Computer Networks",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40485",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "System Vulnerability Analysis and Auditing",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40962",
+		"Meeting": [
+			"MW",
+			"12:00  PM - 01:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Software Engineering",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40486",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Software Engineering",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "43033",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Senior Capstone Project",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40886",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "CPSC",
+		"Hours": "1 TO 3",
+		"CRN": "43733",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "CPSC",
+		"Hours": "1 TO 3",
+		"CRN": "43761",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "CPSC",
+		"Hours": "1 TO 3",
+		"CRN": "43762",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "CPSC",
+		"Hours": "1 TO 3",
+		"CRN": "43763",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Fundamentals of Computer Science",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40700",
+		"Meeting": [
+			"W",
+			"07:00  PM - 09:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Fundamentals of Computer Science",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "43085",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Computing Systems",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "43888",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Theory of Computer Programming Languages",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40487",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Programming Languages for Business Data Analytics",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "43889",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Programming Languages for Advanced Data Analytics",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "42590",
+		"Meeting": [
+			"MW",
+			"06:00  PM - 07:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Data Visualization for Business",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "43890",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Design and Analysis of Computer Algorithms",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40488",
+		"Meeting": [
+			"TT",
+			"05:30  PM - 06:45  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Database and Database Security",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "41445",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Computer Networks",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "41444",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "System Vulnerability Analysis and Auditing",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "40963",
+		"Meeting": [
+			"MW",
+			"12:00  PM - 01:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Computer Forensics",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "41099",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Project",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "41060",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Project",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "43109",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Project",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "43955",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Project",
+		"Subject": "CPSC",
+		"Hours": "3",
+		"CRN": "44006",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Graduate Internship in Computer Science",
+		"Subject": "CPSC",
+		"Hours": "1",
+		"CRN": "43125",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "CPSC",
+		"Hours": "1 TO 9",
+		"CRN": "42858",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "CPSC",
+		"Hours": "1 TO 9",
+		"CRN": "43078",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "CPSC",
+		"Hours": "1 TO 9",
+		"CRN": "43084",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "",
+		"Hours": "03",
+		"CRN": "1 TO 9",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "",
+		"Hours": "5999R",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "",
+		"Hours": "5999R",
+		"CRN": "01",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "",
+		"Hours": "5999R",
+		"CRN": "02",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "",
+		"Hours": "5999R",
+		"CRN": "05",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "High Performance Scientific Computing",
+		"Subject": "",
+		"Hours": "7110",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Power Electronics and Drives",
+		"Subject": "",
+		"Hours": "7910R",
+		"CRN": "01",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Special Topics in Computer Science and Engineering",
+		"Subject": "",
+		"Hours": "7910R",
+		"CRN": "02",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Doctoral Research",
+		"Subject": "",
+		"Hours": "7950R",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Doctoral Research",
+		"Subject": "",
+		"Hours": "7950R",
+		"CRN": "01",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Doctoral Research",
+		"Subject": "",
+		"Hours": "7950R",
+		"CRN": "02",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Doctoral Research",
+		"Subject": "",
+		"Hours": "7950R",
+		"CRN": "03",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Dissertation",
+		"Subject": "",
+		"Hours": "7999R",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Dissertation",
+		"Subject": "",
+		"Hours": "7999R",
+		"CRN": "01",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Dissertation",
+		"Subject": "",
+		"Hours": "7999R",
+		"CRN": "02",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Dissertation",
+		"Subject": "",
+		"Hours": "7999R",
+		"CRN": "03",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Dissertation",
+		"Subject": "",
+		"Hours": "7999R",
+		"CRN": "04",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Dissertation",
+		"Subject": "",
+		"Hours": "7999R",
+		"CRN": "05",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Dissertation",
+		"Subject": "",
+		"Hours": "7999R",
+		"CRN": "06",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Dissertation",
+		"Subject": "",
+		"Hours": "7999R",
+		"CRN": "07",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	}
+]

@@ -1,0 +1,222 @@
+[
+	{
+		"Title": "Thermodynamics",
+		"Subject": "ENCH",
+		"Hours": "3",
+		"CRN": "41018",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Control Systems",
+		"Subject": "ENCH",
+		"Hours": "3",
+		"CRN": "42685",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Control Systems Laboratory",
+		"Subject": "ENCH",
+		"Hours": "1",
+		"CRN": "42686",
+		"Meeting": [
+			"T",
+			"06:30  PM - 09:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Chemical Process Principles",
+		"Subject": "ENCH",
+		"Hours": "3",
+		"CRN": "40123",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Unit Operations Laboratory",
+		"Subject": "ENCH",
+		"Hours": "1",
+		"CRN": "40604",
+		"Meeting": [
+			"T",
+			"12:15  PM - 03:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Sustainability Engineering",
+		"Subject": "ENCH",
+		"Hours": "3",
+		"CRN": "43540",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Introduction to Chemical Engineering Design",
+		"Subject": "ENCH",
+		"Hours": "3",
+		"CRN": "41023",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 03:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Fractional Distillation Separation Processes",
+		"Subject": "ENCH",
+		"Hours": "3",
+		"CRN": "40124",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Chemical Process Operations",
+		"Subject": "ENCH",
+		"Hours": "3",
+		"CRN": "40125",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Chemical Processes Laboratory",
+		"Subject": "ENCH",
+		"Hours": "2",
+		"CRN": "40605",
+		"Meeting": [
+			"T",
+			"12:15  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "ENCH",
+		"Hours": "1 TO 3",
+		"CRN": "43736",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "ENCH",
+		"Hours": "1 TO 9",
+		"CRN": "43172",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Group Studies",
+		"Subject": "ENCH",
+		"Hours": "1",
+		"CRN": "42774",
+		"Meeting": [
+			"TT",
+			"05:00  PM - 06:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Group Studies",
+		"Subject": "ENCH",
+		"Hours": "1 TO 9",
+		"CRN": "43541",
+		"Meeting": [
+			"TT",
+			"05:00  PM - 06:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mass Transfer Operations",
+		"Subject": "ENCH",
+		"Hours": "3",
+		"CRN": "43985",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Engineering Project",
+		"Subject": "ENCH",
+		"Hours": "3",
+		"CRN": "42009",
+		"Meeting": [
+			"W",
+			"03:00  PM - 05:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Special Topics in Engineering: Molecular Dynamics Simulations",
+		"Subject": "ENCH",
+		"Hours": "1 TO 4",
+		"CRN": "43964",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "ENCH",
+		"Hours": "1 TO 6",
+		"CRN": "43107",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Doctoral Research",
+		"Subject": "ENCH",
+		"Hours": "6",
+		"CRN": "43986",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Doctoral Research",
+		"Subject": "ENCH",
+		"Hours": "3",
+		"CRN": "44003",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

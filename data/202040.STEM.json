@@ -1,0 +1,101 @@
+[
+	{
+		"Title": "Step One/Step Two: Inquiry-Based Mathematics and Science Teaching",
+		"Subject": "STEM",
+		"Hours": "2",
+		"CRN": "40806",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Step One/Step Two: Inquiry-Based Mathematics and Science Teaching",
+		"Subject": "STEM",
+		"Hours": "2",
+		"CRN": "40830",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Knowing and Learning",
+		"Subject": "STEM",
+		"Hours": "3",
+		"CRN": "40807",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Classroom Interactions",
+		"Subject": "STEM",
+		"Hours": "3",
+		"CRN": "40808",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Perspectives on Science and Mathematics",
+		"Subject": "STEM",
+		"Hours": "3",
+		"CRN": "41831",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research Methods in STEM",
+		"Subject": "STEM",
+		"Hours": "3",
+		"CRN": "40809",
+		"Meeting": [
+			"WT",
+			"09:00  AM - 11:00  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Project-Based Instruction",
+		"Subject": "STEM",
+		"Hours": "3",
+		"CRN": "40810",
+		"Meeting": [
+			"T",
+			"05:00  PM - 07:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Apprentice Teaching",
+		"Subject": "STEM",
+		"Hours": "6 OR 12",
+		"CRN": "41808",
+		"Meeting": [
+			"T",
+			"05:00  PM - 07:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Group Studies",
+		"Subject": "STEM",
+		"Hours": "1",
+		"CRN": "43598",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

@@ -1,0 +1,1344 @@
+[
+	{
+		"Title": "Chattanooga Singers",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42297",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Chattanooga Singers",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "42298",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Chamber Singers",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42299",
+		"Meeting": [
+			"MWTT",
+			"12:00  PM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Chamber Singers",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "42301",
+		"Meeting": [
+			"MWTT",
+			"12:00  PM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Women's Chorale",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42303",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Women's Chorale",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "42302",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Choral Union",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42710",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Marching Band",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43026",
+		"Meeting": [
+			"MWF",
+			"02:00  PM - 04:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Marching Band",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "43027",
+		"Meeting": [
+			"MWF",
+			"02:00  PM - 04:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "University Orchestra",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42314",
+		"Meeting": [
+			"T",
+			"07:00  PM - 09:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "University Orchestra",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "42315",
+		"Meeting": [
+			"T",
+			"07:00  PM - 09:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Percussion Ensemble",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42316",
+		"Meeting": [
+			"MWF",
+			"01:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Violin Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42324",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "String Bass Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42326",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Guitar Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42327",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Voice Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42328",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Voice Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "44024",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Flute Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42329",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Clarinet Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42330",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Bassoon Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43907",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Trumpet Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43571",
+		"Meeting": [
+			"F",
+			"01:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Horn Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43874",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Trombone Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42339",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Percussion Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42342",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Seminar",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "42343",
+		"Meeting": [
+			"T",
+			"02:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "40424",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "40425",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "40426",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "40427",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "41101",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "41100",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "41960",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 03:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "42987",
+		"Meeting": [
+			"M",
+			"06:00  PM - 08:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "43572",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "43904",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "43905",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "43906",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "43934",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Class Piano for Non-Music Majors",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "41629",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Guitar Class",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "41102",
+		"Meeting": [
+			"T",
+			"05:00  PM - 07:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Guitar Class",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43948",
+		"Meeting": [
+			"T",
+			"05:00  PM - 07:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Piano Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43573",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Jazz Piano Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42347",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Violin Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "44023",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Guitar Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42349",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Guitar Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43979",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Voice Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42350",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Voice Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42908",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Voice Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42351",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Flute Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42352",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Clarinet Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42354",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Saxophone Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42355",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Trumpet Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43574",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Horn Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42357",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Trombone Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42359",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Euphonium Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43575",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Tuba Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43576",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Percussion Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42361",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Music Therapy",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "43834",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "The First Year Experience",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43838",
+		"Meeting": [
+			"F",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Seminar",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "42362",
+		"Meeting": [
+			"T",
+			"02:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Ensemble",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43030",
+		"Meeting": [
+			"MW",
+			"04:30  PM - 05:45  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Ensemble",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "42713",
+		"Meeting": [
+			"MW",
+			"04:30  PM - 05:45  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Pep Band I",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42363",
+		"Meeting": [
+			"T",
+			"07:00  PM - 09:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Pep Band I",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "42364",
+		"Meeting": [
+			"T",
+			"07:00  PM - 09:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Pep Band II",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43577",
+		"Meeting": [
+			"T",
+			"07:00  PM - 09:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Pep Band II",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "42366",
+		"Meeting": [
+			"T",
+			"07:00  PM - 09:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Fundamentals of Music Composition",
+		"Subject": "MUS",
+		"Hours": "2",
+		"CRN": "42367",
+		"Meeting": [
+			"MW",
+			"01:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Woodwind Methods",
+		"Subject": "MUS",
+		"Hours": "2",
+		"CRN": "43424",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Piano Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42369",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Jazz Piano Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42370",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Violin Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43005",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Viola Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43036",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Voice Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42379",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Voice Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42382",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Flute Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42385",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Clarinet Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42388",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Saxophone Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42391",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Bassoon Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43908",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Trumpet Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42393",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Horn Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42394",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Trombone Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42396",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Euphonium Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42395",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Tuba Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42397",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Percussion Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42399",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Musicianship III",
+		"Subject": "MUS",
+		"Hours": "2",
+		"CRN": "41631",
+		"Meeting": [
+			"MW",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Musicianship Lab III",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "41632",
+		"Meeting": [
+			"TT",
+			"08:15  AM - 09:15  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Aural Skills III",
+		"Subject": "MUS",
+		"Hours": "2",
+		"CRN": "41633",
+		"Meeting": [
+			"MW",
+			"08:00  AM - 08:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Music Therapy Clinical Skills",
+		"Subject": "MUS",
+		"Hours": "2",
+		"CRN": "43578",
+		"Meeting": [
+			"TT",
+			"09:40  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Seminar",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "42401",
+		"Meeting": [
+			"T",
+			"02:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Basic Conducting",
+		"Subject": "MUS",
+		"Hours": "2",
+		"CRN": "41455",
+		"Meeting": [
+			"MW",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Composition I",
+		"Subject": "MUS",
+		"Hours": "1 TO 4",
+		"CRN": "42403",
+		"Meeting": [
+			"MW",
+			"01:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Musics of the World",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "40429",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "America's Musical Heritage",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "43688",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "History of Music I",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "40430",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Survey of Jazz",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "40431",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Band and Orchestra Organization, Management, and Arranging",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "41332",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Ensemble Pedagogy and Rehearsal Techniques I",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43425",
+		"Meeting": [
+			"MW",
+			"12:00  PM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Survey of Piano Repertoire I",
+		"Subject": "MUS",
+		"Hours": "2",
+		"CRN": "43640",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Vocal Pedagogy",
+		"Subject": "MUS",
+		"Hours": "2",
+		"CRN": "43426",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Choral Techniques",
+		"Subject": "MUS",
+		"Hours": "2",
+		"CRN": "41635",
+		"Meeting": [
+			"MW",
+			"01:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Life Skills for the Musician",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "42593",
+		"Meeting": [
+			"F",
+			"11:00  AM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Voice Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42408",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Voice Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42409",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Flute Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43579",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Trumpet Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42412",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Horn Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42659",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Euphonium Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43580",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Tuba Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42414",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Percussion Instruction",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "42415",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Music Therapy Applications",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "43581",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Music Therapy Practicum",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "43035",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Junior Recital",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "43823",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Music Practicum",
+		"Subject": "MUS",
+		"Hours": "1",
+		"CRN": "41871",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Seminar",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "42419",
+		"Meeting": [
+			"T",
+			"02:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Music Therapy Measurement and Research",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "43582",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Senior Recital",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "41638",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Senior Recital",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "41235",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Senior Recital",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "42848",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Senior Recital",
+		"Subject": "MUS",
+		"Hours": "0",
+		"CRN": "43875",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Music Internship",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "42423",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Art Administration",
+		"Subject": "MUS",
+		"Hours": "3",
+		"CRN": "44009",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

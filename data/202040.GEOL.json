@@ -1,0 +1,387 @@
+[
+	{
+		"Title": "Geology of the National Parks",
+		"Subject": "GEOL",
+		"Hours": "3",
+		"CRN": "42166",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Physical Geology",
+		"Subject": "GEOL",
+		"Hours": "3",
+		"CRN": "40400",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Physical Geology",
+		"Subject": "GEOL",
+		"Hours": "3",
+		"CRN": "41127",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Physical Geology",
+		"Subject": "GEOL",
+		"Hours": "3",
+		"CRN": "43917",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Physical Geology",
+		"Subject": "GEOL",
+		"Hours": "3",
+		"CRN": "41855",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Physical Geology Laboratory",
+		"Subject": "GEOL",
+		"Hours": "1",
+		"CRN": "40402",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Physical Geology Laboratory",
+		"Subject": "GEOL",
+		"Hours": "1",
+		"CRN": "40403",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Physical Geology Laboratory",
+		"Subject": "GEOL",
+		"Hours": "1",
+		"CRN": "40404",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Physical Geology Laboratory",
+		"Subject": "GEOL",
+		"Hours": "1",
+		"CRN": "40581",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Physical Geology Laboratory",
+		"Subject": "GEOL",
+		"Hours": "1",
+		"CRN": "40405",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Physical Geology Laboratory",
+		"Subject": "GEOL",
+		"Hours": "1",
+		"CRN": "40406",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Physical Geology Laboratory",
+		"Subject": "GEOL",
+		"Hours": "1",
+		"CRN": "40407",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Physical Geology Laboratory",
+		"Subject": "GEOL",
+		"Hours": "1",
+		"CRN": "42168",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Historical Geology",
+		"Subject": "GEOL",
+		"Hours": "3",
+		"CRN": "40544",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Historical Geology Laboratory",
+		"Subject": "GEOL",
+		"Hours": "1",
+		"CRN": "40933",
+		"Meeting": [
+			"FF",
+			"02:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Current Geological Perspectives of Earth",
+		"Subject": "GEOL",
+		"Hours": "3",
+		"CRN": "42169",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Environmental Geology",
+		"Subject": "GEOL",
+		"Hours": "4",
+		"CRN": "43344",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Environmental Geology Laboratory",
+		"Subject": "GEOL",
+		"Hours": "0",
+		"CRN": "43345",
+		"Meeting": [
+			"T",
+			"03:05  PM - 04:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introductory Geographic Information Systems and Remote Sensing",
+		"Subject": "GEOL",
+		"Hours": "4",
+		"CRN": "42552",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introductory Geographic Information Systems and Remote Sensing Laboratory",
+		"Subject": "GEOL",
+		"Hours": "0",
+		"CRN": "42553",
+		"Meeting": [
+			"W",
+			"02:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Oceanography",
+		"Subject": "GEOL",
+		"Hours": "3",
+		"CRN": "40408",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Oceanography Laboratory",
+		"Subject": "GEOL",
+		"Hours": "1",
+		"CRN": "40409",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mineralogy",
+		"Subject": "GEOL",
+		"Hours": "4",
+		"CRN": "40410",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mineralogy Laboratory",
+		"Subject": "GEOL",
+		"Hours": "0",
+		"CRN": "40411",
+		"Meeting": [
+			"M",
+			"01:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mineralogy Laboratory",
+		"Subject": "GEOL",
+		"Hours": "0",
+		"CRN": "43347",
+		"Meeting": [
+			"M",
+			"03:00  PM - 04:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "X-Ray Diffraction Methods",
+		"Subject": "GEOL",
+		"Hours": "1",
+		"CRN": "41816",
+		"Meeting": [
+			"T",
+			"12:15  PM - 01:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Hydrology",
+		"Subject": "GEOL",
+		"Hours": "3",
+		"CRN": "40412",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Structural Geology",
+		"Subject": "GEOL",
+		"Hours": "4",
+		"CRN": "43348",
+		"Meeting": [
+			"TTTT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Structural Geology Laboratory",
+		"Subject": "GEOL",
+		"Hours": "0",
+		"CRN": "43349",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 03:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Geology Seminar",
+		"Subject": "GEOL",
+		"Hours": "1",
+		"CRN": "41128",
+		"Meeting": [
+			"W",
+			"04:00  PM - 04:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "GEOL",
+		"Hours": "1 TO 9",
+		"CRN": "43350",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "GEOL",
+		"Hours": "1 TO 9",
+		"CRN": "43103",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Hydrology Lab",
+		"Subject": "GEOL",
+		"Hours": "1",
+		"CRN": "43353",
+		"Meeting": [
+			"W",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Life in the Universe",
+		"Subject": "GEOL",
+		"Hours": "3",
+		"CRN": "43351",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Hydrology",
+		"Subject": "GEOL",
+		"Hours": "3",
+		"CRN": "43354",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

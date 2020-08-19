@@ -1,0 +1,772 @@
+[
+	{
+		"Title": "Introduction to Contemporary Art Practices",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "41084",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Studio Processes",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "40333",
+		"Meeting": [
+			"MW",
+			"08:00  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Studio Processes",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "40334",
+		"Meeting": [
+			"TT",
+			"08:00  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Studio Processes",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "40335",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Studio Processes",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "40336",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Studio Processes",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "42122",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 05:45  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Studio Processes",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "42123",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n11:00 AM - 01:40 PM Type: Class Building: Bretske Hall Room: 103 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Observational Drawing",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n08:00 AM - 10:40 AM Type: Class Building: Bretske Hall Room: 208 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Observational Drawing",
+		"Subject": "",
+		"Hours": "01",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n08:00 AM - 10:40 AM Type: Class Building: Bretske Hall Room: 208 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Observational Drawing",
+		"Subject": "",
+		"Hours": "02",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n02:00 PM - 04:40 PM Type: Class Building: Bretske Hall Room: 208 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Observational Drawing",
+		"Subject": "",
+		"Hours": "03",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n11:00 AM - 01:40 PM Type: Class Building: Bretske Hall Room: 208 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Observational Drawing",
+		"Subject": "",
+		"Hours": "04",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n12:15 PM - 02:55 PM Type: Class Building: Bretske Hall Room: 208 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Observational Drawing",
+		"Subject": "",
+		"Hours": "05",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n03:05 PM - 05:45 PM Type: Class Building: Bretske Hall Room: 208 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Introduction to Art",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Introduction to Art",
+		"Subject": "",
+		"Hours": "01",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Introduction to Art",
+		"Subject": "",
+		"Hours": "02",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Introduction to Art",
+		"Subject": "",
+		"Hours": "03",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Introduction to Art",
+		"Subject": "",
+		"Hours": "04",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Drawing Research and Ideation",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n08:00 AM - 10:40 AM Type: Class Building: Fine Arts Center Room: 411 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Drawing Research and Ideation",
+		"Subject": "",
+		"Hours": "01",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n10:50 AM - 01:30 PM Type: Class Building: Fine Arts Center Room: 411 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Painting I",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n11:00 AM - 01:40 PM Type: Class Building: Bretske Hall Room: 206 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Painting I",
+		"Subject": "",
+		"Hours": "02",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n08:00 AM - 10:40 AM Type: Class Building: Bretske Hall Room: 206 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Painting I",
+		"Subject": "",
+		"Hours": "03",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n02:00 PM - 04:40 PM Type: Class Building: Bretske Hall Room: 206 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "The History of Western Art from Prehistoric Through Medieval",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n02:00 PM - 03:15 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "The History of Western Art from Prehistoric Through Medieval",
+		"Subject": "",
+		"Hours": "01",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n10:50 AM - 12:05 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Sculpture I",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Sculpture I",
+		"Subject": "",
+		"Hours": "2330",
+		"CRN": "01",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Sculpture I",
+		"Subject": "",
+		"Hours": "2330",
+		"CRN": "02",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Visual Literacy for Graphic Design",
+		"Subject": "",
+		"Hours": "2601",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Visual Literacy for Graphic Design",
+		"Subject": "",
+		"Hours": "2601",
+		"CRN": "02",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Visual Literacy for Graphic Design",
+		"Subject": "",
+		"Hours": "2601",
+		"CRN": "03",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Photography I",
+		"Subject": "",
+		"Hours": "2810",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Photography I",
+		"Subject": "",
+		"Hours": "2810",
+		"CRN": "01",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Photography I",
+		"Subject": "",
+		"Hours": "2810",
+		"CRN": "02",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Media Art I",
+		"Subject": "",
+		"Hours": "2830",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Survey of Time-based Art",
+		"Subject": "",
+		"Hours": "2840",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Painting and Drawing Studio I",
+		"Subject": "",
+		"Hours": "3070",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Critical Theory for the Visual Artist",
+		"Subject": "",
+		"Hours": "3100",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Materials and Procedures In Art Education I",
+		"Subject": "",
+		"Hours": "3230",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Sculpture Studio I",
+		"Subject": "",
+		"Hours": "3370",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Typography II",
+		"Subject": "",
+		"Hours": "3611",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Typography II",
+		"Subject": "",
+		"Hours": "3611",
+		"CRN": "01",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Interactive Media",
+		"Subject": "",
+		"Hours": "3621",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Processes and Materials for Graphic Design",
+		"Subject": "",
+		"Hours": "3631",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Processes and Materials for Graphic Design",
+		"Subject": "",
+		"Hours": "3631",
+		"CRN": "01",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Sculpture III",
+		"Subject": "",
+		"Hours": "3660",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Media Art II",
+		"Subject": "",
+		"Hours": "3830",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Photography and Media Art Studio I",
+		"Subject": "",
+		"Hours": "3840",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Visual Arts Internship",
+		"Subject": "",
+		"Hours": "4010",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Drawing V",
+		"Subject": "",
+		"Hours": "4050",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Painting and Drawing Studio III",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "40350",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Art History: Islamic Art: Calligraphy to Contemporary Visual Culture",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "42125",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "The Rococco: Sensuality and Statesmanship",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "42126",
+		"Meeting": [
+			"MW",
+			"11:00  AM - 12:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Latin American Art Modern and Contemporary Art",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "43218",
+		"Meeting": [
+			"MW",
+			"09:00  AM - 10:15  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Art History: Object Archeology",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "43217",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Site and Context",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "43219",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 05:45  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Sculpture Studio III",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "41159",
+		"Meeting": [
+			"MWMW",
+			"02:00  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Graphic Design Workshop I",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "41433",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Interdisciplinary Research",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "40595",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 05:45  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Photography and Media Art Studio III",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "40598",
+		"Meeting": [
+			"TT",
+			"08:00  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Special topics: Apothecary",
+		"Subject": "ART",
+		"Hours": "3",
+		"CRN": "42129",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "ART",
+		"Hours": "1 TO 3",
+		"CRN": "43750",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "ART",
+		"Hours": "1 TO 3",
+		"CRN": "43751",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "ART",
+		"Hours": "1 TO 9",
+		"CRN": "42925",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "ART",
+		"Hours": "1 TO 9",
+		"CRN": "43133",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "ART",
+		"Hours": "1 TO 9",
+		"CRN": "42929",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "ART",
+		"Hours": "1 TO 9",
+		"CRN": "42771",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "ART",
+		"Hours": "1 TO 9",
+		"CRN": "43973",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "ART",
+		"Hours": "1 TO 9",
+		"CRN": "42926",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "ART",
+		"Hours": "1 TO 9",
+		"CRN": "42922",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

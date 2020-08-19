@@ -43,16 +43,17 @@ html
         //-     label.form-check-label(for='sundayCheck') Sunday
         // Onchange use an ajax call to update the class list below, which the user can then dynamically add to
         .row.pt-3
-          .col-md-3.col-5
+          .col-md-6.col-10.pr-0
             select#inputState.form-control(name="major1")
               option(selected='') Use a Preset...
               option Computer Science Freshman
               option Computer Science General
               option Business Freshman
               option Business General
-          .col-md-2.col-4.align-self-center.pl-5
-            input#genedCheck.form-check-input(type='checkbox', name="geneds")
-            label.form-check-label(for='genedCheck') Geneds
+              option Geneds
+          .col-md-1.col-2.pl-0
+            button.btn-secondary.form-control
+              i.fa.fa-plus
         
         // Majors & Years (dynamically add readonly input fields copying values using add button)
         .row.pt-3
@@ -70,4 +71,18 @@ html
               i.fa.fa-plus
         // Submit!
         .row.py-3.border-bottom.border-secondary
-          input.btn-primary.form-control.col-md-2.offset-md-10.col-3.offset-9(type='submit', value='Search')
+          .col-6.border
+            dl
+              dt Requirement 1: Create a calendar based on UTC catalog times
+              dd Make app.js read year.major.json files and pass into buildCalendar
+              dd Test that buildCalendar works
+              dd Make chart.jade script to translate buildCalendar dictionary
+              dd Create advanced configSearch file to build and submit list of classes
+              dd Create presets txt files with class names
+              dd Make app.js run scrapper if the json files don't exist
+            dl
+              dt Requirement 2: Save calendar and allow other users to access it
+              dd Saving calendar
+              dd app.js path to saved calendars (redirect to path after saving)
+              dd Visitor giving name and adding personal times to calendar (student times = 2x strong)
+          input.btn-primary.form-control.col-md-2.offset-md-4.col-3.offset-3(type='submit', value='Search')

@@ -1,0 +1,409 @@
+[
+	{
+		"Title": "Design Fundamentals",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41124",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Design Fundamentals",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41072",
+		"Meeting": [
+			"MW",
+			"12:00  PM - 02:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Design Fundamentals",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "43388",
+		"Meeting": [
+			"MW",
+			"03:00  PM - 05:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Volume, Space, and Form",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41157",
+		"Meeting": [
+			"MW",
+			"09:00  AM - 11:30  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Volume, Space, and Form",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41158",
+		"Meeting": [
+			"MW",
+			"12:00  PM - 02:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Architectural Drafting",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41075",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Architectural Drafting",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "42988",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Color Systems",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "43854",
+		"Meeting": [
+			"MF",
+			"03:00  PM - 05:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Color Systems",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "43855",
+		"Meeting": [
+			"WF",
+			"03:00  PM - 05:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Survey of Architecture",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "42197",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Survey of Architecture",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "43644",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Survey of Architecture",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41080",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Survey of Architecture",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41605",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Survey of Architecture",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "43385",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Survey of Architecture",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41204",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Survey of Architecture",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41607",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Survey of Architecture",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "43672",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Survey of Architecture",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "43673",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Survey of Architecture",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "43981",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Space Planning",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41081",
+		"Meeting": [
+			"MW",
+			"09:00  AM - 11:30  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Visual Presentation",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41082",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 05:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Interior Textiles",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "43670",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Commercial Interiors I",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41306",
+		"Meeting": [
+			"MW",
+			"09:00  AM - 11:30  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Construction Documents",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41307",
+		"Meeting": [
+			"MW",
+			"12:00  PM - 02:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Computer-Aided Design I",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41709",
+		"Meeting": [
+			"MW",
+			"03:00  PM - 05:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "History of Design I",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41308",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Codes and Specifications",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41453",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Professional Cmpetence",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "43386",
+		"Meeting": [
+			"WF",
+			"02:00  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Responsive Design",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41085",
+		"Meeting": [
+			"MW",
+			"12:00  PM - 02:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Senior Thesis I",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "41086",
+		"Meeting": [
+			"MW",
+			"09:00  AM - 11:30  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Senior Seminar",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "43671",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Interior Design Advocacy",
+		"Subject": "IARC",
+		"Hours": "1",
+		"CRN": "42204",
+		"Meeting": [
+			"T",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Interior Design Leadership and Planning",
+		"Subject": "IARC",
+		"Hours": "1",
+		"CRN": "42205",
+		"Meeting": [
+			"T",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "IARC",
+		"Hours": "1 TO 3",
+		"CRN": "43776",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "IARC",
+		"Hours": "1 TO 9",
+		"CRN": "43943",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Historic Preservation",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "43567",
+		"Meeting": [
+			"MW",
+			"03:00  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Color Systems in Interior Design",
+		"Subject": "IARC",
+		"Hours": "3",
+		"CRN": "43798",
+		"Meeting": [
+			"WF",
+			"03:00  PM - 05:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

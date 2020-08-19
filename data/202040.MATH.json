@@ -1,0 +1,1355 @@
+[
+	{
+		"Title": "Math in the Modern World",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "40234",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Math in the Modern World",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "40235",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Math in the Modern World",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "41043",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Math in the Modern World",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "41314",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Math in the Modern World",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "41794",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "40238",
+		"Meeting": [
+			"M",
+			"08:00  AM - 08:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "43921",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday\nS\nM\nT\nW\nT\nF\nS\n08:00 AM - 08:50 AM Type: Class Building: Engr/Math/CPSC Room: 201 Start Date: 08/17/2020 End Date: 12/08/2020\nNone\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "",
+		"Hours": "02",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Wednesday\nS\nM\nT\nW\nT\nF\nS\n08:00 AM - 08:50 AM Type: Class Building: Lupton Hall Room: 393 Start Date: 08/17/2020 End Date: 12/08/2020\nNone\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "",
+		"Hours": "03",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "",
+		"Hours": "1130",
+		"CRN": "04",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "",
+		"Hours": "1130",
+		"CRN": "05",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "",
+		"Hours": "1130",
+		"CRN": "10",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "",
+		"Hours": "1130",
+		"CRN": "11",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "",
+		"Hours": "1130",
+		"CRN": "12",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "",
+		"Hours": "1130",
+		"CRN": "13",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "Course Materials Charge\n\nLab/Studio Fee\n\nLower Division Credit\n\nMathematics\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "1130",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40263"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "Course Materials Charge\n\nLab/Studio Fee\n\nLower Division Credit\n\nMathematics\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "1130",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "43926"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "FULL: 0 of 0 seats remain.",
+		"Hours": "",
+		"CRN": "MATH",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "3"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "FULL: 0 of 20 seats remain.",
+		"Hours": "",
+		"CRN": "MATH",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "3"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "UT Chattanooga",
+		"Hours": "",
+		"CRN": "",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "22"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "UT Chattanooga",
+		"Hours": "",
+		"CRN": "",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "23"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "Wednesday\nS\nM\nT\nW\nT\nF\nS\n10:00 AM - 10:50 AM Type: Class Building: Engr/Math/CPSC Room: 201 Start Date: 08/17/2020 End Date: 12/08/2020\nNone\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020",
+		"Hours": "Course Materials Charge\n\nLab/Studio Fee\n\nLower Division Credit\n\nMathematics\n\nPotential Test Proctoring Fee\n\n",
+		"CRN": "",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "1130"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "Friday\nS\nM\nT\nW\nT\nF\nS\n10:00 AM - 10:50 AM Type: Class Building: Lupton Hall Room: 393 Start Date: 08/17/2020 End Date: 12/08/2020\nNone\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020",
+		"Hours": "Course Materials Charge\n\nLab/Studio Fee\n\nLower Division Credit\n\nMathematics\n\nPotential Test Proctoring Fee\n\n",
+		"CRN": "",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "1130"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "Friday\nS\nM\nT\nW\nT\nF\nS\n10:00 AM - 10:50 AM Type: Class Building: Engr/Math/CPSC Room: 201 Start Date: 08/17/2020 End Date: 12/08/2020\nNone\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020",
+		"Hours": "Course Materials Charge\n\nLab/Studio Fee\n\nLower Division Credit\n\nMathematics\n\nPotential Test Proctoring Fee\n\n",
+		"CRN": "",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "1130"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "Monday\nS\nM\nT\nW\nT\nF\nS\n11:00 AM - 11:50 AM Type: Class Building: Lupton Hall Room: 393 Start Date: 08/17/2020 End Date: 12/08/2020\nNone\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020",
+		"Hours": "Course Materials Charge\n\nLab/Studio Fee\n\nLower Division Credit\n\nMathematics\n\nPotential Test Proctoring Fee\n\n",
+		"CRN": "",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "1130"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "",
+		"Hours": "FULL: 0 of 0 seats remain.",
+		"CRN": "Course Materials Charge\n\nLab/Studio Fee\n\nLower Division Credit\n\nMathematics\n\nPotential Test Proctoring Fee\n\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "MATH"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "Fall 2020",
+		"Hours": "FULL: 0 of 20 seats remain.",
+		"CRN": "Course Materials Charge\n\nLab/Studio Fee\n\nLower Division Credit\n\nMathematics\n\nPotential Test Proctoring Fee\n\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "MATH"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "Fall 2020",
+		"Hours": "FULL: 0 of 20 seats remain.",
+		"CRN": "Course Materials Charge\n\nLab/Studio Fee\n\nLower Division Credit\n\nMathematics\n\nPotential Test Proctoring Fee\n\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "MATH"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "Fall 2020",
+		"Hours": "FULL: 0 of 20 seats remain.",
+		"CRN": "Course Materials Charge\n\nLab/Studio Fee\n\nLower Division Credit\n\nMathematics\n\nPotential Test Proctoring Fee\n\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "MATH"
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "Fall 2020",
+		"Hours": "UT Chattanooga",
+		"CRN": "FULL: 0 of 0 seats remain.",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "40971",
+		"Hours": "UT Chattanooga",
+		"CRN": "FULL: 0 of 20 seats remain.",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "41051",
+		"Hours": "UT Chattanooga",
+		"CRN": "28 of 120 seats remain.\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "41095",
+		"Hours": "UT Chattanooga",
+		"CRN": "31 of 240 seats remain.\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "42273",
+		"Hours": "UT Chattanooga",
+		"CRN": "32 of 240 seats remain.\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "College Algebra",
+		"Subject": "43675",
+		"Hours": "UT Chattanooga",
+		"CRN": "9 of 120 seats remain.\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Precalculus I",
+		"Subject": "43995",
+		"Hours": "UT Chattanooga",
+		"CRN": "FULL: 0 of 0 seats remain.",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Precalculus I",
+		"Subject": "40695",
+		"Hours": "UT Chattanooga",
+		"CRN": "FULL: 0 of 0 seats remain.",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Precalculus I",
+		"Subject": "40272",
+		"Hours": "UT Chattanooga",
+		"CRN": "FULL: 0 of 29 seats remain.",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Precalculus I",
+		"Subject": "41785",
+		"Hours": "UT Chattanooga",
+		"CRN": "12 of 40 seats remain.\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Precalculus II",
+		"Subject": "42005",
+		"Hours": "UT Chattanooga",
+		"CRN": "26 of 40 seats remain.\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Precalculus II",
+		"Subject": "40275",
+		"Hours": "UT Chattanooga",
+		"CRN": "FULL: 0 of 0 seats remain.",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Precalculus II",
+		"Subject": "40279",
+		"Hours": "UT Chattanooga",
+		"CRN": "FULL: 0 of 29 seats remain.",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Combined Precalculus",
+		"Subject": "41786",
+		"Hours": "UT Chattanooga",
+		"CRN": "13 of 40 seats remain.\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Combined Precalculus",
+		"Subject": "41471",
+		"Hours": "UT Chattanooga",
+		"CRN": "3 of 40 seats remain.\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Combined Precalculus",
+		"Subject": "40869",
+		"Hours": "UT Chattanooga",
+		"CRN": "FULL: 0 of 40 seats remain.",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Calculus for Management, Life, and Social Sciences",
+		"Subject": "41787",
+		"Hours": "UT Chattanooga",
+		"CRN": "14 of 40 seats remain.\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Calculus for Management, Life, and Social Sciences",
+		"Subject": "40264",
+		"Hours": "UT Chattanooga",
+		"CRN": "FULL: 0 of 45 seats remain.",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Calculus for Management, Life, and Social Sciences",
+		"Subject": "40265",
+		"Hours": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n09:00 AM - 09:50 AM Type: Class Building: Derthick Lecture Hall Room: 101 Start Date: 08/17/2020 End Date: 12/08/2020",
+		"CRN": "UT Chattanooga",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Calculus for Management, Life, and Social Sciences",
+		"Subject": "3",
+		"Hours": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n10:00 AM - 10:50 AM Type: Class Building: Derthick Lecture Hall Room: 101 Start Date: 08/17/2020 End Date: 12/08/2020",
+		"CRN": "UT Chattanooga",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Calculus for Management, Life, and Social Sciences",
+		"Subject": "3",
+		"Hours": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n12:00 PM - 12:50 PM Type: Class Building: Derthick Lecture Hall Room: 101 Start Date: 08/17/2020 End Date: 12/08/2020",
+		"CRN": "UT Chattanooga",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Calculus for Management, Life, and Social Sciences",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "41612",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Calculus For Management Life and Social Science",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "43399",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Calculus for Management, Life, and Social Sciences",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "41096",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Calculus for Management, Life, and Social Sciences",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "41315",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Calculus for Management, Life, and Social Sciences",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "42274",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Calculus with Analytic Geometry I",
+		"Subject": "MATH",
+		"Hours": "4",
+		"CRN": "40760",
+		"Meeting": [
+			"MWF",
+			"08:00  AM - 09:10  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Calculus with Analytic Geometry I",
+		"Subject": "MATH",
+		"Hours": "4",
+		"CRN": "40762",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Calculus with Analytic Geometry I",
+		"Subject": "MATH",
+		"Hours": "4",
+		"CRN": "40765",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n11:00 AM - 12:10 PM Type: Class Building: Engr/Math/CPSC Room: 203 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Calculus with Analytic Geometry I",
+		"Subject": "",
+		"Hours": "03",
+		"CRN": "4",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Calculus with Analytic Geometry I",
+		"Subject": "",
+		"Hours": "04",
+		"CRN": "4",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Calculus with Analytic Geometry I",
+		"Subject": "",
+		"Hours": "90",
+		"CRN": "4",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Calculus with Analytic Geometry II",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "4",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n08:00 AM - 09:10 AM Type: Class Building: 540 McCallie Building Room: 103 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Calculus with Analytic Geometry II",
+		"Subject": "",
+		"Hours": "01",
+		"CRN": "4",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n09:30 AM - 10:40 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Calculus with Analytic Geometry II",
+		"Subject": "",
+		"Hours": "02",
+		"CRN": "4",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n11:00 AM - 12:10 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Calculus with Analytic Geometry II",
+		"Subject": "",
+		"Hours": "03",
+		"CRN": "4",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n12:30 PM - 01:40 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Discrete Mathematics for Computer Science",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n09:25 AM - 10:40 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Discrete Mathematics for Computer Science",
+		"Subject": "",
+		"Hours": "01",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n01:40 PM - 02:55 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n09:00 AM - 09:50 AM Type: Class Building: Engr/Math/CPSC Room: 238 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "",
+		"Hours": "01",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n10:00 AM - 10:50 AM Type: Class Building: Engr/Math/CPSC Room: 238 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "",
+		"Hours": "02",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "",
+		"Hours": "2100",
+		"CRN": "03",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "",
+		"Hours": "2100",
+		"CRN": "04",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "Course Materials Charge\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\nStatistics\n\n",
+		"Hours": "MATH",
+		"CRN": "2100",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40295"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "Course Materials Charge\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\nStatistics\n\n",
+		"Hours": "MATH",
+		"CRN": "2100",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40296"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "Course Materials Charge\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\nStatistics\n\n",
+		"Hours": "MATH",
+		"CRN": "2100",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40872"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "Course Materials Charge\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\nStatistics\n\n",
+		"Hours": "MATH",
+		"CRN": "2100",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "41614"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "Course Materials Charge\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\nStatistics\n\n",
+		"Hours": "MATH",
+		"CRN": "2100",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40973"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "Course Materials Charge\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\nStatistics\n\n",
+		"Hours": "MATH",
+		"CRN": "2100",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "43401"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "Course Materials Charge\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\nStatistics\n\n",
+		"Hours": "MATH",
+		"CRN": "2100",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "41788"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "Course Materials Charge\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\nStatistics\n\n",
+		"Hours": "MATH",
+		"CRN": "2100",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "41316"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "Course Materials Charge\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\nStatistics\n\n",
+		"Hours": "MATH",
+		"CRN": "2100",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "41317"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "Course Materials Charge\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\nStatistics\n\n",
+		"Hours": "MATH",
+		"CRN": "2100",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "41930"
+	},
+	{
+		"Title": "Introductory Statistics",
+		"Subject": "Course Materials Charge\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\nStatistics\n\n",
+		"Hours": "MATH",
+		"CRN": "2100",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "42586"
+	},
+	{
+		"Title": "Mathematics for Elementary & Middle School Teachers I",
+		"Subject": "Course Materials Charge\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\nStatistics\n\n",
+		"Hours": "MATH",
+		"CRN": "2150",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40299"
+	},
+	{
+		"Title": "Mathematics for Elementary & Middle School Teachers I",
+		"Subject": "Lower Division Credit\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "2150",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40304"
+	},
+	{
+		"Title": "Mathematics for Elementary & Middle School Teachers II",
+		"Subject": "Lower Division Credit\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "2160",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40306"
+	},
+	{
+		"Title": "Elementary Linear Algebra",
+		"Subject": "Lower Division Credit\n\nMathematics\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "2200",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "42434"
+	},
+	{
+		"Title": "Elementary Linear Algebra",
+		"Subject": "Lower Division Credit\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "2200",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40297"
+	},
+	{
+		"Title": "Elementary Linear Algebra",
+		"Subject": "Lower Division Credit\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "2200",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40298"
+	},
+	{
+		"Title": "Elementary Linear Algebra",
+		"Subject": "Lower Division Credit\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "2200",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40769"
+	},
+	{
+		"Title": "Introduction to Differential and Difference Equations",
+		"Subject": "Lower Division Credit\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "2450",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40308"
+	},
+	{
+		"Title": "Introduction to Differential and Difference Equations",
+		"Subject": "Lower Division Credit\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "2450",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40559"
+	},
+	{
+		"Title": "Introduction to Differential and Difference Equations",
+		"Subject": "Lower Division Credit\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "2450",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "41480"
+	},
+	{
+		"Title": "Introduction to Differential and Difference Equations",
+		"Subject": "Lower Division Credit\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "2450",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "43560"
+	},
+	{
+		"Title": "Calculus with Analytic Geometry III",
+		"Subject": "Lower Division Credit\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "2560",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40873"
+	},
+	{
+		"Title": "Calculus with Analytic Geometry III",
+		"Subject": "Lower Division Credit\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "2560",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "41616"
+	},
+	{
+		"Title": "Introduction to Logic and Proof",
+		"Subject": "Lower Division Credit\n\nPotential Test Proctoring Fee\n\n",
+		"Hours": "MATH",
+		"CRN": "3000",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40310"
+	},
+	{
+		"Title": "Applied Statistics",
+		"Subject": "Potential Test Proctoring Fee\n\nUpper Division Credit\n\n",
+		"Hours": "MATH",
+		"CRN": "3100",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "42435"
+	},
+	{
+		"Title": "Introduction to Analysis I",
+		"Subject": "Potential Test Proctoring Fee\n\nStatistics\n\nUpper Division Credit\n\n",
+		"Hours": "MATH",
+		"CRN": "3510",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "40534"
+	},
+	{
+		"Title": "Basic Concepts of Geometry",
+		"Subject": "Potential Test Proctoring Fee\n\nUpper Division Credit\n\n",
+		"Hours": "MATH",
+		"CRN": "4010",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "43404"
+	},
+	{
+		"Title": "Introduction to Probability and Statistics",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "41789",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Linear Algebra and Matrix Theory",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "40768",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mathematics of Interest",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "42438",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Numerical Analysis",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "43406",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Applied Knot Theory",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "43568",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Abstract Algebra I",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "43748",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Statistical Computation and Programming",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "44010",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Probability and Statistics",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "41792",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Statistical Computation And Programming",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "41313",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Linear Algebra and Matrix Theory",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "40783",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Modern Algebra I",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "43407",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Ordinary Differential Equations",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "43390",
+		"Meeting": [
+			"MW",
+			"05:00  PM - 06:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Real Analysis",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "41622",
+		"Meeting": [
+			"MW",
+			"06:30  PM - 07:45  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Numerical Analysis I",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "40874",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Numerical Analysis I",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "43717",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Applied Knot Theory",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "43959",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "43892",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "43997",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Doctoral Research",
+		"Subject": "MATH",
+		"Hours": "1 TO 9",
+		"CRN": "42027",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Doctoral Research",
+		"Subject": "MATH",
+		"Hours": "3",
+		"CRN": "42053",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Doctoral Dissertation",
+		"Subject": "MATH",
+		"Hours": "1 TO 12",
+		"CRN": "41507",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Doctoral Dissertation",
+		"Subject": "MATH",
+		"Hours": "1 TO 12",
+		"CRN": "42763",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Doctoral Dissertation",
+		"Subject": "MATH",
+		"Hours": "6",
+		"CRN": "43960",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

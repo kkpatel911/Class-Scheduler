@@ -1,0 +1,310 @@
+[
+	{
+		"Title": "Introduction to Civil Engineering",
+		"Subject": "ENCE",
+		"Hours": "2",
+		"CRN": "41202",
+		"Meeting": [
+			"M",
+			"12:00  PM - 01:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Engineering Graphics",
+		"Subject": "ENCE",
+		"Hours": "1",
+		"CRN": "41203",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Vector Statics",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "41013",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Vector Statics",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "41046",
+		"Meeting": [
+			"MWF",
+			"01:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Environmental Engineering",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "41430",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Probability and Statistics for Engineering",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "41371",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Probability and Statistics for Engineering",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "41372",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mechanics of Materials",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "41015",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mechanics of Materials Laboratory",
+		"Subject": "ENCE",
+		"Hours": "1",
+		"CRN": "41016",
+		"Meeting": [
+			"M",
+			"12:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mechanics of Materials Laboratory",
+		"Subject": "ENCE",
+		"Hours": "1",
+		"CRN": "42174",
+		"Meeting": [
+			"W",
+			"12:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Civil Engineering Materials",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "40717",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Civil Engineering Materials Laboratory",
+		"Subject": "ENCE",
+		"Hours": "1",
+		"CRN": "40718",
+		"Meeting": [
+			"W",
+			"12:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Engineering Economy",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "41373",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Engineering Economy",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "41429",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Transportation Engineering I",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "40120",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Structural Analysis I",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "40560",
+		"Meeting": [
+			"TT",
+			"08:00  AM - 09:15  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Interdisciplinary Design Project I",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "41390",
+		"Meeting": [
+			"MW",
+			"05:30  PM - 06:45  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Foundation Analysis and Design",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "40121",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Design of Steel Structures",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "40122",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Interdisciplinary Design Project II",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "41394",
+		"Meeting": [
+			"MW",
+			"05:30  PM - 06:45  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Pavement Design",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "42176",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Advanced Statistics and Design of Experiments",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "43070",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Special Topics in Engineering: Urban Watershed Modeling",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "43996",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies: Data Fusion for MEPDG Climate Modeling",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "43969",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "ENCE",
+		"Hours": "1 TO 6",
+		"CRN": "43953",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "ENCE",
+		"Hours": "1 TO 6",
+		"CRN": "43094",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "ENCE",
+		"Hours": "1 TO 6",
+		"CRN": "43539",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "ENCE",
+		"Hours": "3",
+		"CRN": "43999",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

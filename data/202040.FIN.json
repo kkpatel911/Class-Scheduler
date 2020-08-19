@@ -1,0 +1,255 @@
+[
+	{
+		"Title": "Small Business Finance",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "41575",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Small Business Finance",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "42982",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Essentials of Managerial Finance",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "40315",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Essentials of Managerial Finance",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "41573",
+		"Meeting": [
+			"W",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Essentials of Managerial Finance",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "41901",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Essentials of Managerial Finance",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "41574",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Essentials of Managerial Finance",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "40607",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Essentials of Managerial Finance",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "43332",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Financial Institutions",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "40316",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Intermediate Financial Management",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "43633",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Investments I",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "43334",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Real Estate Fundamentals",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "41126",
+		"Meeting": [
+			"W",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "SMILE Fund Seminar",
+		"Subject": "FIN",
+		"Hours": "1",
+		"CRN": "42673",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Experiential Learning: Academic Internship Program",
+		"Subject": "FIN",
+		"Hours": "1 TO 3",
+		"CRN": "42551",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Financial Statement Analysis",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "40908",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "International Finance",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "41446",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Investments II",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "40319",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Financial Management",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "43799",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Seminar in Portfolio Management",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "41206",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "FIN",
+		"Hours": "1 TO 3",
+		"CRN": "43813",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Financial Institutions and Markets",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "43335",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Financial Management",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "43336",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "FIN",
+		"Hours": "3",
+		"CRN": "42920",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

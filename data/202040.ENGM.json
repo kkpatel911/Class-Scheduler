@@ -1,0 +1,156 @@
+[
+	{
+		"Title": "Concepts in Engineering Management",
+		"Subject": "ENGM",
+		"Hours": "3",
+		"CRN": "40814",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Concepts in Engineering Management",
+		"Subject": "ENGM",
+		"Hours": "3",
+		"CRN": "40398",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Quality Control",
+		"Subject": "ENGM",
+		"Hours": "3",
+		"CRN": "43294",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Advanced Engineering Economy",
+		"Subject": "ENGM",
+		"Hours": "3",
+		"CRN": "40818",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Advanced Engineering Economy",
+		"Subject": "ENGM",
+		"Hours": "3",
+		"CRN": "40399",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Sustainability and LEED",
+		"Subject": "ENGM",
+		"Hours": "3",
+		"CRN": "43295",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Sustainability and LEED",
+		"Subject": "ENGM",
+		"Hours": "3",
+		"CRN": "43292",
+		"Meeting": [
+			"TT",
+			"11:00  AM - 12:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Operations and Constructability",
+		"Subject": "ENGM",
+		"Hours": "3",
+		"CRN": "43296",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Advanced Operations and Constructability",
+		"Subject": "ENGM",
+		"Hours": "3",
+		"CRN": "43293",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Product Development for Innovation",
+		"Subject": "ENGM",
+		"Hours": "3",
+		"CRN": "43647",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Product Development for Innovation",
+		"Subject": "ENGM",
+		"Hours": "3",
+		"CRN": "43648",
+		"Meeting": [
+			"MW",
+			"12:00  PM - 01:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Graduate Internship in Engineering",
+		"Subject": "ENGM",
+		"Hours": "1",
+		"CRN": "42288",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Capstone Project",
+		"Subject": "ENGM",
+		"Hours": "1 TO 3",
+		"CRN": "41388",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "ENGM",
+		"Hours": "1 TO 6",
+		"CRN": "44030",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

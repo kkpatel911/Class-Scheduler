@@ -1,0 +1,24 @@
+[
+	{
+		"Title": "Science and Society",
+		"Subject": "GNSC",
+		"Hours": "3",
+		"CRN": "40162",
+		"Meeting": [
+			"TT",
+			"05:00  PM - 06:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Science and Society",
+		"Subject": "GNSC",
+		"Hours": "3",
+		"CRN": "40703",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

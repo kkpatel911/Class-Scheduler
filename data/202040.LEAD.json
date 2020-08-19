@@ -1,0 +1,134 @@
+[
+	{
+		"Title": "Leadership and Learning: Theory to Practice",
+		"Subject": "LEAD",
+		"Hours": "4",
+		"CRN": "43883",
+		"Meeting": [
+			"SSSS",
+			"08:00  AM - 01:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Research and Inquiry",
+		"Subject": "LEAD",
+		"Hours": "2",
+		"CRN": "43884",
+		"Meeting": [
+			"SSSS",
+			"02:00  PM - 05:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Organizational Theory, Development, and Transformation",
+		"Subject": "LEAD",
+		"Hours": "3",
+		"CRN": "43865",
+		"Meeting": [
+			"SSSS",
+			"08:00  AM - 12:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Reflective Practice and Competency Development",
+		"Subject": "LEAD",
+		"Hours": "3",
+		"CRN": "41312",
+		"Meeting": [
+			"T",
+			"05:00  PM - 07:30  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Learning Models, Design and Communication",
+		"Subject": "LEAD",
+		"Hours": "3",
+		"CRN": "43866",
+		"Meeting": [
+			"SSSS",
+			"01:00  PM - 05:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Pre-Dissertation Seminar",
+		"Subject": "LEAD",
+		"Hours": "3",
+		"CRN": "43868",
+		"Meeting": [
+			"FFFF",
+			"05:00  PM - 07:30  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Data-Informed Aspects of Decision Making",
+		"Subject": "LEAD",
+		"Hours": "3",
+		"CRN": "43867",
+		"Meeting": [
+			"SSSS",
+			"01:00  PM - 05:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Higher Education: Administration and Leadership",
+		"Subject": "LEAD",
+		"Hours": "3",
+		"CRN": "43869",
+		"Meeting": [
+			"SSS",
+			"08:00  AM - 12:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Comprehensive Assessment Continuance",
+		"Subject": "LEAD",
+		"Hours": "3",
+		"CRN": "41699",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Dissertation",
+		"Subject": "LEAD",
+		"Hours": "2 TO 6",
+		"CRN": "43870",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Dissertation",
+		"Subject": "LEAD",
+		"Hours": "2 TO 6",
+		"CRN": "43871",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Dissertation",
+		"Subject": "LEAD",
+		"Hours": "2 TO 6",
+		"CRN": "43872",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	}
+]

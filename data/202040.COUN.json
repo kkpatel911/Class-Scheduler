@@ -1,0 +1,134 @@
+[
+	{
+		"Title": "Introduction to the Counseling Profession",
+		"Subject": "COUN",
+		"Hours": "3",
+		"CRN": "40608",
+		"Meeting": [
+			"WW",
+			"05:15  PM - 07:45  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Theories of Human Development",
+		"Subject": "COUN",
+		"Hours": "3",
+		"CRN": "40788",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Counseling Skills",
+		"Subject": "COUN",
+		"Hours": "3",
+		"CRN": "40613",
+		"Meeting": [
+			"MMMMM",
+			"05:15  PM - 07:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Group Counseling",
+		"Subject": "COUN",
+		"Hours": "3",
+		"CRN": "41246",
+		"Meeting": [
+			"MMMMM",
+			"05:15  PM - 07:45  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Counseling Practicum",
+		"Subject": "COUN",
+		"Hours": "3",
+		"CRN": "40609",
+		"Meeting": [
+			"WWWWW",
+			"03:30  PM - 05:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Internship in Clinical Mental Health Counseling",
+		"Subject": "COUN",
+		"Hours": "6",
+		"CRN": "40789",
+		"Meeting": [
+			"MMMMM",
+			"03:30  PM - 05:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Counseling Supervision",
+		"Subject": "COUN",
+		"Hours": "3",
+		"CRN": "41221",
+		"Meeting": [
+			"W",
+			"05:15  PM - 07:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Seminar in School Counseling",
+		"Subject": "COUN",
+		"Hours": "3",
+		"CRN": "40610",
+		"Meeting": [
+			"T",
+			"05:15  PM - 07:45  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Internship in Elementary School Counseling",
+		"Subject": "COUN",
+		"Hours": "3",
+		"CRN": "40611",
+		"Meeting": [
+			"TTTTT",
+			"03:30  PM - 05:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Internship in Secondary School Counseling",
+		"Subject": "COUN",
+		"Hours": "3",
+		"CRN": "40612",
+		"Meeting": [
+			"TTTTT",
+			"03:30  PM - 05:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Internship in Clinical Mental Health Counseling",
+		"Subject": "COUN",
+		"Hours": "3",
+		"CRN": "40925",
+		"Meeting": [
+			"MMMMM",
+			"03:30  PM - 05:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Diagnosis and Treatment of Mental Disorders",
+		"Subject": "COUN",
+		"Hours": "3",
+		"CRN": "41519",
+		"Meeting": [
+			"TTTTT",
+			"05:15  PM - 07:45  PM"
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

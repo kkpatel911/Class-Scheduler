@@ -1,0 +1,79 @@
+[
+	{
+		"Title": "Special Projects",
+		"Subject": "ENGR",
+		"Hours": "1",
+		"CRN": "42945",
+		"Meeting": [
+			"M",
+			"05:00  PM - 05:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "CECS ASSETS TLC",
+		"Subject": "ENGR",
+		"Hours": "1",
+		"CRN": "43003",
+		"Meeting": [
+			"F",
+			"03:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "CECS The First Year Experience",
+		"Subject": "ENGR",
+		"Hours": "1",
+		"CRN": "43836",
+		"Meeting": [
+			"W",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "CECS The First Year Experience",
+		"Subject": "ENGR",
+		"Hours": "1",
+		"CRN": "43837",
+		"Meeting": [
+			"M",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "CECS The First Year Experience",
+		"Subject": "ENGR",
+		"Hours": "1",
+		"CRN": "43839",
+		"Meeting": [
+			"W",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "CECS The First Year Experience",
+		"Subject": "ENGR",
+		"Hours": "1",
+		"CRN": "43840",
+		"Meeting": [
+			"M",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "CECS ASSETS TLC",
+		"Subject": "ENGR",
+		"Hours": "1",
+		"CRN": "44022",
+		"Meeting": [
+			"F",
+			"02:30  PM - 03:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

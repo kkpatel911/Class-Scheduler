@@ -24,7 +24,7 @@ app.post('/chart', function(req,res) {
 
     var classData = []
     // TODO: Go through mockInput, find out which files need to be opened
-    // TODO: Open CPSC.json and MATH.json and put both into a single dictionary
+    // TODO: Open data/202040.CPSC.json and data/202040.MATH.json and put both into a single dictionary
 
     // WARNING: The below function is asynchronous. Reading all required functions
     //    at the same time is great, but you'll have to block before building calendar

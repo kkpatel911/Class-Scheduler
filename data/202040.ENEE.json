@@ -1,0 +1,640 @@
+[
+	{
+		"Title": "Introduction to Electrical Engineering",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "42542",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Engineering Programming",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "40719",
+		"Meeting": [
+			"MWF",
+			"08:00  AM - 08:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Electrical Circuits I",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "40720",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Electrical Circuits I",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "40795",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Electrical Circuits Laboratory",
+		"Subject": "ENEE",
+		"Hours": "1",
+		"CRN": "40980",
+		"Meeting": [
+			"M",
+			"09:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Signals and Systems",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "40372",
+		"Meeting": [
+			"TT",
+			"08:00  AM - 09:15  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Signals and Systems",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "41188",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Energy Conversion and Electronics",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "41172",
+		"Meeting": [
+			"TT",
+			"08:00  AM - 09:15  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Analog Electronics",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "41201",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Analog Electronics Laboratory",
+		"Subject": "ENEE",
+		"Hours": "1",
+		"CRN": "41248",
+		"Meeting": [
+			"T",
+			"01:40  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Analog Electronics Laboratory",
+		"Subject": "ENEE",
+		"Hours": "1",
+		"CRN": "40557",
+		"Meeting": [
+			"T",
+			"01:40  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Electromagnetic Fields and Waves",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "40374",
+		"Meeting": [
+			"MWF",
+			"02:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Modern Control Systems Analysis and Design",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "42543",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Electrical Energy Conversion",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "40721",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Electrical Energy Conversion Laboratory",
+		"Subject": "ENEE",
+		"Hours": "1",
+		"CRN": "41039",
+		"Meeting": [
+			"M",
+			"09:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Electrical Energy Conversion Laboratory",
+		"Subject": "ENEE",
+		"Hours": "1",
+		"CRN": "40723",
+		"Meeting": [
+			"M",
+			"05:15  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Interdisciplinary Design Project I",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "41391",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Fuzzy Logic and Intelligent Controls Application",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "42638",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Protective Relaying",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "40915",
+		"Meeting": [
+			"TT",
+			"05:15  PM - 06:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Embedded Systems",
+		"Subject": "ENEE",
+		"Hours": "4",
+		"CRN": "41004",
+		"Meeting": [
+			"WTT",
+			"12:00  PM - 01:25  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Embedded Systems",
+		"Subject": "ENEE",
+		"Hours": "4",
+		"CRN": "41880",
+		"Meeting": [
+			"WTT",
+			"01:25  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Linear Controls and Drives Laboratory",
+		"Subject": "ENEE",
+		"Hours": "1",
+		"CRN": "40981",
+		"Meeting": [
+			"T",
+			"10:50  AM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Linear Controls and Drives Laboratory",
+		"Subject": "ENEE",
+		"Hours": "1",
+		"CRN": "41976",
+		"Meeting": [
+			"T",
+			"10:50  AM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Digital Signal Processing",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "42682",
+		"Meeting": [
+			"MW",
+			"11:00  AM - 12:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Interdisciplinary Design Project II",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "41395",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "ENEE",
+		"Hours": "1 TO 9",
+		"CRN": "43096",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "43143",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "ENEE",
+		"Hours": "1",
+		"CRN": "43144",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Power Systems Stability & Control",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "42758",
+		"Meeting": [
+			"MW",
+			"05:15  PM - 06:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Linear Systems",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "42756",
+		"Meeting": [
+			"MW",
+			"08:00  AM - 09:15  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Communication Networks",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "42754",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Communication Networks",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "42755",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Power Electronics and Drives",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "43100",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 03:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Group Studies",
+		"Subject": "ENEE",
+		"Hours": "1",
+		"CRN": "43153",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Group Studies",
+		"Subject": "ENEE",
+		"Hours": "1",
+		"CRN": "44029",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Linear Systems",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "40553",
+		"Meeting": [
+			"MW",
+			"08:00  AM - 09:15  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Linear Systems",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "40916",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Digital Signal Processing",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "43650",
+		"Meeting": [
+			"MW",
+			"11:00  AM - 12:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Power Electronics and Drives",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "43891",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 03:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Power System Protection",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "40722",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Power System Protection",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "40815",
+		"Meeting": [
+			"TT",
+			"05:15  PM - 06:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Microcomputer Applications",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "41454",
+		"Meeting": [
+			"WTT",
+			"12:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Special Topics in Engineering",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "42760",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Micro-Controller-Based System Control",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "43082",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Special Topics in Engineering",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "41208",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Special Topics in Engineering",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "42681",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "VLSI Design",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "43944",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "System Control Studies II",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "44002",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Special Topics in Engineering: Power Systems Stability & Control",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "42759",
+		"Meeting": [
+			"MW",
+			"05:15  PM - 06:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "44011",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "ENEE",
+		"Hours": "1 TO 6",
+		"CRN": "41869",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "ENEE",
+		"Hours": "3",
+		"CRN": "41463",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "ENEE",
+		"Hours": "1 TO 6",
+		"CRN": "41867",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "ENEE",
+		"Hours": "1 TO 6",
+		"CRN": "44001",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "ENEE",
+		"Hours": "1 TO 6",
+		"CRN": "41868",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Doctoral Research",
+		"Subject": "ENEE",
+		"Hours": "1 TO 9",
+		"CRN": "43706",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Dissertation",
+		"Subject": "ENEE",
+		"Hours": "1 TO 12",
+		"CRN": "41896",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Dissertation",
+		"Subject": "ENEE",
+		"Hours": "1 TO 12",
+		"CRN": "41925",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

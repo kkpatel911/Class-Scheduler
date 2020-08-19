@@ -1,0 +1,79 @@
+[
+	{
+		"Title": "Independence, Study, and Social Strategies I",
+		"Subject": "MOSA",
+		"Hours": "1",
+		"CRN": "42741",
+		"Meeting": [
+			"F",
+			"02:00  PM - 03:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mentoring and Leadership I",
+		"Subject": "MOSA",
+		"Hours": "1",
+		"CRN": "42746",
+		"Meeting": [
+			"T",
+			"12:15  PM - 01:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mentoring and Leadership I",
+		"Subject": "MOSA",
+		"Hours": "1",
+		"CRN": "42747",
+		"Meeting": [
+			"F",
+			"12:00  PM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Developing Identity, Strengths, and Self-Perception I",
+		"Subject": "MOSA",
+		"Hours": "1",
+		"CRN": "42742",
+		"Meeting": [
+			"T",
+			"03:30  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Strength Based Professional Development I",
+		"Subject": "MOSA",
+		"Hours": "1",
+		"CRN": "42743",
+		"Meeting": [
+			"M",
+			"04:00  PM - 05:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Navigating the Workplace I",
+		"Subject": "MOSA",
+		"Hours": "1",
+		"CRN": "42744",
+		"Meeting": [
+			"T",
+			"04:00  PM - 05:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Cultivating Work-Life Balance I",
+		"Subject": "MOSA",
+		"Hours": "1",
+		"CRN": "42745",
+		"Meeting": [
+			"W",
+			"12:00  PM - 01:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

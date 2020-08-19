@@ -6,14 +6,15 @@ const fs = require("fs");
 const $ = require("jquery");
 
 // TODO: Also put class start and end in data
-// TODO: Add keyword for major and run for every type of major
 
 async function timeout(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-(async () => {
-  const browser = await puppeteer.launch({ headless: false });
+async function createData(major, term) {
+  const browser = await puppeteer.launch({
+    headless: false
+  });
 
   const page = await browser.newPage();
   await page.setViewport({ width: 1920, height: 1080 });
@@ -26,17 +27,21 @@ async function timeout(ms) {
   page.click("#classSearchLink");
   await page.waitForNavigation({ waitUntil: "networkidle0" });
 
-  page.evaluate(() => {
+  page.evaluate((term) => {
     return document
       .getElementById("txt_term")
-      .setAttribute("listofsearchterms", "202040");
-  });
+      .setAttribute("listofsearchterms", term);
+  }, term);
   page.click("#term-go");
   await page.waitForNavigation({ waitUntil: "networkidle0" });
+  await page.evaluate((major) => {
+    // let elements = document.getElementById("txt_term")
+    console.log(major)
+    return document.getElementById("txt_subject").setAttribute("value", major); // CPSC,SUBJ,ANTH,etc to get multiple subjects
+  }, major);
   page.focus("#txt_keywordlike");
   page.keyboard.type(``);
-  page.waitForNavigation({ waitUntil: "networkidle0" });
-  await timeout(5000);
+  await timeout(500);
   page.keyboard.down("Enter");
   await timeout(5000);
 
@@ -44,14 +49,22 @@ async function timeout(ms) {
   await page.select(".page-size-select", "50");
   await timeout(6000);
 
+  // Clear file
+  fs.writeFile("data/" + term + "." + major + '.json', '[]', function (err) {
+    if (err) throw err;
+    console.log('New file created!');
+  }); 
+
   // await page.screenshot({ path: `third.jpg`, fullPage: true });
-  for (let c = 0; c < 1; c++) {
+  var res = true
+  while(res) {
     var datas = await page.evaluate(() => {
+      var title = document.getElementsByClassName("section-details-link");
       var content = document.getElementsByClassName("readonly");
       var titleLinkArray = [];
       var m = 0;
-      var titleNum = 0;
-      for (var i = 1; i < content.length; i = i + 12) {
+      var i = 1;
+      for (var titleNum = 0; titleNum < title.length; titleNum++) {
         var meetingTimes = [];
         meetingTimes.push(
           $(content[i + 5])
@@ -67,7 +80,9 @@ async function timeout(ms) {
             .children("span:nth-child(2)")
             .text()
         );
-        var title = document.getElementsByClassName("section-details-link");
+        console.log("Debug session:")
+        console.log(titleNum, " of ", title.length)
+        console.log(i, " of ", content.length)
         titleLinkArray[m] = {
           Title: title[titleNum].innerText,
           Subject: content[i - 1].innerText,
@@ -75,7 +90,7 @@ async function timeout(ms) {
           CRN: content[i + 3].innerText,
           Meeting: meetingTimes,
           /** 
-           * Meeting place & Meeting room is important information but not needed
+           * Meeting place & Meeting room is good information but not needed
            * 
            Meeting_Place: $(content[i + 5])
              .children(".meeting:nth-child(1)")
@@ -88,52 +103,58 @@ async function timeout(ms) {
           */
           Campus: content[i + 6].innerText
         };
-        titleNum++;
+        i+=12;
         m++;
       }
       return titleLinkArray;
     });
-    // console.log(data);
-
-    // await browser.close();
-
-    // fs.readFile("data.json", function(err, data) {
-    //   var json = JSON.stringify;
-    // });
-    fs.readFile("data.json", "utf8", function(err, data) {
+    fs.readFile("data/" + term + "." + major + ".json", "utf8", function(err, data) {
       if (err) {
         console.log(err);
       }
       var json = JSON.parse(data);
-      // console.log(json);
       for (let x = 0; x < datas.length; x++) {
         json.push(datas[x]);
       }
-      // json.push({ name: "Kishan" });
 
-      fs.writeFile("data.json", JSON.stringify(json), err => {
+      fs.writeFile("data/" + term + "." + major + ".json", JSON.stringify(json, null, "\t"), err => {
         if (err) reject(err);
       });
     });
 
-    // fs.appendFile("data.json", JSON.stringify(data), function(err) {
-    //   if (err) throw err;
-    //   console.log("Saved!");
-    // });
-
+    // Button with title "next" continues. If hasAttribute "disabled" then stop
+    res = await page.evaluate(() => {
+      if($('button[title="Next"]').attr("disabled") != undefined) {
+        return false
+      }
+      return true;
+    });
     await page.click('button[title="Next"]');
 
     await timeout(5000);
   }
   await page.close();
   await browser.close();
-  // await page.screenshot({ path: `third.jpg`, fullPage: true });
-  // console.log(success("Browser Closed"));
+  console.log("Browser Closed");
+};
+
+(async () => {
+  var classes = "\
+ACC,ART,ANTH,ASTR,ATTR,BIOL,BUS,ENCH,CHEM,ENCE,CLAS,COOP,COMM,ENCM,\
+CPEN,CPSC,COUN,CRMJ,ECHD,ECON,EDAS,EDUC,EDS,EDSP,EPSY,ENEE,ENGR,ENGM,ETME,ENGL,\
+ESL,ETCM,ETEM,ETR,ESC,EXCH,FIN,FREN,GNSC,GEOG,GEOL,GRK,HHP,HIST,\
+HUM,INTS,IARC,LAT,LEAD,MGT,MKT,MATH,ENME,MILS,MLNG,MOSA,MUS,MUSP,NURS,NUTR,\
+OCTH,PHIL,PHYT,PHYS,PSPS,PMBA,PSY,PUBH,REL,STEM,SOCW,SOC,SPAN,THSP,UHON,USTU,WGSS"
+  
+  var classList = classes.split(',')
+  for(var i = 0; i < classList.length; i++) {
+    await createData(classList[i], "202040");
+  }
 })();
+
 app.use("/", (req, res) => {
   res.send("Worked...");
 });
-
 app.listen(port, () =>
   console.log(`App listening on port ${"\n"}http://localhost:${port}`)
 );

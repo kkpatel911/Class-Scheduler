@@ -1,0 +1,211 @@
+[
+	{
+		"Title": "Introduction to Sociology",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "41238",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Sociology",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "40528",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Sociology",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "40636",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Sociology",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "42461",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Sociology",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "43622",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Sociology",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "42968",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Sociology",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "41958",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "The Sociology of the Family",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "40516",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Diversity in American Society",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "40959",
+		"Meeting": [
+			"MWF",
+			"01:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Social Statistics",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "41241",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Modern Social Theory",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "43630",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research Methods",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "40693",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Juvenile Delinquency",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "43469",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Social Psychology",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "40517",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Urban Geography",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "40634",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Sociology Internship",
+		"Subject": "SOC",
+		"Hours": "3 TO 6",
+		"CRN": "43470",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "The Death Penalty in America",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "43595",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Legal Issues Facing Sex and Gender Minorities",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "43471",
+		"Meeting": [
+			"M",
+			"02:00  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "The Sociology of Drugs",
+		"Subject": "SOC",
+		"Hours": "3",
+		"CRN": "43596",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	}
+]

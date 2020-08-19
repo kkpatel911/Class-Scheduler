@@ -1,0 +1,46 @@
+[
+	{
+		"Title": "World Cinema: Spanish Film",
+		"Subject": "MLNG",
+		"Hours": "3",
+		"CRN": "43423",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "World Cinema: Introduction to Hispanic-American Culture",
+		"Subject": "MLNG",
+		"Hours": "3",
+		"CRN": "42353",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Encountering Global Cultures",
+		"Subject": "MLNG",
+		"Hours": "1 TO 3",
+		"CRN": "43649",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Group Studies",
+		"Subject": "MLNG",
+		"Hours": "1 TO 9",
+		"CRN": "43972",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

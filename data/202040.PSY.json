@@ -1,0 +1,1311 @@
+[
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40433",
+		"Meeting": [
+			"W",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40434",
+		"Meeting": [
+			"W",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "41230",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40435",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40437",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40928",
+		"Meeting": [
+			"W",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40438",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40671",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40550",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40551",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "41482",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "41946",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "42986",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "42524",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "43462",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research Methodology: Introductory Statistics in Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "41024",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research Methodology: Introductory Statistics in Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40439",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 03:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research Methodology: Laboratory and Field Research Techniques",
+		"Subject": "PSY",
+		"Hours": "4",
+		"CRN": "40441",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research Methodology: Laboratory and Field Research Techniques",
+		"Subject": "PSY",
+		"Hours": "4",
+		"CRN": "40442",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research Methodology: Laboratory and Field Research Techniques",
+		"Subject": "PSY",
+		"Hours": "4",
+		"CRN": "41067",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research Methodology: Laboratory and Field Research Techniques",
+		"Subject": "PSY",
+		"Hours": "4",
+		"CRN": "42463",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research Methodology: Laboratory and Field Research Laboratory",
+		"Subject": "PSY",
+		"Hours": "0",
+		"CRN": "40443",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research Methodology: Laboratory and Field Research Laboratory",
+		"Subject": "PSY",
+		"Hours": "0",
+		"CRN": "40444",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research Methodology: Laboratory and Field Research Laboratory",
+		"Subject": "PSY",
+		"Hours": "0",
+		"CRN": "40445",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research Methodology: Laboratory and Field Research Laboratory",
+		"Subject": "PSY",
+		"Hours": "0",
+		"CRN": "40446",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research Methodology: Laboratory and Field Research Laboratory",
+		"Subject": "PSY",
+		"Hours": "0",
+		"CRN": "43057",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Statistics in Psychology Laboratory",
+		"Subject": "PSY",
+		"Hours": "1",
+		"CRN": "40448",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Statistics in Psychology Laboratory",
+		"Subject": "PSY",
+		"Hours": "1",
+		"CRN": "40449",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Statistics in Psychology Laboratory",
+		"Subject": "PSY",
+		"Hours": "1",
+		"CRN": "40450",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Statistics in Psychology Laboratory",
+		"Subject": "PSY",
+		"Hours": "1",
+		"CRN": "40451",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Statistics in Psychology Laboratory",
+		"Subject": "PSY",
+		"Hours": "1",
+		"CRN": "40452",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Statistics in Psychology Laboratory",
+		"Subject": "PSY",
+		"Hours": "1",
+		"CRN": "44007",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Psychology as a Profession",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40966",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "The Psychology of Child Development",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40454",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "The Psychology of Child Development",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "42000",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "The Psychology of Child Development",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "43945",
+		"Meeting": [
+			"W",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "The Psychology of Adolescence/Adult",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40455",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "The Psychology of Adolescence/Adult",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40588",
+		"Meeting": [
+			"W",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Psychology of Aging",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "43463",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Psychology of Individual Differences",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40456",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Psychology of Individual Differences",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40457",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Psychology of Black Experience",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40589",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Abnormal Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40458",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Abnormal Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40967",
+		"Meeting": [
+			"MWF",
+			"08:00  AM - 08:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Learning and Motivation",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40771",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n03:05 PM - 04:20 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Cognitive Science",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n12:00 PM - 12:50 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Cognitive Science",
+		"Subject": "",
+		"Hours": "01",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n05:30 PM - 06:45 PM Type: Class Building: Derthick Lecture Hall Room: 101 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Biological Psychology",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Principles of Neuropsychology",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n09:25 AM - 10:40 AM Type: Class Building: 540 McCallie Building Room: 105 Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Social Psychology",
+		"Subject": "",
+		"Hours": "01",
+		"CRN": "3",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Thursday\nS\nM\nT\nW\nT\nF\nS\n05:30 PM - 08:00 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+	},
+	{
+		"Title": "Positive Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "41341",
+		"Meeting": [
+			"MWF",
+			"01:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Applied Developmental Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40462",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Applied Developmental Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40772",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Fieldwork/Research/Service Learning in Applied Psychology",
+		"Subject": "PSY",
+		"Hours": "1 TO 3",
+		"CRN": "42500",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Fieldwork/Research/Service Learning in Applied Psychology",
+		"Subject": "PSY",
+		"Hours": "1 TO 3",
+		"CRN": "43459",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Practicum in Teaching Psychology",
+		"Subject": "PSY",
+		"Hours": "1 TO 3",
+		"CRN": "42501",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Practicum in Teaching Psychology",
+		"Subject": "PSY",
+		"Hours": "1 TO 3",
+		"CRN": "43460",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Modern Psychological Studies",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "42502",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Industrial/Organizational Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40463",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Theories of Personality",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40464",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Theories of Personality",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "43947",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Psychology of Women",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40465",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Systems of Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40466",
+		"Meeting": [
+			"M",
+			"02:00  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Psychology of Religion",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40467",
+		"Meeting": [
+			"T",
+			"02:00  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 3",
+		"CRN": "43744",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 3",
+		"CRN": "43745",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 3",
+		"CRN": "43786",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 3",
+		"CRN": "43787",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 3",
+		"CRN": "43788",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 3",
+		"CRN": "43958",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "42511",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "42512",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "42513",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43950",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43983",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "42515",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "44021",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "42517",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "42518",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43586",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43587",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43588",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43589",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43590",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43591",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43592",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43593",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "42521",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43146",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43167",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "44017",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "44018",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Teaching of Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40931",
+		"Meeting": [
+			"T",
+			"01:00  PM - 03:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Qualitative Methods for Applied Research and Evaluation",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "43797",
+		"Meeting": [
+			"T",
+			"02:00  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Industrial/Organizational Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40468",
+		"Meeting": [
+			"W",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Statistics and Research Methods in Psychology I",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40469",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Job and Performance Measurement",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "41669",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "The Uses of Groups in Work Organizations",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40470",
+		"Meeting": [
+			"T",
+			"02:00  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Core Business Skills for I-O Psychologists",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "41670",
+		"Meeting": [
+			"W",
+			"12:00  PM - 02:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Practicum in I-O Psychology",
+		"Subject": "PSY",
+		"Hours": "1 TO 6",
+		"CRN": "40471",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Industrial-Organizational Psychology",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "40578",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Seminar in Cognitive Science",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "41177",
+		"Meeting": [
+			"M",
+			"02:00  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Myths and Current Trends in I-O Science and Practice",
+		"Subject": "PSY",
+		"Hours": "3",
+		"CRN": "42984",
+		"Meeting": [
+			"M",
+			"02:30  PM - 05:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43919",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "41918",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43001",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43083",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "41672",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "41673",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSY",
+		"Hours": "1 TO 9",
+		"CRN": "43461",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 6",
+		"CRN": "43188",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 6",
+		"CRN": "43887",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 6",
+		"CRN": "41224",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 6",
+		"CRN": "41674",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 6",
+		"CRN": "41675",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 6",
+		"CRN": "41676",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 6",
+		"CRN": "42523",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 6",
+		"CRN": "42748",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "PSY",
+		"Hours": "1 TO 6",
+		"CRN": "42915",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"Title": "African-American Literature",
+		"Subject": "HUM",
+		"Hours": "3",
+		"CRN": "40290",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Senior Capstone Project",
+		"Subject": "HUM",
+		"Hours": "1",
+		"CRN": "41331",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Senior Capstone Project",
+		"Subject": "HUM",
+		"Hours": "1",
+		"CRN": "43691",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Senior Capstone Project",
+		"Subject": "HUM",
+		"Hours": "1",
+		"CRN": "43829",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "HUM",
+		"Hours": "1 TO 3",
+		"CRN": "43774",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "HUM",
+		"Hours": "1 TO 3",
+		"CRN": "43775",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

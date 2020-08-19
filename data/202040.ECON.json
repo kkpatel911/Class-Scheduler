@@ -1,0 +1,222 @@
+[
+	{
+		"Title": "Principles of Economics: Macroeconomics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "42732",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Economics: Macroeconomics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "41447",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Economics: Macroeconomics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "41357",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Economics: Macroeconomics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "40113",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Economics: Macroeconomics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "40115",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Economics: Macroeconomics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "40114",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Economics: Macroeconomics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "41538",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Economics: Macroeconomics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "42849",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Economics: Microeconomics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "41883",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Economics: Microeconomics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "41358",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Economics: Microeconomics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "41038",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Economics: Microeconomics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "40116",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Economics: Microeconomics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "40711",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Public Finance",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "43287",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Labor Economics and the Labor Process",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "43288",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Intermediate Microeconomic Theory",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "40117",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Experiential Learning: Academic Internship Program",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "43828",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Health Care Economics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "43289",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Econometrics",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "41542",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Economics for Managers",
+		"Subject": "ECON",
+		"Hours": "3",
+		"CRN": "43290",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	}
+]

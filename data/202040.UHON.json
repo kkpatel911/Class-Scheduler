@@ -1,0 +1,431 @@
+[
+	{
+		"Title": "Freshman Honors Studies",
+		"Subject": "UHON",
+		"Hours": "1",
+		"CRN": "42470",
+		"Meeting": [
+			"M",
+			"02:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Freshman Honors Studies",
+		"Subject": "UHON",
+		"Hours": "1",
+		"CRN": "42471",
+		"Meeting": [
+			"M",
+			"03:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Freshman Honors Studies",
+		"Subject": "UHON",
+		"Hours": "1",
+		"CRN": "42472",
+		"Meeting": [
+			"W",
+			"02:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Freshman Honors Studies",
+		"Subject": "UHON",
+		"Hours": "1",
+		"CRN": "42473",
+		"Meeting": [
+			"W",
+			"03:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Freshman Honors Studies",
+		"Subject": "UHON",
+		"Hours": "1",
+		"CRN": "44016",
+		"Meeting": [
+			"W",
+			"04:00  PM - 04:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Humanities I",
+		"Subject": "UHON",
+		"Hours": "6",
+		"CRN": "42474",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Humanities I",
+		"Subject": "UHON",
+		"Hours": "6",
+		"CRN": "40119",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Humanities I",
+		"Subject": "UHON",
+		"Hours": "6",
+		"CRN": "41036",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Humanities I",
+		"Subject": "UHON",
+		"Hours": "6",
+		"CRN": "42475",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Humanities I",
+		"Subject": "UHON",
+		"Hours": "6",
+		"CRN": "40118",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Special Projects",
+		"Subject": "UHON",
+		"Hours": "1 TO 9",
+		"CRN": "42476",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Special Projects",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "43916",
+		"Meeting": [
+			"T",
+			"02:00  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Sophomore Honors Studies",
+		"Subject": "UHON",
+		"Hours": "1",
+		"CRN": "42477",
+		"Meeting": [
+			"T",
+			"04:30  PM - 05:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Sophomore Honors Studies",
+		"Subject": "UHON",
+		"Hours": "1",
+		"CRN": "42480",
+		"Meeting": [
+			"T",
+			"04:30  PM - 05:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Sophomore Honors Studies",
+		"Subject": "UHON",
+		"Hours": "1",
+		"CRN": "42478",
+		"Meeting": [
+			"T",
+			"08:00  AM - 08:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Sophomore Honors Studies",
+		"Subject": "UHON",
+		"Hours": "1",
+		"CRN": "42479",
+		"Meeting": [
+			"T",
+			"04:30  PM - 05:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Innovation Lab I",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "42483",
+		"Meeting": [
+			"T",
+			"02:00  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Innovation Lab I",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "42482",
+		"Meeting": [
+			"T",
+			"10:00  AM - 12:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Innovation Lab I",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "43016",
+		"Meeting": [
+			"W",
+			"02:00  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Innovation Lab I",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "43915",
+		"Meeting": [
+			"W",
+			"11:00  AM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Junior Honors Studies",
+		"Subject": "UHON",
+		"Hours": "1",
+		"CRN": "42484",
+		"Meeting": [
+			"W",
+			"04:30  PM - 05:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mythology of the Night Sky",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "43620",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Narratives of Illness and Care",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "43481",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "The Good Place",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "43482",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Applied Theatre in the Healthcare Setting",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "42487",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 03:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Applied Theatre in the Healthcare Setting",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "43483",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 03:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Emotions and Emotional Intelligence",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "42489",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Cultivating Creativity",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "42488",
+		"Meeting": [
+			"TTT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Social Spaces Dialogue: Precarity",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "43628",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Narratives of Illness and Care",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "43484",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Topics in Natural Sciences: Mythology of the Night Sky",
+		"Subject": "UHON",
+		"Hours": "4",
+		"CRN": "43604",
+		"Meeting": [
+			"TTF",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Language of Mathematics",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "43605",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "World Food Culture",
+		"Subject": "UHON",
+		"Hours": "3",
+		"CRN": "43486",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Experiential Learning: Internship",
+		"Subject": "UHON",
+		"Hours": "0 TO 3",
+		"CRN": "42971",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Experiential Learning: Internship",
+		"Subject": "UHON",
+		"Hours": "0 TO 3",
+		"CRN": "42492",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "UHON",
+		"Hours": "1 TO 3",
+		"CRN": "43790",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "UHON",
+		"Hours": "1 TO 3",
+		"CRN": "43791",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "UHON",
+		"Hours": "1 TO 3",
+		"CRN": "43792",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "UHON",
+		"Hours": "1 TO 9",
+		"CRN": "42675",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

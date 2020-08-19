@@ -1,0 +1,134 @@
+[
+	{
+		"Title": "Piano Instruction",
+		"Subject": "MUSP",
+		"Hours": "2",
+		"CRN": "42623",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Voice Instruction",
+		"Subject": "MUSP",
+		"Hours": "2",
+		"CRN": "42624",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Voice Instruction",
+		"Subject": "MUSP",
+		"Hours": "2",
+		"CRN": "42625",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Flute Instruction",
+		"Subject": "MUSP",
+		"Hours": "2",
+		"CRN": "43583",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Trumpet Instruction",
+		"Subject": "MUSP",
+		"Hours": "2",
+		"CRN": "43827",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Percussion Instruction",
+		"Subject": "MUSP",
+		"Hours": "2",
+		"CRN": "42628",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Piano Instruction",
+		"Subject": "MUSP",
+		"Hours": "2",
+		"CRN": "43663",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Voice Instruction",
+		"Subject": "MUSP",
+		"Hours": "2",
+		"CRN": "43584",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Voice Instruction",
+		"Subject": "MUSP",
+		"Hours": "2",
+		"CRN": "43585",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Flute Instruction",
+		"Subject": "MUSP",
+		"Hours": "2",
+		"CRN": "42632",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Clarinet Instruction",
+		"Subject": "MUSP",
+		"Hours": "2",
+		"CRN": "42633",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Percussion Instruction",
+		"Subject": "MUSP",
+		"Hours": "2",
+		"CRN": "42634",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

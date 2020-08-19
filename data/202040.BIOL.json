@@ -1,0 +1,1674 @@
+[
+	{
+		"Title": "Life on Earth",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "42992",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Life on Earth Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "42993",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Conservation of Biodiversity",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "40170",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Conservation of Biodiversity",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "41219",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Conservation of Biodiversity",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "42996",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "41005",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40732",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40731",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "43221",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40733",
+		"Meeting": [
+			"MW",
+			"05:00  PM - 06:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40173",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40172",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40790",
+		"Meeting": [
+			"M",
+			"10:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40175",
+		"Meeting": [
+			"M",
+			"10:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40176",
+		"Meeting": [
+			"M",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40177",
+		"Meeting": [
+			"M",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40178",
+		"Meeting": [
+			"M",
+			"02:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40179",
+		"Meeting": [
+			"M",
+			"02:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40180",
+		"Meeting": [
+			"M",
+			"04:00  PM - 05:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43050",
+		"Meeting": [
+			"M",
+			"04:00  PM - 05:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40181",
+		"Meeting": [
+			"T",
+			"08:50  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40182",
+		"Meeting": [
+			"T",
+			"10:50  AM - 12:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43051",
+		"Meeting": [
+			"T",
+			"10:50  AM - 12:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40183",
+		"Meeting": [
+			"T",
+			"12:50  PM - 02:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43222",
+		"Meeting": [
+			"T",
+			"12:50  PM - 02:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40185",
+		"Meeting": [
+			"T",
+			"02:50  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43052",
+		"Meeting": [
+			"T",
+			"02:50  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40186",
+		"Meeting": [
+			"T",
+			"04:50  PM - 06:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40187",
+		"Meeting": [
+			"W",
+			"09:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "41261",
+		"Meeting": [
+			"W",
+			"09:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40188",
+		"Meeting": [
+			"W",
+			"11:00  AM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "41262",
+		"Meeting": [
+			"W",
+			"11:00  AM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40189",
+		"Meeting": [
+			"W",
+			"01:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40190",
+		"Meeting": [
+			"W",
+			"01:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "41253",
+		"Meeting": [
+			"W",
+			"03:00  PM - 04:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40191",
+		"Meeting": [
+			"W",
+			"06:55  PM - 08:45  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40192",
+		"Meeting": [
+			"T",
+			"10:50  AM - 12:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40193",
+		"Meeting": [
+			"T",
+			"10:50  AM - 12:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40562",
+		"Meeting": [
+			"T",
+			"12:50  PM - 02:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology I Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40565",
+		"Meeting": [
+			"T",
+			"12:50  PM - 02:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology II",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40194",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology II",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40796",
+		"Meeting": [
+			"TT",
+			"08:00  AM - 09:15  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology II Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40195",
+		"Meeting": [
+			"W",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology II Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40196",
+		"Meeting": [
+			"W",
+			"02:30  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology II Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40197",
+		"Meeting": [
+			"T",
+			"12:15  PM - 02:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology II Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40799",
+		"Meeting": [
+			"F",
+			"10:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology II Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "41064",
+		"Meeting": [
+			"F",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology III",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "40734",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Biology III",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "40735",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Urban Gardening",
+		"Subject": "BIOL",
+		"Hours": "1",
+		"CRN": "43120",
+		"Meeting": [
+			"T",
+			"02:00  PM - 04:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Special Projects: Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1",
+		"CRN": "43501",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Functional Human Anatomy",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40736",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Functional Human Anatomy Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40753",
+		"Meeting": [
+			"W",
+			"10:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Functional Human Anatomy Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40752",
+		"Meeting": [
+			"W",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Functional Human Anatomy Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40750",
+		"Meeting": [
+			"W",
+			"02:30  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Functional Human Anatomy Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40791",
+		"Meeting": [
+			"T",
+			"10:15  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Functional Human Anatomy Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40754",
+		"Meeting": [
+			"T",
+			"12:15  PM - 02:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Human Physiology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40199",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Human Physiology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "41264",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Human Physiology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "41712",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Human Physiology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43223",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Human Physiology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43224",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Human Physiology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40201",
+		"Meeting": [
+			"T",
+			"02:30  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Microbiology and Health",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40202",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Microbiology and Health Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40203",
+		"Meeting": [
+			"M",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Microbiology and Health Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40204",
+		"Meeting": [
+			"M",
+			"03:00  PM - 04:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Microbiology and Health Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40554",
+		"Meeting": [
+			"W",
+			"12:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Microbiology and Health Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40755",
+		"Meeting": [
+			"W",
+			"03:00  PM - 04:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Ecology",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "40630",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Ecology",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "42074",
+		"Meeting": [
+			"TT",
+			"08:00  AM - 09:15  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Ecology",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "42560",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Ecology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "1",
+		"CRN": "40206",
+		"Meeting": [
+			"W",
+			"02:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Ecology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "1",
+		"CRN": "40586",
+		"Meeting": [
+			"F",
+			"02:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Genetics",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "40587",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Genetics",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "41713",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Genetics Laboratory",
+		"Subject": "BIOL",
+		"Hours": "1",
+		"CRN": "40631",
+		"Meeting": [
+			"T",
+			"01:40  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Evolution",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "40797",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Evolution",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "42075",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Entomology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40744",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Entomology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40745",
+		"Meeting": [
+			"T",
+			"12:15  PM - 03:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Herpetology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "43226",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Herpetology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43227",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mammalogy",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "43228",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mammology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43230",
+		"Meeting": [
+			"T",
+			"01:40  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Plant Morphology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40866",
+		"Meeting": [
+			"MWF",
+			"08:00  AM - 08:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Plant Morphology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40867",
+		"Meeting": [
+			"M",
+			"01:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introductory Animal Physiology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "42082",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introductory Animal Physiology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "42083",
+		"Meeting": [
+			"M",
+			"02:00  PM - 04:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Microbiology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40740",
+		"Meeting": [
+			"TT",
+			"08:00  AM - 09:15  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Microbiology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40741",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Microbiology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40742",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 03:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Cellular Biology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40208",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Cellular Biology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40749",
+		"Meeting": [
+			"W",
+			"01:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Urban Gardening-Organoponics",
+		"Subject": "BIOL",
+		"Hours": "1",
+		"CRN": "43121",
+		"Meeting": [
+			"T",
+			"02:00  PM - 04:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Toxicology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "41718",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Toxicology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "41719",
+		"Meeting": [
+			"M",
+			"02:00  PM - 04:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Animal Behavior",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "43231",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Animal Behavior Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43232",
+		"Meeting": [
+			"W",
+			"12:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Biogeography",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "43233",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Bioremediation",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "43234",
+		"Meeting": [
+			"T",
+			"03:05  PM - 04:35  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Bioremediation Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43235",
+		"Meeting": [
+			"T",
+			"03:05  PM - 06:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Limnology and Reservoir Ecology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "40746",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Limnology and Reservoir Ecology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "40747",
+		"Meeting": [
+			"F",
+			"02:00  PM - 04:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Plant Ecology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "43236",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Plant Ecology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43237",
+		"Meeting": [
+			"T",
+			"12:20  PM - 03:10  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Topics in Evolutionary Ecology",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "41725",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Immunology",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "43238",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Dendrology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "43239",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Dendrology Laboratory",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43240",
+		"Meeting": [
+			"W",
+			"02:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "BIOL",
+		"Hours": "1 TO 3",
+		"CRN": "43752",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "BIOL",
+		"Hours": "1 TO 3",
+		"CRN": "43753",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "BIOL",
+		"Hours": "1 TO 3",
+		"CRN": "43754",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "BIOL",
+		"Hours": "1 TO 3",
+		"CRN": "43755",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "BIOL",
+		"Hours": "1 TO 3",
+		"CRN": "43756",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "42088",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "43502",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "43090",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "43503",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "43504",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "43505",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "43506",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "43507",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "42089",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "43508",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "42715",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "42091",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "42092",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "42099",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "42717",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "42723",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "42720",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "42719",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "42725",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "42094",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "43509",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "42705",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "43707",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "43885",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "43895",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Meiofaunal Biodiversity Lab",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "42100",
+		"Meeting": [
+			"W",
+			"01:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Ant Ecology Lab",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43242",
+		"Meeting": [
+			"M",
+			"01:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Meiofaunal Biodiversity",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "42101",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Ant Ecology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "42995",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Data Science for Biologists",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "43510",
+		"Meeting": [
+			"MW",
+			"06:00  PM - 07:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Current Issues in Biology: Data Science for Biologists",
+		"Subject": "BIOL",
+		"Hours": "3",
+		"CRN": "43555",
+		"Meeting": [
+			"MW",
+			"06:00  PM - 07:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Plant Morphology Lab",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "42102",
+		"Meeting": [
+			"M",
+			"01:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Dendrology Lab",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "41898",
+		"Meeting": [
+			"W",
+			"02:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Meiofaunal Biodiversity Lab",
+		"Subject": "BIOL",
+		"Hours": "0",
+		"CRN": "43249",
+		"Meeting": [
+			"W",
+			"01:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Topics in Organismic Biology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "42105",
+		"Meeting": [
+			"MWF",
+			"08:00  AM - 08:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Dendrology",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "42729",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Meiofaunal Biodiversity",
+		"Subject": "BIOL",
+		"Hours": "4",
+		"CRN": "42104",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "BIOL",
+		"Hours": "1 TO 9",
+		"CRN": "43716",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

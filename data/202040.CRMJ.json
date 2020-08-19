@@ -1,0 +1,607 @@
+[
+	{
+		"Title": "Introduction to the Criminal Justice System",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40697",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to the Criminal Justice System",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "41527",
+		"Meeting": [
+			"TT",
+			"08:00  AM - 09:15  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to the Criminal Justice System",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "41969",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to the Criminal Justice System",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40472",
+		"Meeting": [
+			"MWF",
+			"12:00  PM - 12:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to the Criminal Justice System",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40529",
+		"Meeting": [
+			"TT",
+			"08:00  AM - 09:15  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to the Criminal Justice System",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "41942",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to the Criminal Justice System",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "42990",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to the Criminal Justice System",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "42259",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to the Criminal Justice System",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43962",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to the Criminal Justice System",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "42654",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to the Criminal Justice System",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43278",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Criminal Law",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "42640",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Criminal Law",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "42641",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Violence in America",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "41528",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Criminology",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40995",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Criminology",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40996",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Family Law",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "42642",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Family Law",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43272",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Violence Against Women",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43279",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Criminal Justice Research Methodology",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40473",
+		"Meeting": [
+			"MW",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Criminal Justice Research Methodology",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43273",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Courts",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "41411",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Courts",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40622",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Race, Class, Gender and Crime",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "42907",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Media and the Criminal Justice System",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43280",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Public and Private Security",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43274",
+		"Meeting": [
+			"MWF",
+			"01:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Drugs: The Law and the Community",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "41270",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Serial Murder",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43882",
+		"Meeting": [
+			"MWF",
+			"02:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Constitutional Law",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "42644",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Terrorism",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "41355",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "White Collar and Corporate Crime",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40777",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Ethics in Criminal Justice",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43281",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Gangs and Crime",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40710",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Criminal Justice Administration",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "42621",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Criminal Justice Internship",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40530",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Criminal Justice Advanced Internship",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40531",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Capstone in Critical Justice Issues",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40474",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Capstone in Critical Justice Issues",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40623",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "CRMJ",
+		"Hours": "1 TO 3",
+		"CRN": "43802",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "42261",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "CRMJ",
+		"Hours": "1 TO 9",
+		"CRN": "43162",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "CRMJ",
+		"Hours": "1 TO 9",
+		"CRN": "43818",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Law and Film",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "42264",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Intelligence-Led Policing",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43275",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Legal Issues Facing Sex and Gender Minorities",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43276",
+		"Meeting": [
+			"M",
+			"02:00  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Criminal Justice Proseminar",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "42266",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Research Methodology I",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "41531",
+		"Meeting": [
+			"W",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Family Violence",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43285",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Cyber Crimes",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43286",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Diversity and Crime",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "43277",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Internship in Criminal Justice",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "40475",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "CRMJ",
+		"Hours": "1 TO 9",
+		"CRN": "41131",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "CRMJ",
+		"Hours": "1 TO 9",
+		"CRN": "43193",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "CRMJ",
+		"Hours": "1 TO 9",
+		"CRN": "43720",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Thesis",
+		"Subject": "CRMJ",
+		"Hours": "3",
+		"CRN": "41504",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

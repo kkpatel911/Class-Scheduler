@@ -1,0 +1,24 @@
+[
+	{
+		"Title": "International Exchange (OUT)",
+		"Subject": "EXCH",
+		"Hours": "0",
+		"CRN": "42764",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "International Exchange (OUT)",
+		"Subject": "EXCH",
+		"Hours": "1 TO 12",
+		"CRN": "42765",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

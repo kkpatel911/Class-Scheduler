@@ -1,0 +1,266 @@
+[
+	{
+		"Title": "ESL Level 1 Beginner PT",
+		"Subject": "ESL",
+		"Hours": "0",
+		"CRN": "42859",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "ESL Level 2 Elementary PT",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "ESL Level 3 Pre-Intermediate PT",
+		"Subject": "",
+		"Hours": "NC13R",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "ESL Level 4 Intermediate PT",
+		"Subject": "Repeatable Course\n\n",
+		"Hours": "ESL",
+		"CRN": "NC14R",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "41418"
+	},
+	{
+		"Title": "ESL Level 5 Upper-Intermediate PT",
+		"Subject": "Repeatable Course\n\n",
+		"Hours": "ESL",
+		"CRN": "NC15R",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "41864"
+	},
+	{
+		"Title": "ESL Level 6 Advanced PT",
+		"Subject": "12 of 12 seats remain.\n",
+		"Hours": "",
+		"CRN": "ESL",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "0"
+	},
+	{
+		"Title": "ESL Level 1 Beginner FT",
+		"Subject": "UT Chattanooga",
+		"Hours": "",
+		"CRN": "",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "0"
+	},
+	{
+		"Title": "ESL Level 2 Elementary FT",
+		"Subject": "",
+		"Hours": "Repeatable Course\n\n",
+		"CRN": "",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "NC22R"
+	},
+	{
+		"Title": "ESL Level 3 Pre-Intermediate FT",
+		"Subject": "",
+		"Hours": "12 of 12 seats remain.\n",
+		"CRN": "Repeatable Course\n\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "ESL"
+	},
+	{
+		"Title": "ESL Level 4 Intermediate FT",
+		"Subject": "Fall 2020",
+		"Hours": "12 of 12 seats remain.\n",
+		"CRN": "Repeatable Course\n\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "ESL"
+	},
+	{
+		"Title": "ESL Level 5 Upper-Intermediate FT",
+		"Subject": "Fall 2020",
+		"Hours": "UT Chattanooga",
+		"CRN": "12 of 12 seats remain.\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "ESL Level 6 Advanced FT",
+		"Subject": "41405",
+		"Hours": "",
+		"CRN": "UT Chattanooga",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "ESL Level 1 Beginner High PT",
+		"Subject": "0",
+		"Hours": "Monday,Tuesday,Wednesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n09:00 AM - 12:00 PM Type: Class Building: 540 McCallie Building Room: 113 Start Date: 08/17/2020 End Date: 12/08/2020\nMonday,Tuesday,Wednesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n01:00 PM - 03:00 PM Type: Class Building: 540 McCallie Building Room: 113 Start Date: 08/17/2020 End Date: 12/08/2020",
+		"CRN": "UT Chattanooga",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "ESL Level 2 Elementary High PT",
+		"Subject": "0",
+		"Hours": "",
+		"CRN": "",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Repeatable Course\n\n"
+	},
+	{
+		"Title": "ESL Level 3 Pre-Intermediate High PT",
+		"Subject": "0",
+		"Hours": "Fall 2020",
+		"CRN": "",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "12 of 12 seats remain.\n"
+	},
+	{
+		"Title": "ESL Level 4 Intermediate High PT",
+		"Subject": "NC33R",
+		"Hours": "42864",
+		"CRN": "Fall 2020",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "ESL Level 5 Upper-Intermediate High PT",
+		"Subject": "ESL",
+		"Hours": "0",
+		"CRN": "42865",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "ESL Level 6 Advanced High PT",
+		"Subject": "",
+		"Hours": "0",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": ""
+	},
+	{
+		"Title": "ESL Level 1 Beginner High FT",
+		"Subject": "",
+		"Hours": "NC36R",
+		"CRN": "0",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "Fall 2020"
+	},
+	{
+		"Title": "ESL Level 2 Elementary High FT",
+		"Subject": "Repeatable Course\n\n",
+		"Hours": "ESL",
+		"CRN": "NC41R",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "42866"
+	},
+	{
+		"Title": "ESL Level 3 Pre-Intermediate High FT",
+		"Subject": "12 of 12 seats remain.\n",
+		"Hours": "",
+		"CRN": "ESL",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "0"
+	},
+	{
+		"Title": "ESL Level 4 Intermediate High FT",
+		"Subject": "UT Chattanooga",
+		"Hours": "",
+		"CRN": "",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "0"
+	},
+	{
+		"Title": "ESL Level 5 Upper-Intermediate High FT",
+		"Subject": "",
+		"Hours": "Repeatable Course\n\n",
+		"CRN": "",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "NC44R"
+	},
+	{
+		"Title": "ESL Level 6 Advanced High FT",
+		"Subject": "",
+		"Hours": "12 of 12 seats remain.\n",
+		"CRN": "Repeatable Course\n\n",
+		"Meeting": [
+			"",
+			""
+		],
+		"Campus": "ESL"
+	}
+]

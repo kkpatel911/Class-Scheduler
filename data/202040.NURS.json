@@ -1,0 +1,629 @@
+[
+	{
+		"Title": "Introduction to Conceptual Thinking",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40415",
+		"Meeting": [
+			"F",
+			"09:00  AM - 11:30  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Conceptual Thinking",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40570",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Health Assessment",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40416",
+		"Meeting": [
+			"W",
+			"09:00  AM - 11:30  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Nursing Systems I: Foundations of Nursing Practice",
+		"Subject": "NURS",
+		"Hours": "7",
+		"CRN": "40725",
+		"Meeting": [
+			"T",
+			"09:00  AM - 11:30  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Pathophysiology",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40413",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Pathophysiology",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40536",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Introduction to Forensic Nursing",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "41795",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Nursing Systems II: Care of the Adult with Chronic Health Deviations",
+		"Subject": "NURS",
+		"Hours": "8",
+		"CRN": "40726",
+		"Meeting": [
+			"M",
+			"09:00  AM - 12:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Nursing Systems III: Care of the Patient with Mental Health Needs",
+		"Subject": "NURS",
+		"Hours": "4",
+		"CRN": "40727",
+		"Meeting": [
+			"M",
+			"01:30  PM - 04:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Nursing Agency III: Pharmacology",
+		"Subject": "NURS",
+		"Hours": "1",
+		"CRN": "41335",
+		"Meeting": [
+			"W",
+			"04:00  PM - 04:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual in Professional Practice",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40417",
+		"Meeting": [
+			"W",
+			"01:00  PM - 03:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual in Professional Practice",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40418",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Nursing Systems IV: Care of the Childbearing Family",
+		"Subject": "NURS",
+		"Hours": "5",
+		"CRN": "40728",
+		"Meeting": [
+			"T",
+			"09:00  AM - 11:30  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Nursing Systems V: Care of the Family: Childrearing",
+		"Subject": "NURS",
+		"Hours": "5",
+		"CRN": "40729",
+		"Meeting": [
+			"W",
+			"09:00  AM - 11:30  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "The Process of Aging",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "43643",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Nursing Agency V: Research",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40419",
+		"Meeting": [
+			"W",
+			"01:00  PM - 03:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Nursing Agency V: Research",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40946",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Nursing Agency VI: Professional Nursing in the Health Care System",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40420",
+		"Meeting": [
+			"T",
+			"09:00  AM - 11:30  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Nursing Agency VI: Professional Nursing in the Health Care System",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40602",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Nursing Systems VI: Care of the Adult with Acute Health Deviations",
+		"Subject": "NURS",
+		"Hours": "7",
+		"CRN": "40730",
+		"Meeting": [
+			"W",
+			"09:00  AM - 11:30  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Nursing Agency VIII: Pharmacology (Advanced)",
+		"Subject": "NURS",
+		"Hours": "2",
+		"CRN": "40910",
+		"Meeting": [
+			"T",
+			"04:00  PM - 05:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Nursing Practicum V",
+		"Subject": "NURS",
+		"Hours": "2",
+		"CRN": "40851",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Nurs Systems VII: Concepts of Community Health",
+		"Subject": "NURS",
+		"Hours": "6",
+		"CRN": "41334",
+		"Meeting": [
+			"T",
+			"02:40  PM - 03:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Nursing Agency VII: Culminating Senior Experience",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "41336",
+		"Meeting": [
+			"T",
+			"09:00  AM - 11:30  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Nursing Agency VII: Culminating Senior Experience",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "41827",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "NURS",
+		"Hours": "1 TO 3",
+		"CRN": "43779",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "NURS",
+		"Hours": "1 TO 3",
+		"CRN": "43780",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Nursing Research with Statistical Applications",
+		"Subject": "NURS",
+		"Hours": "4",
+		"CRN": "40421",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Nursing Research with Statistical Applications",
+		"Subject": "NURS",
+		"Hours": "4",
+		"CRN": "41063",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Advanced Pathophysiology",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40422",
+		"Meeting": [
+			"W",
+			"09:00  AM - 11:30  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Resource Management for Advanced Nursing Practice",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "42429",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Advanced Anatomy and Physiology for Nurse Anesthesia II",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40811",
+		"Meeting": [
+			"T",
+			"12:30  PM - 03:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Nurse Anesthesia Practice - Basic",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "41440",
+		"Meeting": [
+			"T",
+			"12:30  PM - 03:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Advanced Nurse Anesthesia Practice II",
+		"Subject": "NURS",
+		"Hours": "2",
+		"CRN": "40922",
+		"Meeting": [
+			"M",
+			"03:40  PM - 05:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Primary Care of Adults Practicum",
+		"Subject": "NURS",
+		"Hours": "2",
+		"CRN": "43724",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Primary Care of Women Practicum",
+		"Subject": "NURS",
+		"Hours": "2",
+		"CRN": "40627",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Clinical Nurse Anesthesia Practicum I",
+		"Subject": "NURS",
+		"Hours": "4",
+		"CRN": "40563",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Clinical Nurse Anesthesia Practicum V",
+		"Subject": "NURS",
+		"Hours": "8",
+		"CRN": "40591",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Clinical Nurse Anesthesia Practicum VII",
+		"Subject": "NURS",
+		"Hours": "4",
+		"CRN": "44012",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Clinical Nurse Anesthesia Practicum VIII",
+		"Subject": "NURS",
+		"Hours": "4",
+		"CRN": "44005",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Clinical Nurse Anesthesia Practicum VIII",
+		"Subject": "NURS",
+		"Hours": "4",
+		"CRN": "44013",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Critical Care",
+		"Subject": "NURS",
+		"Hours": "2",
+		"CRN": "41233",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Advanced Critical Care Practicum",
+		"Subject": "NURS",
+		"Hours": "4",
+		"CRN": "41234",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Advanced Pharmacology for Nurse Anesthesia Practice",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "40812",
+		"Meeting": [
+			"M",
+			"12:30  PM - 03:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Health Assessment",
+		"Subject": "NURS",
+		"Hours": "2",
+		"CRN": "43722",
+		"Meeting": [
+			"W",
+			"01:00  PM - 02:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Health Assessment Laboratory",
+		"Subject": "NURS",
+		"Hours": "1",
+		"CRN": "43723",
+		"Meeting": [
+			"W",
+			"03:00  PM - 03:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "NURS",
+		"Hours": "1 TO 9",
+		"CRN": "42875",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "NURS",
+		"Hours": "1 TO 9",
+		"CRN": "43965",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Epidemiology and Health Requisites of Population",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "41104",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Technology and Transformation of Health Care",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "41105",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Translational Project",
+		"Subject": "NURS",
+		"Hours": "1 TO 6",
+		"CRN": "43935",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Translational Project III",
+		"Subject": "NURS",
+		"Hours": "1",
+		"CRN": "40947",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Translational Project III",
+		"Subject": "NURS",
+		"Hours": "1",
+		"CRN": "42693",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Translational Project III",
+		"Subject": "NURS",
+		"Hours": "1",
+		"CRN": "42694",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Translational Project IV",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "41106",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Translational Project IV",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "42695",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Translational Project IV",
+		"Subject": "NURS",
+		"Hours": "3",
+		"CRN": "42696",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	}
+]

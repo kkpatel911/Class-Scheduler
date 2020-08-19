@@ -1,0 +1,475 @@
+[
+	{
+		"Title": "Accounting and Financial Reporting: A User's Perspective",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40243",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Principles of Accounting I",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "42877",
+		"Meeting": [
+			"W",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting I",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "41189",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting I",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "41190",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting I",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40244",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting I",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40537",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting I",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "41216",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting I",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40690",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting I",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "41255",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting I",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40911",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting I",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "41069",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting I",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "43499",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting II",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40668",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting II",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40245",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting II",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "41217",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting II",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "43023",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting II",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "41074",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Principles of Accounting II",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "41348",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Intermediate Accounting I",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40246",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Intermediate Accounting I",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "41963",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Intermediate Accounting II",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40247",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Managerial Cost Accounting",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40248",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Managerial Cost Accounting",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40249",
+		"Meeting": [
+			"W",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Federal Tax Accounting",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40250",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Federal Tax Accounting",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40251",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Experiential Learning: Academic Internship Program",
+		"Subject": "ACC",
+		"Hours": "1 TO 3",
+		"CRN": "42888",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Accounting",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "41070",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 03:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Accounting",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "41071",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Accounting Data Analytics",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "42555",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Auditing",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40669",
+		"Meeting": [
+			"W",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Governmental Accounting",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "43111",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Accounting Information Systems",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40643",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Accounting Information Systems",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40254",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Taxation of Corporations and Partnerships",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40255",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "ACC",
+		"Hours": "1 TO 3",
+		"CRN": "43731",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Special Topics in Accounting",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "42876",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Governmental and Nonprofit Accounting",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "43200",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Taxation of Corporations and Partnerships",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40782",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Advanced Managerial Accounting and Control",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40256",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Advanced Managerial Accounting Lab",
+		"Subject": "ACC",
+		"Hours": "1",
+		"CRN": "41349",
+		"Meeting": [
+			"MW",
+			"08:05  PM - 09:15  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Financial Accounting Theory and Issues",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "40257",
+		"Meeting": [
+			"MW",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Financial Accounting Theory and Issues Lab",
+		"Subject": "ACC",
+		"Hours": "1",
+		"CRN": "41350",
+		"Meeting": [
+			"MW",
+			"08:05  PM - 09:15  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Accounting for Managers",
+		"Subject": "ACC",
+		"Hours": "3",
+		"CRN": "41410",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

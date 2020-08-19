@@ -1,0 +1,376 @@
+[
+	{
+		"Title": "Introduction to Social Work Experience",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "42601",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Social Work Experience",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "41237",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Intoduction to Social Policy: A Child and Family Perspective",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "41112",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "The Family Experience: Matters of Ethnicity, Race, Class and Gender",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "41113",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Social Work Practice with Individuals and Families",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "40519",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Social Work Practice with Individuals and Families",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "40761",
+		"Meeting": [
+			"MWF",
+			"11:00  AM - 11:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Pre-Field Seminar I",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "40520",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Pre-Field Seminar I",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "43864",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Human Behavior and the Social Environment I",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "40521",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 03:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Child Welfare I",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "40522",
+		"Meeting": [
+			"W",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Mental Health Perspectives",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "40625",
+		"Meeting": [
+			"M",
+			"05:00  PM - 07:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Diversity and Cultural Competence",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "40763",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Social Work Practice with Communities and Organizations",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "40523",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Field Education I",
+		"Subject": "SOCW",
+		"Hours": "5",
+		"CRN": "40524",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Integrative Field Seminar I",
+		"Subject": "SOCW",
+		"Hours": "1",
+		"CRN": "40596",
+		"Meeting": [
+			"T",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Integrative Field Seminar I",
+		"Subject": "SOCW",
+		"Hours": "1",
+		"CRN": "40764",
+		"Meeting": [
+			"T",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Applied Research",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "40525",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Applied Research",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "43472",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "School Social Work and the Law",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "43899",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "SOCW",
+		"Hours": "1 TO 3",
+		"CRN": "43880",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Theory and Practice I",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "43473",
+		"Meeting": [
+			"TTTTTTT",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Advanced Practice with Aging Families I",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "41383",
+		"Meeting": [
+			"MMMMMMM",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Communication and Writing for Professional Practice",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "43474",
+		"Meeting": [
+			"MMMMMMM",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Theories of Aging and Development",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "41681",
+		"Meeting": [
+			"MMMMMMM",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Grant Writing for Social Work",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "43475",
+		"Meeting": [
+			"MMMMMMM",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Psychopathology and Mental Health",
+		"Subject": "SOCW",
+		"Hours": "3",
+		"CRN": "43476",
+		"Meeting": [
+			"TTTTTTT",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Field Seminar I",
+		"Subject": "SOCW",
+		"Hours": "1",
+		"CRN": "43477",
+		"Meeting": [
+			"TTTTTTT",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Foundation Field Education I",
+		"Subject": "SOCW",
+		"Hours": "5",
+		"CRN": "41117",
+		"Meeting": [
+			"T",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Field Seminar II",
+		"Subject": "SOCW",
+		"Hours": "1",
+		"CRN": "43902",
+		"Meeting": [
+			"TTTTTTT",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Foundation Field Education II",
+		"Subject": "SOCW",
+		"Hours": "5",
+		"CRN": "43900",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Field Seminar I",
+		"Subject": "SOCW",
+		"Hours": "1",
+		"CRN": "43478",
+		"Meeting": [
+			"TTTTTTT",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Advanced Field Education I",
+		"Subject": "SOCW",
+		"Hours": "5",
+		"CRN": "41387",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Advanced Field Seminar II",
+		"Subject": "SOCW",
+		"Hours": "1",
+		"CRN": "43903",
+		"Meeting": [
+			"TTTTTTT",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Advanced Field Education II",
+		"Subject": "SOCW",
+		"Hours": "5",
+		"CRN": "43901",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

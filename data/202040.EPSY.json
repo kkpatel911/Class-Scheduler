@@ -1,0 +1,101 @@
+[
+	{
+		"Title": "Methods of Educational Research",
+		"Subject": "EPSY",
+		"Hours": "3",
+		"CRN": "41042",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Foundations of Assessment in School Psychology",
+		"Subject": "EPSY",
+		"Hours": "3",
+		"CRN": "40792",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Applied Foundations of School Psychology I",
+		"Subject": "EPSY",
+		"Hours": "2",
+		"CRN": "43721",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Affective and Behavioral Assessment Techniques",
+		"Subject": "EPSY",
+		"Hours": "3",
+		"CRN": "40382",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Foundations in Mental Health Intervention in School Psychology",
+		"Subject": "EPSY",
+		"Hours": "3",
+		"CRN": "41066",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Historical, Legal and Ethical Foundations of School Psychology",
+		"Subject": "EPSY",
+		"Hours": "3",
+		"CRN": "40383",
+		"Meeting": [
+			"W",
+			"05:00  PM - 07:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Consultation Methods",
+		"Subject": "EPSY",
+		"Hours": "3",
+		"CRN": "40384",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Practicum in Assessment",
+		"Subject": "EPSY",
+		"Hours": "4",
+		"CRN": "43522",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Internship in School Psychology I",
+		"Subject": "EPSY",
+		"Hours": "3 TO 6",
+		"CRN": "41498",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	}
+]

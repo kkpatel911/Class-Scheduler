@@ -1,0 +1,882 @@
+[
+	{
+		"Title": "Computers in Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40322",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Computers in Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "41834",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Computers in Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43400",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Computers in Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43408",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Statistics for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42647",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Statistics for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42648",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Statistics for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42649",
+		"Meeting": [
+			"MWF",
+			"01:00  PM - 01:50  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Statistics for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42650",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Statistics for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42651",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Data Modeling for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43391",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Data Modeling for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43392",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Data Modeling for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43393",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Data Modeling for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43409",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Data Modeling for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43410",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Data Modeling for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43411",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Operations Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40331",
+		"Meeting": [
+			"MWF",
+			"08:00  AM - 08:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Operations Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40332",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Operations Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "41623",
+		"Meeting": [
+			"MWF",
+			"10:00  AM - 10:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Operations Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40938",
+		"Meeting": [
+			"MW",
+			"02:00  PM - 03:15  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Operations Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42300",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Operations Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42336",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Concepts, Theory, and Practice",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42964",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Concepts, Theory, and Practice",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40351",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Concepts, Theory, and Practice",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40352",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Concepts, Theory, and Practice",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40353",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Concepts, Theory, and Practice",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40593",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Concepts, Theory, and Practice",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40943",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Concepts, Theory, and Practice",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42962",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Concepts, Theory, and Practice",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42963",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Concepts, Theory, and Practice",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42306",
+		"Meeting": [
+			"TT",
+			"08:00  AM - 09:15  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Concepts in Organizational Behavior",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40354",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Concepts in Organizational Behavior",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40355",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Concepts in Organizational Behavior",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43394",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Organizational Motivation and Leadership",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40356",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Organizational Motivation and Leadership",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40357",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Human Resource Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40358",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Human Resource Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "41164",
+		"Meeting": [
+			"W",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Human Resource Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42308",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Science",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42966",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Science",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43639",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Science",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "41624",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Science",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43830",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Information Systems",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40359",
+		"Meeting": [
+			"TT",
+			"09:25  AM - 10:40  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Information Systems",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40360",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Information Systems",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40940",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Management Information Systems",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "41167",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Experiential Learning: Academic Internship Program",
+		"Subject": "MGT",
+		"Hours": "1 TO 3",
+		"CRN": "42311",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Labor Relations & Negotiations",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43693",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Government Regulation of Human Resource Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40362",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Managerial Decision-Making",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42312",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Databases and Data Warehouses",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40941",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Business Intelligence",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40942",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Supply Chain Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40987",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Staffing",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40363",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Staffing",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40833",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Compensation and Benefits",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40364",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Managing Diversity in Organizations",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40365",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "International Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40366",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "International Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40367",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Strategic Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40368",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Strategic Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40369",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Strategic Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40370",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Strategic Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42340",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Strategic Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "41165",
+		"Meeting": [
+			"TT",
+			"10:50  AM - 12:05  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Strategic Issues in Human Resource Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42018",
+		"Meeting": [
+			"TT",
+			"12:15  PM - 01:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Project Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "41320",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Departmental Thesis",
+		"Subject": "MGT",
+		"Hours": "1 TO 3",
+		"CRN": "43732",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Evidence-Based Management and Improvements in HC",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42345",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Databases and Data Warehouses",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40704",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Databases and Data Warehouses",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43686",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Data Mining and Analytics",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40705",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Data Mining and Analytics",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43687",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Organizational Behavior and Leadership",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "41321",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Strategic Human Capital Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "42587",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Information Technology for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "41873",
+		"Meeting": [
+			"M",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Quantitative Decision Analysis for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "41323",
+		"Meeting": [
+			"W",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Quantitative Decision Analysis for Business",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43970",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Strategic Management",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "40606",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Internship",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43664",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Practicum Project",
+		"Subject": "MGT",
+		"Hours": "3",
+		"CRN": "43665",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	}
+]

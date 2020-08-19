@@ -1,0 +1,112 @@
+[
+	{
+		"Title": "Introduction to Women, Gender, and Sexuality Studies",
+		"Subject": "WGSS",
+		"Hours": "3",
+		"CRN": "43489",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Women, Gender, and Sexuality Studies",
+		"Subject": "WGSS",
+		"Hours": "3",
+		"CRN": "43488",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Introduction to Women, Gender, and Sexuality Studies",
+		"Subject": "WGSS",
+		"Hours": "3",
+		"CRN": "43490",
+		"Meeting": [
+			"MW",
+			"03:25  PM - 04:40  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Fiction, Fashion and Feminism",
+		"Subject": "WGSS",
+		"Hours": "3",
+		"CRN": "43494",
+		"Meeting": [
+			"T",
+			"05:30  PM - 08:00  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Psychology of Women",
+		"Subject": "WGSS",
+		"Hours": "3",
+		"CRN": "43493",
+		"Meeting": [
+			"MWF",
+			"09:00  AM - 09:50  AM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Women and Textiles",
+		"Subject": "WGSS",
+		"Hours": "3",
+		"CRN": "43498",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Feminist Literary Criticism",
+		"Subject": "WGSS",
+		"Hours": "3",
+		"CRN": "43495",
+		"Meeting": [
+			"TT",
+			"03:05  PM - 04:20  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Individual Studies",
+		"Subject": "WGSS",
+		"Hours": "1 TO 9",
+		"CRN": "43815",
+		"Meeting": [
+			"",
+			" - "
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Hannah Arendt: Philosophy, Politics, and Revolution",
+		"Subject": "WGSS",
+		"Hours": "3",
+		"CRN": "43496",
+		"Meeting": [
+			"TT",
+			"01:40  PM - 02:55  PM"
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Legal Issues Facing Sex and Gender Minorities",
+		"Subject": "WGSS",
+		"Hours": "3",
+		"CRN": "43497",
+		"Meeting": [
+			"M",
+			"02:00  PM - 04:30  PM"
+		],
+		"Campus": "UT Chattanooga"
+	}
+]
