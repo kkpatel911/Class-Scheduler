@@ -2,77 +2,98 @@
 	{
 		"Title": "Physical Geography",
 		"Subject": "GEOG",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "43040",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Physical Geography",
 		"Subject": "GEOG",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "43636",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "World Geography",
 		"Subject": "GEOG",
+		"Level": "1030",
 		"Hours": "3",
 		"CRN": "43666",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Cultural Geography",
 		"Subject": "GEOG",
+		"Level": "1040",
 		"Hours": "3",
 		"CRN": "40632",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Geography of Southeast United States",
 		"Subject": "GEOG",
+		"Level": "3060",
 		"Hours": "3",
 		"CRN": "43340",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Urban Geography",
 		"Subject": "GEOG",
+		"Level": "4150",
 		"Hours": "3",
 		"CRN": "40958",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "GEOG",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "43674",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

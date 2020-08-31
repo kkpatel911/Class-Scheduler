@@ -2,187 +2,238 @@
 	{
 		"Title": "Introduction to Philosophy",
 		"Subject": "PHIL",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "42373",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Philosophy",
 		"Subject": "PHIL",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "42374",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Logic Language and Evidence",
 		"Subject": "PHIL",
+		"Level": "2110",
 		"Hours": "3",
 		"CRN": "40015",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Ethics",
 		"Subject": "PHIL",
+		"Level": "2210",
 		"Hours": "3",
 		"CRN": "42386",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Introduction to Ethics",
 		"Subject": "PHIL",
+		"Level": "2210",
 		"Hours": "3",
 		"CRN": "42387",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Introduction to Ethics",
 		"Subject": "PHIL",
+		"Level": "2210",
 		"Hours": "3",
 		"CRN": "43957",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Sports Ethics",
 		"Subject": "PHIL",
+		"Level": "2260",
 		"Hours": "3",
 		"CRN": "43428",
 		"Meeting": [
-			"MWF",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "MWF",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Existentialism",
 		"Subject": "PHIL",
+		"Level": "2310",
 		"Hours": "3",
 		"CRN": "42594",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Existentialism",
 		"Subject": "PHIL",
+		"Level": "2310",
 		"Hours": "3",
 		"CRN": "43435",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Popular Culture, Religion, and Philosophy",
 		"Subject": "PHIL",
+		"Level": "2350",
 		"Hours": "3",
 		"CRN": "43429",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Popular Culture, Religion, and Philosophy",
 		"Subject": "PHIL",
+		"Level": "2350",
 		"Hours": "3",
 		"CRN": "42376",
 		"Meeting": [
-			"TT",
-			"05:00  PM - 06:15  PM"
+			{
+				"days": "TT",
+				"hours": "05:00  PM - 06:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Ancient Greek and Roman Philosophy",
 		"Subject": "PHIL",
+		"Level": "3510",
 		"Hours": "3",
 		"CRN": "43430",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Values and the Environment",
 		"Subject": "PHIL",
+		"Level": "4840",
 		"Hours": "3",
 		"CRN": "43431",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Atheism and Agnosticism",
 		"Subject": "PHIL",
+		"Level": "4910R",
 		"Hours": "3",
 		"CRN": "43432",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Hannah Arendt: Philosophy, Politics, and Revolution",
 		"Subject": "PHIL",
+		"Level": "4910R",
 		"Hours": "3",
 		"CRN": "43433",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The Green New Deal",
 		"Subject": "PHIL",
+		"Level": "4910R",
 		"Hours": "3",
 		"CRN": "43434",
 		"Meeting": [
-			"W",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "W",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "PHIL",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43741",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

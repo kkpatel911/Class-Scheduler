@@ -4,6 +4,7 @@ var app = express();
 var port = 8080;
 const fs = require("fs");
 const $ = require("jquery");
+const { json } = require("express");
 
 // TODO: Also put class start and end in data
 
@@ -59,55 +60,47 @@ async function createData(major, term) {
   var res = true
   while(res) {
     var datas = await page.evaluate(() => {
-      var title = document.getElementsByClassName("section-details-link");
-      var content = document.getElementsByClassName("readonly");
+      var classes = $('#table1 tbody tr')
       var titleLinkArray = [];
       var m = 0;
-      var i = 1;
-      for (var titleNum = 0; titleNum < title.length; titleNum++) {
+      for (var classNum = 0; classNum < classes.length; classNum++) {
         var meetingTimes = [];
-        meetingTimes.push(
-          $(content[i + 5])
-            .find("li")
-            .filter(function(index) {
-              return this.getAttribute("aria-checked") == "true";
-            })
-            .text()
-        );
-        meetingTimes.push(
-          $(content[i + 5])
-            .children(".meeting:nth-child(1)")
-            .children("span:nth-child(2)")
-            .text()
-        );
+
+        $(classes.eq(classNum).children().eq(8)).find(".meeting").each(function() {
+          var meetInfo = {}
+          meetInfo['days'] =
+            $(this)
+              .find("li")
+              .filter(function(index) {
+                return this.getAttribute("aria-checked") == "true";
+              })
+              .text()
+          
+          meetInfo['hours'] =
+            $(this)
+              .children("span").eq(0)
+              .text()
+          meetingTimes.push(meetInfo)
+        });
+
         console.log("Debug session:")
-        console.log(titleNum, " of ", title.length)
-        console.log(i, " of ", content.length)
+        console.log(classNum, " of ", classes.length)
         titleLinkArray[m] = {
-          Title: title[titleNum].innerText,
-          Subject: content[i - 1].innerText,
-          Hours: content[i + 2].innerText,
-          CRN: content[i + 3].innerText,
+          Title: classes.eq(classNum).children().eq(0).find('a').text(),
+          Subject: classes.eq(classNum).children().eq(1).text(),
+          Level: classes.eq(classNum).children().eq(2).text(),
+          Hours: classes.eq(classNum).children().eq(4).text(),
+          CRN: classes.eq(classNum).children().eq(5).text(),
           Meeting: meetingTimes,
-          /** 
-           * Meeting place & Meeting room is good information but not needed
-           * 
-           Meeting_Place: $(content[i + 5])
-             .children(".meeting:nth-child(1)")
-            .children("span:nth-child(4)")
-            .text(),
-           Meeting_Room: $(content[i + 5])
-             .children(".meeting:nth-child(1)")
-             .children("span:nth-child(5)")
-             .text(),
-          */
-          Campus: content[i + 6].innerText
+          // Meeting place & Meeting room is good information but not needed
+          Campus: classes.eq(classNum).children().eq(9).text()
         };
-        i+=12;
+        console.log(m.toString() + ":  " + JSON.stringify(titleLinkArray[m]))
         m++;
       }
       return titleLinkArray;
     });
+    
     fs.readFile("data/" + term + "." + major + ".json", "utf8", function(err, data) {
       if (err) {
         console.log(err);

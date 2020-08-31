@@ -2,44 +2,56 @@
 	{
 		"Title": "Orthopedic Assessment",
 		"Subject": "ATTR",
+		"Level": "5600",
 		"Hours": "6",
 		"CRN": "43987",
 		"Meeting": [
-			"MW",
-			"10:00  AM - 01:30  PM"
+			{
+				"days": "MW",
+				"hours": "10:00  AM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Therapeutic Exercise",
 		"Subject": "ATTR",
+		"Level": "5605",
 		"Hours": "4",
 		"CRN": "43988",
 		"Meeting": [
-			"TT",
-			"10:00  AM - 12:30  PM"
+			{
+				"days": "TT",
+				"hours": "10:00  AM - 12:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Seminar for Athletic Training Students I",
 		"Subject": "ATTR",
+		"Level": "5615",
 		"Hours": "1",
 		"CRN": "43989",
 		"Meeting": [
-			"F",
-			"10:00  AM - 11:00  AM"
+			{
+				"days": "F",
+				"hours": "10:00  AM - 11:00  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Athletic Training Practicum II",
 		"Subject": "ATTR",
+		"Level": "5625",
 		"Hours": "3",
 		"CRN": "43990",
 		"Meeting": [
-			"TT",
-			"01:00  PM - 03:00  PM"
+			{
+				"days": "TT",
+				"hours": "01:00  PM - 03:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

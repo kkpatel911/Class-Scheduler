@@ -2,121 +2,154 @@
 	{
 		"Title": "Introduction to the Study of Religion",
 		"Subject": "REL",
+		"Level": "1030",
 		"Hours": "3",
 		"CRN": "40842",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to the Study of Religion",
 		"Subject": "REL",
+		"Level": "1030",
 		"Hours": "3",
 		"CRN": "40932",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Western Religions",
 		"Subject": "REL",
+		"Level": "1100",
 		"Hours": "3",
 		"CRN": "40759",
 		"Meeting": [
-			"TT",
-			"08:00  AM - 09:15  AM"
+			{
+				"days": "TT",
+				"hours": "08:00  AM - 09:15  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Religions of the East",
 		"Subject": "REL",
+		"Level": "2110",
 		"Hours": "3",
 		"CRN": "42456",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "A History of Judaism",
 		"Subject": "REL",
+		"Level": "2130",
 		"Hours": "3",
 		"CRN": "43594",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The History of Christianity",
 		"Subject": "REL",
+		"Level": "2140",
 		"Hours": "3",
 		"CRN": "41416",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Biblical Literature I: Old Testament",
 		"Subject": "REL",
+		"Level": "2210",
 		"Hours": "3",
 		"CRN": "41109",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Religions of India",
 		"Subject": "REL",
+		"Level": "3200",
 		"Hours": "3",
 		"CRN": "43466",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Psychology of Religion",
 		"Subject": "REL",
+		"Level": "4700",
 		"Hours": "3",
 		"CRN": "43638",
 		"Meeting": [
-			"T",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "T",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Life and Thought of Jonathan Edwards",
 		"Subject": "REL",
+		"Level": "4910R",
 		"Hours": "3",
 		"CRN": "42460",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rumors of War: Apocalyptic Religion",
 		"Subject": "REL",
+		"Level": "4910R",
 		"Hours": "3",
 		"CRN": "43468",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

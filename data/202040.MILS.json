@@ -2,121 +2,154 @@
 	{
 		"Title": "Foundations of Officership",
 		"Subject": "MILS",
+		"Level": "1040",
 		"Hours": "2",
 		"CRN": "40390",
 		"Meeting": [
-			"T",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Foundations of Officership Laboratory",
 		"Subject": "MILS",
+		"Level": "1040L",
 		"Hours": "0",
 		"CRN": "40391",
 		"Meeting": [
-			"T",
-			"01:40  PM - 04:20  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Army ROTC Fitness Program",
 		"Subject": "MILS",
+		"Level": "1080R",
 		"Hours": "1",
 		"CRN": "42767",
 		"Meeting": [
-			"MWF",
-			"06:00  AM - 07:30  AM"
+			{
+				"days": "MWF",
+				"hours": "06:00  AM - 07:30  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Innovative Team Leadership",
 		"Subject": "MILS",
+		"Level": "2040",
 		"Hours": "3",
 		"CRN": "40392",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Innovative Team Leadership Laboratory",
 		"Subject": "MILS",
+		"Level": "2040L",
 		"Hours": "0",
 		"CRN": "40393",
 		"Meeting": [
-			"T",
-			"01:40  PM - 04:20  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Adaptive Team Leadership",
 		"Subject": "MILS",
+		"Level": "3040",
 		"Hours": "4",
 		"CRN": "40394",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Adaptive Team Leadership Laboratory",
 		"Subject": "MILS",
+		"Level": "3040L",
 		"Hours": "0",
 		"CRN": "40395",
 		"Meeting": [
-			"T",
-			"01:40  PM - 04:20  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Military History",
 		"Subject": "MILS",
+		"Level": "3080",
 		"Hours": "3",
 		"CRN": "40684",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Leadership and Management",
 		"Subject": "MILS",
+		"Level": "4040",
 		"Hours": "4",
 		"CRN": "40396",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Leadership and Management Laboratory",
 		"Subject": "MILS",
+		"Level": "4040L",
 		"Hours": "0",
 		"CRN": "40397",
 		"Meeting": [
-			"T",
-			"01:40  PM - 04:20  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Group Studies",
 		"Subject": "MILS",
+		"Level": "4999R",
 		"Hours": "3",
 		"CRN": "43074",
 		"Meeting": [
-			"MWF",
-			"08:00  AM - 08:50  AM"
+			{
+				"days": "MWF",
+				"hours": "08:00  AM - 08:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

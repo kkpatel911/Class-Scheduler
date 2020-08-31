@@ -2,231 +2,358 @@
 	{
 		"Title": "Introduction to Child Life",
 		"Subject": "ECHD",
+		"Level": "2000",
 		"Hours": "3",
 		"CRN": "41733",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Child Development",
 		"Subject": "ECHD",
+		"Level": "2435",
 		"Hours": "3",
 		"CRN": "42706",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Child Development",
 		"Subject": "ECHD",
+		"Level": "2435",
 		"Hours": "3",
 		"CRN": "42707",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Child Development",
 		"Subject": "ECHD",
+		"Level": "2435",
 		"Hours": "3",
 		"CRN": "42708",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Families: Home, School, Community Partnerships",
 		"Subject": "ECHD",
+		"Level": "2460",
 		"Hours": "3",
 		"CRN": "41435",
 		"Meeting": [
-			"TTTT",
-			"12:15  PM - 02:55  PM"
+			{
+				"days": "T",
+				"hours": "12:15  PM - 02:55  PM"
+			},
+			{
+				"days": "T",
+				"hours": "12:15  PM - 02:55  PM"
+			},
+			{
+				"days": "T",
+				"hours": "12:15  PM - 02:55  PM"
+			},
+			{
+				"days": "T",
+				"hours": "12:15  PM - 02:55  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Families: Home, School, Community Partnerships",
 		"Subject": "ECHD",
+		"Level": "2460",
 		"Hours": "3",
 		"CRN": "41356",
 		"Meeting": [
-			"FFFF",
-			"10:00  AM - 11:50  AM"
+			{
+				"days": "F",
+				"hours": "10:00  AM - 11:50  AM"
+			},
+			{
+				"days": "F",
+				"hours": "10:00  AM - 11:50  AM"
+			},
+			{
+				"days": "F",
+				"hours": "10:00  AM - 11:50  AM"
+			},
+			{
+				"days": "F",
+				"hours": "10:00  AM - 11:50  AM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Families: Home, School, Community Partnerships",
 		"Subject": "ECHD",
+		"Level": "2460",
 		"Hours": "3",
 		"CRN": "42527",
 		"Meeting": [
-			"FFFF",
-			"01:00  PM - 02:50  PM"
+			{
+				"days": "F",
+				"hours": "01:00  PM - 02:50  PM"
+			},
+			{
+				"days": "F",
+				"hours": "01:00  PM - 02:50  PM"
+			},
+			{
+				"days": "F",
+				"hours": "01:00  PM - 02:50  PM"
+			},
+			{
+				"days": "F",
+				"hours": "01:00  PM - 02:50  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Family Relations: Family Interaction",
 		"Subject": "ECHD",
+		"Level": "3400",
 		"Hours": "3",
 		"CRN": "40212",
 		"Meeting": [
-			"TTTT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:40  AM"
+			},
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:40  AM"
+			},
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:40  AM"
+			},
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:40  AM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Family Relations: Family Interaction",
 		"Subject": "ECHD",
+		"Level": "3400",
 		"Hours": "3",
 		"CRN": "40213",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Family Relations: Family Interaction",
 		"Subject": "ECHD",
+		"Level": "3400",
 		"Hours": "3",
 		"CRN": "40997",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Family Relations: Family Interaction",
 		"Subject": "ECHD",
+		"Level": "3400",
 		"Hours": "3",
 		"CRN": "41244",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Management of Early Childhood Environments",
 		"Subject": "ECHD",
+		"Level": "3450",
 		"Hours": "3",
 		"CRN": "41731",
 		"Meeting": [
-			"M",
-			"11:00  AM - 01:50  PM"
+			{
+				"days": "M",
+				"hours": "11:00  AM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Oral Language and Early Literacy Development",
 		"Subject": "ECHD",
+		"Level": "3470",
 		"Hours": "2",
 		"CRN": "40214",
 		"Meeting": [
-			"W",
-			"05:00  PM - 06:40  PM"
+			{
+				"days": "W",
+				"hours": "05:00  PM - 06:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The History and Future of Play in Child Life",
 		"Subject": "ECHD",
+		"Level": "3500",
 		"Hours": "3",
 		"CRN": "41992",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Child and Family Practicum",
 		"Subject": "ECHD",
+		"Level": "4050R",
 		"Hours": "3 TO 6",
 		"CRN": "42270",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Strategies for Assessing Young Children",
 		"Subject": "ECHD",
+		"Level": "4460",
 		"Hours": "3",
 		"CRN": "40977",
 		"Meeting": [
-			"MW",
-			"09:00  AM - 10:15  AM"
+			{
+				"days": "MW",
+				"hours": "09:00  AM - 10:15  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Family Resource Management",
 		"Subject": "ECHD",
+		"Level": "4480",
 		"Hours": "3",
 		"CRN": "40215",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Family Resource Management",
 		"Subject": "ECHD",
+		"Level": "4480",
 		"Hours": "3",
 		"CRN": "40699",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Family Resource Management",
 		"Subject": "ECHD",
+		"Level": "4480",
 		"Hours": "3",
 		"CRN": "43061",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Ethics in Child and Family Studies",
 		"Subject": "ECHD",
+		"Level": "4999R",
 		"Hours": "3",
 		"CRN": "43954",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Child and Family Studies Practicum",
 		"Subject": "ECHD",
+		"Level": "4999R",
 		"Hours": "1 TO 9",
 		"CRN": "43975",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

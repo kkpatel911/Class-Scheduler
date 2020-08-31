@@ -2,110 +2,140 @@
 	{
 		"Title": "Introduction to Women, Gender, and Sexuality Studies",
 		"Subject": "WGSS",
+		"Level": "2000",
 		"Hours": "3",
 		"CRN": "43489",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Women, Gender, and Sexuality Studies",
 		"Subject": "WGSS",
+		"Level": "2000",
 		"Hours": "3",
 		"CRN": "43488",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Women, Gender, and Sexuality Studies",
 		"Subject": "WGSS",
+		"Level": "2000",
 		"Hours": "3",
 		"CRN": "43490",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Fiction, Fashion and Feminism",
 		"Subject": "WGSS",
+		"Level": "4500",
 		"Hours": "3",
 		"CRN": "43494",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Psychology of Women",
 		"Subject": "WGSS",
+		"Level": "4510",
 		"Hours": "3",
 		"CRN": "43493",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Women and Textiles",
 		"Subject": "WGSS",
+		"Level": "4600",
 		"Hours": "3",
 		"CRN": "43498",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Feminist Literary Criticism",
 		"Subject": "WGSS",
+		"Level": "4710",
 		"Hours": "3",
 		"CRN": "43495",
 		"Meeting": [
-			"TT",
-			"03:05  PM - 04:20  PM"
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "WGSS",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "43815",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Hannah Arendt: Philosophy, Politics, and Revolution",
 		"Subject": "WGSS",
+		"Level": "4999R",
 		"Hours": "3",
 		"CRN": "43496",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Legal Issues Facing Sex and Gender Minorities",
 		"Subject": "WGSS",
+		"Level": "4999R",
 		"Hours": "3",
 		"CRN": "43497",
 		"Meeting": [
-			"M",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

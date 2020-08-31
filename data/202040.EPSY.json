@@ -2,99 +2,126 @@
 	{
 		"Title": "Methods of Educational Research",
 		"Subject": "EPSY",
+		"Level": "5010",
 		"Hours": "3",
 		"CRN": "41042",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Foundations of Assessment in School Psychology",
 		"Subject": "EPSY",
+		"Level": "5160",
 		"Hours": "3",
 		"CRN": "40792",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Applied Foundations of School Psychology I",
 		"Subject": "EPSY",
+		"Level": "5165",
 		"Hours": "2",
 		"CRN": "43721",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Affective and Behavioral Assessment Techniques",
 		"Subject": "EPSY",
+		"Level": "5360",
 		"Hours": "3",
 		"CRN": "40382",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Foundations in Mental Health Intervention in School Psychology",
 		"Subject": "EPSY",
+		"Level": "5440",
 		"Hours": "3",
 		"CRN": "41066",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Historical, Legal and Ethical Foundations of School Psychology",
 		"Subject": "EPSY",
+		"Level": "6140",
 		"Hours": "3",
 		"CRN": "40383",
 		"Meeting": [
-			"W",
-			"05:00  PM - 07:30  PM"
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Consultation Methods",
 		"Subject": "EPSY",
+		"Level": "6250",
 		"Hours": "3",
 		"CRN": "40384",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Practicum in Assessment",
 		"Subject": "EPSY",
+		"Level": "6350",
 		"Hours": "4",
 		"CRN": "43522",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Internship in School Psychology I",
 		"Subject": "EPSY",
+		"Level": "6500",
 		"Hours": "3 TO 6",
 		"CRN": "41498",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	}

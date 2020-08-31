@@ -2,1012 +2,1312 @@
 	{
 		"Title": "Concepts of Wellness",
 		"Subject": "HHP",
+		"Level": "0021",
 		"Hours": "1",
 		"CRN": "41408",
 		"Meeting": [
-			"MW",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MW",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Concepts of Wellness",
 		"Subject": "HHP",
+		"Level": "0021",
 		"Hours": "1",
 		"CRN": "43543",
 		"Meeting": [
-			"W",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "W",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Aerobic/Cardiovascular Activities",
 		"Subject": "HHP",
+		"Level": "0032",
 		"Hours": "1",
 		"CRN": "40883",
 		"Meeting": [
-			"T",
-			"09:25  AM - 10:15  AM"
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:15  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Conditioning/Resistance Training",
 		"Subject": "HHP",
+		"Level": "0034",
 		"Hours": "1",
 		"CRN": "42554",
 		"Meeting": [
-			"T",
-			"09:25  AM - 10:15  AM"
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:15  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Beginning Jogging/Running for Fitness",
 		"Subject": "HHP",
+		"Level": "0047",
 		"Hours": "1",
 		"CRN": "43876",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Beginning Ballet",
 		"Subject": "HHP",
+		"Level": "0048",
 		"Hours": "1",
 		"CRN": "43645",
 		"Meeting": [
-			"MW",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MW",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Walking for Fitness",
 		"Subject": "HHP",
+		"Level": "0055",
 		"Hours": "1",
 		"CRN": "41409",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Swimming for Fitness",
 		"Subject": "HHP",
+		"Level": "0057",
 		"Hours": "1",
 		"CRN": "42573",
 		"Meeting": [
-			"F",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "F",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Beginning Boxing Aerobics",
 		"Subject": "HHP",
+		"Level": "0060",
 		"Hours": "1",
 		"CRN": "42574",
 		"Meeting": [
-			"M",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "M",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Body Pump",
 		"Subject": "HHP",
+		"Level": "0076",
 		"Hours": "1",
 		"CRN": "42575",
 		"Meeting": [
-			"W",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "W",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Personal Health",
 		"Subject": "HHP",
+		"Level": "1000",
 		"Hours": "3",
 		"CRN": "42583",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Personal Health",
 		"Subject": "HHP",
+		"Level": "1000",
 		"Hours": "3",
 		"CRN": "41328",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Personal Health",
 		"Subject": "HHP",
+		"Level": "1000",
 		"Hours": "3",
 		"CRN": "41406",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Personal Health",
 		"Subject": "HHP",
+		"Level": "1000",
 		"Hours": "3",
 		"CRN": "41407",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Personal Health",
 		"Subject": "HHP",
+		"Level": "1000",
 		"Hours": "3",
 		"CRN": "41326",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Personal Health",
 		"Subject": "HHP",
+		"Level": "1000",
 		"Hours": "3",
 		"CRN": "42977",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Personal Health",
 		"Subject": "HHP",
+		"Level": "1000",
 		"Hours": "3",
 		"CRN": "43181",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Community First Aid & Safety",
 		"Subject": "HHP",
+		"Level": "1010",
 		"Hours": "1",
 		"CRN": "41579",
 		"Meeting": [
-			"SS",
-			"08:00  AM - 04:00  PM"
+			{
+				"days": "S",
+				"hours": "08:00  AM - 04:00  PM"
+			},
+			{
+				"days": "S",
+				"hours": "08:00  AM - 04:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Community First Aid & Safety",
 		"Subject": "HHP",
+		"Level": "1010",
 		"Hours": "1",
 		"CRN": "41580",
 		"Meeting": [
-			"SS",
-			"08:00  AM - 04:00  PM"
+			{
+				"days": "S",
+				"hours": "08:00  AM - 04:00  PM"
+			},
+			{
+				"days": "S",
+				"hours": "08:00  AM - 04:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Introduction to Health and Human Performance Professions",
+		"Title": "Introduction to Health and Human Performance  Professions",
 		"Subject": "HHP",
+		"Level": "1015",
 		"Hours": "1",
 		"CRN": "41041",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Introduction to Health and Human Performance Professions",
+		"Title": "Introduction to Health and Human Performance  Professions",
 		"Subject": "HHP",
+		"Level": "1015",
 		"Hours": "1",
 		"CRN": "41770",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Aquatic Facility Programming",
 		"Subject": "HHP",
+		"Level": "1999R",
 		"Hours": "3",
 		"CRN": "42577",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Lifeguarding and Water Safety",
 		"Subject": "HHP",
+		"Level": "1999R",
 		"Hours": "3",
 		"CRN": "42578",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Teaching Health and Physical Education",
 		"Subject": "HHP",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "40101",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Camping & Outdoor Education",
 		"Subject": "HHP",
+		"Level": "2020",
 		"Hours": "3",
 		"CRN": "40102",
 		"Meeting": [
-			"W",
-			"12:30  PM - 02:20  PM"
+			{
+				"days": "W",
+				"hours": "12:30  PM - 02:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Physical Fitness",
 		"Subject": "HHP",
+		"Level": "2090",
 		"Hours": "2",
 		"CRN": "40103",
 		"Meeting": [
-			"MW",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "MW",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Field Experience I in Sports Management",
 		"Subject": "HHP",
+		"Level": "2120",
 		"Hours": "1",
 		"CRN": "40104",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Field Experience II in Sports Management",
 		"Subject": "HHP",
+		"Level": "2130",
 		"Hours": "1",
 		"CRN": "40673",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Team Sports & Games",
 		"Subject": "HHP",
+		"Level": "2160",
 		"Hours": "3",
 		"CRN": "40105",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Team Sports & Games",
 		"Subject": "HHP",
+		"Level": "2160",
 		"Hours": "3",
 		"CRN": "43662",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Anatomical and Physiological Basis of Movement",
 		"Subject": "HHP",
+		"Level": "2300",
 		"Hours": "4",
 		"CRN": "40899",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Anatomical and Physiological Basis of Movement",
 		"Subject": "HHP",
+		"Level": "2300",
 		"Hours": "4",
 		"CRN": "40900",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Anatomical and Physiological Basis of Movement",
 		"Subject": "HHP",
+		"Level": "2300",
 		"Hours": "4",
 		"CRN": "41591",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Anatomical and Physiological Basis of Movement",
 		"Subject": "HHP",
+		"Level": "2300",
 		"Hours": "4",
 		"CRN": "42978",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Principles of Travel and Tourism",
 		"Subject": "HHP",
+		"Level": "3010",
 		"Hours": "3",
 		"CRN": "43558",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Community & Environmental Health",
 		"Subject": "HHP",
+		"Level": "3030",
 		"Hours": "3",
 		"CRN": "43362",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Outdoor Recreation",
 		"Subject": "HHP",
+		"Level": "3060",
 		"Hours": "3",
 		"CRN": "41582",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Outdoor Recreation",
 		"Subject": "HHP",
+		"Level": "3060",
 		"Hours": "3",
 		"CRN": "42979",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Applied Research Methods",
 		"Subject": "HHP",
+		"Level": "3100",
 		"Hours": "3",
 		"CRN": "41771",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Applied Research Methods",
 		"Subject": "HHP",
+		"Level": "3100",
 		"Hours": "3",
 		"CRN": "43559",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Exercise Physiology",
 		"Subject": "HHP",
+		"Level": "3170",
 		"Hours": "3",
 		"CRN": "40107",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Exercise Physiology",
 		"Subject": "HHP",
+		"Level": "3170",
 		"Hours": "3",
 		"CRN": "40724",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Exercise Physiology",
 		"Subject": "HHP",
+		"Level": "3170",
 		"Hours": "3",
 		"CRN": "41130",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Physical Education in the Elementary School",
 		"Subject": "HHP",
+		"Level": "3300",
 		"Hours": "3",
 		"CRN": "40108",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Event Management",
 		"Subject": "HHP",
+		"Level": "3320",
 		"Hours": "3",
 		"CRN": "41583",
 		"Meeting": [
-			"MW",
-			"09:30  AM - 10:45  AM"
+			{
+				"days": "MW",
+				"hours": "09:30  AM - 10:45  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Event Management",
 		"Subject": "HHP",
+		"Level": "3320",
 		"Hours": "3",
 		"CRN": "41584",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Sociology of Sport",
 		"Subject": "HHP",
+		"Level": "3640",
 		"Hours": "3",
 		"CRN": "40983",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Sociology of Sport",
 		"Subject": "HHP",
+		"Level": "3640",
 		"Hours": "3",
 		"CRN": "43363",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Adapted Fitness for Individuals with Intellectual Disabilities",
 		"Subject": "HHP",
+		"Level": "3710",
 		"Hours": "3",
 		"CRN": "43696",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Tourism Impacts",
 		"Subject": "HHP",
+		"Level": "3999R",
 		"Hours": "3",
 		"CRN": "43357",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Health Communication",
 		"Subject": "HHP",
+		"Level": "3999R",
 		"Hours": "3",
 		"CRN": "43557",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Medical Terminology",
 		"Subject": "HHP",
+		"Level": "3999R",
 		"Hours": "2",
 		"CRN": "43831",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Medical Terminology",
 		"Subject": "HHP",
+		"Level": "3999R",
 		"Hours": "2",
 		"CRN": "43832",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Motor Learning in Exercise Science and Leisure Studies",
 		"Subject": "HHP",
+		"Level": "4040",
 		"Hours": "3",
 		"CRN": "43941",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Resistance Training",
 		"Subject": "HHP",
+		"Level": "4120",
 		"Hours": "3",
 		"CRN": "43358",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Resistance Training",
 		"Subject": "HHP",
+		"Level": "4120",
 		"Hours": "3",
 		"CRN": "43359",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Resistance Training",
 		"Subject": "HHP",
+		"Level": "4120",
 		"Hours": "3",
 		"CRN": "43364",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Resistance Training",
 		"Subject": "HHP",
+		"Level": "4120",
 		"Hours": "3",
 		"CRN": "43796",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Resistance Training",
 		"Subject": "HHP",
+		"Level": "4120",
 		"Hours": "3",
 		"CRN": "43952",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Health Behavior Change",
 		"Subject": "HHP",
+		"Level": "4220",
 		"Hours": "3",
 		"CRN": "43360",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Health Behavior Change",
 		"Subject": "HHP",
+		"Level": "4220",
 		"Hours": "3",
 		"CRN": "43361",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Health Behavior Change",
 		"Subject": "HHP",
+		"Level": "4220",
 		"Hours": "3",
 		"CRN": "43365",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Health Behavior Change",
 		"Subject": "HHP",
+		"Level": "4220",
 		"Hours": "3",
 		"CRN": "43366",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Exercise Prescription for Healthy Populations",
 		"Subject": "HHP",
+		"Level": "4280",
 		"Hours": "3",
 		"CRN": "40794",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Exercise Prescription for Healthy Populations",
 		"Subject": "HHP",
+		"Level": "4280",
 		"Hours": "3",
 		"CRN": "41776",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Exercise Prescription for Healthy Populations",
 		"Subject": "HHP",
+		"Level": "4280",
 		"Hours": "3",
 		"CRN": "41777",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Exercise Prescription for Healthy Populations",
 		"Subject": "HHP",
+		"Level": "4280",
 		"Hours": "3",
 		"CRN": "43951",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Exercise Prescription Lab",
 		"Subject": "HHP",
+		"Level": "4290",
 		"Hours": "1",
 		"CRN": "41850",
 		"Meeting": [
-			"W",
-			"12:30  PM - 02:20  PM"
+			{
+				"days": "W",
+				"hours": "12:30  PM - 02:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Exercise Prescription Lab",
 		"Subject": "HHP",
+		"Level": "4290",
 		"Hours": "1",
 		"CRN": "41851",
 		"Meeting": [
-			"W",
-			"02:30  PM - 04:20  PM"
+			{
+				"days": "W",
+				"hours": "02:30  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Exercise Prescription Lab",
 		"Subject": "HHP",
+		"Level": "4290",
 		"Hours": "1",
 		"CRN": "41852",
 		"Meeting": [
-			"T",
-			"11:00  AM - 12:50  PM"
+			{
+				"days": "T",
+				"hours": "11:00  AM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Exercise Prescription Lab",
 		"Subject": "HHP",
+		"Level": "4290",
 		"Hours": "1",
 		"CRN": "41853",
 		"Meeting": [
-			"T",
-			"01:00  PM - 02:50  PM"
+			{
+				"days": "T",
+				"hours": "01:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Teaching Strategies and Materials in Exercise Science and Health",
 		"Subject": "HHP",
+		"Level": "4310",
 		"Hours": "3",
 		"CRN": "40109",
 		"Meeting": [
-			"T",
-			"03:00  PM - 05:15  PM"
+			{
+				"days": "T",
+				"hours": "03:00  PM - 05:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Family Life Studies",
 		"Subject": "HHP",
+		"Level": "4510",
 		"Hours": "3",
 		"CRN": "41779",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Family Life Studies",
 		"Subject": "HHP",
+		"Level": "4510",
 		"Hours": "3",
 		"CRN": "41249",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Problems in Health: Aging and Death Education",
 		"Subject": "HHP",
+		"Level": "4520",
 		"Hours": "3",
 		"CRN": "40887",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Problems in Health: Aging and Death Education",
 		"Subject": "HHP",
+		"Level": "4520",
 		"Hours": "3",
 		"CRN": "42178",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Substance Use, Misuse, and Abuse",
 		"Subject": "HHP",
+		"Level": "4530",
 		"Hours": "3",
 		"CRN": "40112",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Substance Use, Misuse, and Abuse",
 		"Subject": "HHP",
+		"Level": "4530",
 		"Hours": "3",
 		"CRN": "41780",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Internship in Health and Human Performance",
 		"Subject": "HHP",
+		"Level": "4790",
 		"Hours": "6",
 		"CRN": "41228",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Internship in Health and Human Performance",
 		"Subject": "HHP",
+		"Level": "4790",
 		"Hours": "6",
 		"CRN": "43174",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Internship in Health and Human Performance",
 		"Subject": "HHP",
+		"Level": "4800",
 		"Hours": "6",
 		"CRN": "41229",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Internship in Exercise Science",
 		"Subject": "HHP",
+		"Level": "4950",
 		"Hours": "1 TO 12",
 		"CRN": "42679",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "HHP",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43740",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "HHP",
+		"Level": "4998R",
 		"Hours": "3",
 		"CRN": "43939",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "HHP",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "44032",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Sports Finance",
 		"Subject": "HHP",
+		"Level": "4999R",
 		"Hours": "3",
 		"CRN": "43631",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Group Studies",
 		"Subject": "HHP",
+		"Level": "4999R",
 		"Hours": "1 TO 9",
 		"CRN": "42768",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Graduate Seminar",
 		"Subject": "HHP",
+		"Level": "5810",
 		"Hours": "3",
 		"CRN": "41588",
 		"Meeting": [
-			"T",
-			"01:00  PM - 03:00  PM"
+			{
+				"days": "T",
+				"hours": "01:00  PM - 03:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Athletic Training Practicum III",
 		"Subject": "HHP",
+		"Level": "5825",
 		"Hours": "3",
 		"CRN": "41590",
 		"Meeting": [
-			"T",
-			"10:00  AM - 12:00  PM"
+			{
+				"days": "T",
+				"hours": "10:00  AM - 12:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research Methods in Sports Medicine",
 		"Subject": "HHP",
+		"Level": "5830",
 		"Hours": "3",
 		"CRN": "40597",
 		"Meeting": [
-			"T",
-			"12:30  PM - 03:00  PM"
+			{
+				"days": "T",
+				"hours": "12:30  PM - 03:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Food Security in the US",
 		"Subject": "HHP",
+		"Level": "5950R",
 		"Hours": "3",
 		"CRN": "43942",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Special Topics: Food Security in the US",
 		"Subject": "HHP",
+		"Level": "5950R",
 		"Hours": "3",
 		"CRN": "43980",
 		"Meeting": [
-			"TTTT",
-			"11:00  AM - 02:00  PM"
+			{
+				"days": "T",
+				"hours": "11:00  AM - 02:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "11:00  AM - 02:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "11:00  AM - 02:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "11:00  AM - 02:00  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

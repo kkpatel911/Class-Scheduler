@@ -2,77 +2,102 @@
 	{
 		"Title": "Elementary Latin I",
 		"Subject": "LAT",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40273",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Elementary Latin I",
 		"Subject": "LAT",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "42208",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Elementary Latin for Science Majors I",
 		"Subject": "LAT",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "40906",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Latin for Science Majors I",
 		"Subject": "LAT",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "40907",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Latin for Science Majors I",
 		"Subject": "LAT",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "42209",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Intermediate Latin I",
 		"Subject": "LAT",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "40274",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Latin Poetry",
 		"Subject": "LAT",
+		"Level": "3510R",
 		"Hours": "3",
 		"CRN": "43698",
 		"Meeting": [
-			"W",
-			"11:30  AM - 01:00  PM"
+			{
+				"days": "W",
+				"hours": "11:30  AM - 01:00  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

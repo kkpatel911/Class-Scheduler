@@ -2,264 +2,336 @@
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "40876",
 		"Meeting": [
-			"W",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "W",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "40879",
 		"Meeting": [
-			"M",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "M",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "40880",
 		"Meeting": [
-			"W",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "W",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "40924",
 		"Meeting": [
-			"T",
-			"12:15  PM - 01:05  PM"
+			{
+				"days": "T",
+				"hours": "12:15  PM - 01:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "43844",
 		"Meeting": [
-			"T",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "40877",
 		"Meeting": [
-			"F",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "F",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "41826",
 		"Meeting": [
-			"W",
-			"02:00  PM - 02:50  PM"
+			{
+				"days": "W",
+				"hours": "02:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "40878",
 		"Meeting": [
-			"T",
-			"01:40  PM - 02:30  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 02:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "40882",
 		"Meeting": [
-			"T",
-			"10:50  AM - 11:40  AM"
+			{
+				"days": "T",
+				"hours": "10:50  AM - 11:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "43847",
 		"Meeting": [
-			"F",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "F",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "41040",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "42002",
 		"Meeting": [
-			"MW",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MW",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "42003",
 		"Meeting": [
-			"MW",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "MW",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "42004",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:30  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "40875",
 		"Meeting": [
-			"W",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "W",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
 		"Subject": "USTU",
+		"Level": "1250",
 		"Hours": "1",
 		"CRN": "43000",
 		"Meeting": [
-			"W",
-			"03:00  PM - 03:50  PM"
+			{
+				"days": "W",
+				"hours": "03:00  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "MINDSET: Soaring to New Heights",
 		"Subject": "USTU",
+		"Level": "1252",
 		"Hours": "1",
 		"CRN": "43185",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Exploring Majors and Decision Making",
 		"Subject": "USTU",
+		"Level": "1300",
 		"Hours": "2",
 		"CRN": "40964",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Exploring Majors and Decision Making",
 		"Subject": "USTU",
+		"Level": "1300",
 		"Hours": "2",
 		"CRN": "43487",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "ASPIRE",
 		"Subject": "USTU",
+		"Level": "1999R",
 		"Hours": "1",
 		"CRN": "42941",
 		"Meeting": [
-			"W",
-			"04:00  PM - 04:50  PM"
+			{
+				"days": "W",
+				"hours": "04:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Science Concepts and Perspectives",
 		"Subject": "USTU",
+		"Level": "3110",
 		"Hours": "3",
 		"CRN": "40639",
 		"Meeting": [
-			"M",
-			"12:30  PM - 03:00  PM"
+			{
+				"days": "M",
+				"hours": "12:30  PM - 03:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Social Studies Topics Concepts and Perspectives",
 		"Subject": "USTU",
+		"Level": "3200",
 		"Hours": "3",
 		"CRN": "40168",
 		"Meeting": [
-			"M",
-			"05:00  PM - 07:30  PM"
+			{
+				"days": "M",
+				"hours": "05:00  PM - 07:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Social Studies Topics Concepts and Perspectives",
 		"Subject": "USTU",
+		"Level": "3200",
 		"Hours": "3",
 		"CRN": "43694",
 		"Meeting": [
-			"T",
-			"10:50  AM - 01:30  PM"
+			{
+				"days": "T",
+				"hours": "10:50  AM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Concepts of Language Literacy: Acquisition, Development and Usage",
 		"Subject": "USTU",
+		"Level": "3400",
 		"Hours": "3",
 		"CRN": "42656",
 		"Meeting": [
-			"T",
-			"12:15  PM - 02:55  PM"
+			{
+				"days": "T",
+				"hours": "12:15  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

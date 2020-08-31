@@ -2,946 +2,1208 @@
 	{
 		"Title": "Conservation of Biodiversity",
 		"Subject": "ESC",
+		"Level": "1100",
 		"Hours": "3",
 		"CRN": "41058",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Conservation of Biodiversity",
 		"Subject": "ESC",
+		"Level": "1100",
 		"Hours": "3",
 		"CRN": "41220",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Conservation of Biodiversity",
 		"Subject": "ESC",
+		"Level": "1100",
 		"Hours": "3",
 		"CRN": "40491",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Science I",
 		"Subject": "ESC",
+		"Level": "1500",
 		"Hours": "4",
 		"CRN": "40492",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Science I",
 		"Subject": "ESC",
+		"Level": "1500",
 		"Hours": "4",
 		"CRN": "40493",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Science I Laboratory",
 		"Subject": "ESC",
+		"Level": "1500L",
 		"Hours": "0",
 		"CRN": "40494",
 		"Meeting": [
-			"M",
-			"09:00  AM - 10:50  AM"
+			{
+				"days": "M",
+				"hours": "09:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Science I Laboratory",
 		"Subject": "ESC",
+		"Level": "1500L",
 		"Hours": "0",
 		"CRN": "40495",
 		"Meeting": [
-			"M",
-			"11:00  AM - 12:50  PM"
+			{
+				"days": "M",
+				"hours": "11:00  AM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Science I Laboratory",
 		"Subject": "ESC",
+		"Level": "1500L",
 		"Hours": "0",
 		"CRN": "40496",
 		"Meeting": [
-			"T",
-			"08:50  AM - 10:40  AM"
+			{
+				"days": "T",
+				"hours": "08:50  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Science I Laboratory",
 		"Subject": "ESC",
+		"Level": "1500L",
 		"Hours": "0",
 		"CRN": "40497",
 		"Meeting": [
-			"T",
-			"10:50  AM - 12:40  PM"
+			{
+				"days": "T",
+				"hours": "10:50  AM - 12:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Science I Laboratory",
 		"Subject": "ESC",
+		"Level": "1500L",
 		"Hours": "0",
 		"CRN": "40498",
 		"Meeting": [
-			"T",
-			"01:40  PM - 03:30  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 03:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Science I Laboratory",
 		"Subject": "ESC",
+		"Level": "1500L",
 		"Hours": "0",
 		"CRN": "40499",
 		"Meeting": [
-			"T",
-			"03:40  PM - 05:30  PM"
+			{
+				"days": "T",
+				"hours": "03:40  PM - 05:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Science I Laboratory",
 		"Subject": "ESC",
+		"Level": "1500L",
 		"Hours": "0",
 		"CRN": "40500",
 		"Meeting": [
-			"W",
-			"09:00  AM - 10:50  AM"
+			{
+				"days": "W",
+				"hours": "09:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Science I Laboratory",
 		"Subject": "ESC",
+		"Level": "1500L",
 		"Hours": "0",
 		"CRN": "40501",
 		"Meeting": [
-			"W",
-			"11:00  AM - 12:50  PM"
+			{
+				"days": "W",
+				"hours": "11:00  AM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Science II",
 		"Subject": "ESC",
+		"Level": "1510",
 		"Hours": "4",
 		"CRN": "40502",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Science II Laboratory",
 		"Subject": "ESC",
+		"Level": "1510L",
 		"Hours": "0",
 		"CRN": "43301",
 		"Meeting": [
-			"W",
-			"02:00  PM - 03:50  PM"
+			{
+				"days": "W",
+				"hours": "02:00  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Science II Laboratory",
 		"Subject": "ESC",
+		"Level": "1510L",
 		"Hours": "0",
 		"CRN": "40503",
 		"Meeting": [
-			"T",
-			"01:40  PM - 03:30  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 03:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World Resources",
 		"Subject": "ESC",
+		"Level": "2500",
 		"Hours": "3",
 		"CRN": "41182",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Environmental Conservation",
 		"Subject": "ESC",
+		"Level": "4070",
 		"Hours": "3",
 		"CRN": "43302",
 		"Meeting": [
-			"MWF",
-			"08:00  AM - 08:50  AM"
+			{
+				"days": "MWF",
+				"hours": "08:00  AM - 08:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Toxicology",
 		"Subject": "ESC",
+		"Level": "4380",
 		"Hours": "4",
 		"CRN": "41753",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Toxicology Laboratory",
 		"Subject": "ESC",
+		"Level": "4380L",
 		"Hours": "0",
 		"CRN": "41754",
 		"Meeting": [
-			"M",
-			"02:00  PM - 04:50  PM"
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Bioremediation",
 		"Subject": "ESC",
+		"Level": "4430",
 		"Hours": "4",
 		"CRN": "43303",
 		"Meeting": [
-			"T",
-			"03:05  PM - 04:35  PM"
+			{
+				"days": "T",
+				"hours": "03:05  PM - 04:35  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Bioremediation Laboratory",
 		"Subject": "ESC",
+		"Level": "4430L",
 		"Hours": "0",
 		"CRN": "43304",
 		"Meeting": [
-			"T",
-			"03:05  PM - 06:05  PM"
+			{
+				"days": "T",
+				"hours": "03:05  PM - 06:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Limnology and Reservoir Ecology",
 		"Subject": "ESC",
+		"Level": "4520",
 		"Hours": "4",
 		"CRN": "40757",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Limnology and Reservoir Ecology Laboratory",
 		"Subject": "ESC",
+		"Level": "4520L",
 		"Hours": "0",
 		"CRN": "40758",
 		"Meeting": [
-			"F",
-			"02:00  PM - 04:50  PM"
+			{
+				"days": "F",
+				"hours": "02:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Advanced Topics in Evolutionary Ecology",
 		"Subject": "ESC",
+		"Level": "4590",
 		"Hours": "3",
 		"CRN": "43319",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Values and the Environment",
 		"Subject": "ESC",
+		"Level": "4840",
 		"Hours": "3",
 		"CRN": "42136",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Environmental Science Internship",
 		"Subject": "ESC",
+		"Level": "4910R",
 		"Hours": "1 TO 4",
 		"CRN": "42730",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Environmental Science Internship",
 		"Subject": "ESC",
+		"Level": "4910R",
 		"Hours": "1 TO 4",
 		"CRN": "42731",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "ESC",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43737",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "ESC",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43769",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research",
 		"Subject": "ESC",
+		"Level": "4997R",
 		"Hours": "1 TO 9",
 		"CRN": "43523",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research",
 		"Subject": "ESC",
+		"Level": "4997R",
 		"Hours": "1 TO 9",
 		"CRN": "43546",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research",
 		"Subject": "ESC",
+		"Level": "4997R",
 		"Hours": "1 TO 9",
 		"CRN": "43547",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "42139",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "43058",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "43548",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "43549",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "43171",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "43550",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "43551",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "43857",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "43982",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "44008",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "44015",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "44026",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introductory Animal Physiology Lab",
 		"Subject": "ESC",
+		"Level": "5010L",
 		"Hours": "0",
 		"CRN": "43552",
 		"Meeting": [
-			"M",
-			"02:00  PM - 04:50  PM"
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Animal Behavior Lab",
 		"Subject": "ESC",
+		"Level": "5010L",
 		"Hours": "0",
 		"CRN": "44025",
 		"Meeting": [
-			"W",
-			"12:00  PM - 02:50  PM"
+			{
+				"days": "W",
+				"hours": "12:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Ant Ecology Lab",
 		"Subject": "ESC",
+		"Level": "5010L",
 		"Hours": "0",
 		"CRN": "43312",
 		"Meeting": [
-			"M",
-			"01:00  PM - 03:50  PM"
+			{
+				"days": "M",
+				"hours": "01:00  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Animal Behavior Lab",
 		"Subject": "ESC",
+		"Level": "5010L",
 		"Hours": "0",
 		"CRN": "43553",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "W",
+				"hours": "12:00  PM - 02:50  PM"
+			}
 		],
-		"Campus": "Wednesday\nS\nM\nT\nW\nT\nF\nS\n12:00 PM - 02:50 PM Type: Class Building: Holt Hall Room: 123 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Animal Physiology",
-		"Subject": "",
-		"Hours": "0",
-		"CRN": "4",
+		"Subject": "ESC",
+		"Level": "5010R",
+		"Hours": "4",
+		"CRN": "43305",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
-		"Campus": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n10:00 AM - 10:50 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Hydrology Lab",
 		"Subject": "ESC",
+		"Level": "5010R",
 		"Hours": "1",
 		"CRN": "43977",
 		"Meeting": [
-			"W",
-			"12:00  PM - 01:50  PM"
+			{
+				"days": "W",
+				"hours": "12:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Ant Ecology",
 		"Subject": "ESC",
+		"Level": "5010R",
 		"Hours": "4",
 		"CRN": "43308",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Animal Behavior",
 		"Subject": "ESC",
+		"Level": "5010R",
 		"Hours": "4",
 		"CRN": "43554",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Biogeography",
 		"Subject": "ESC",
+		"Level": "5010R",
 		"Hours": "3",
 		"CRN": "44019",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Bioremediation",
 		"Subject": "ESC",
+		"Level": "5040",
 		"Hours": "4",
 		"CRN": "43313",
 		"Meeting": [
-			"T",
-			"03:05  PM - 04:35  PM"
+			{
+				"days": "T",
+				"hours": "03:05  PM - 04:35  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Bioremediation Laboratory",
 		"Subject": "ESC",
+		"Level": "5040L",
 		"Hours": "0",
 		"CRN": "43314",
 		"Meeting": [
-			"T",
-			"03:05  PM - 06:05  PM"
+			{
+				"days": "T",
+				"hours": "03:05  PM - 06:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Limnology and Reservoir Ecology",
 		"Subject": "ESC",
+		"Level": "5080",
 		"Hours": "4",
 		"CRN": "41055",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Limnology and Reservoir Ecology Laboratory",
 		"Subject": "ESC",
+		"Level": "5080L",
 		"Hours": "0",
 		"CRN": "41056",
 		"Meeting": [
-			"F",
-			"02:00  PM - 04:50  PM"
+			{
+				"days": "F",
+				"hours": "02:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Applied Statistics for Environmental Scientists",
 		"Subject": "ESC",
+		"Level": "5120",
 		"Hours": "4",
 		"CRN": "40504",
 		"Meeting": [
-			"MWW",
-			"03:00  PM - 04:15  PM"
+			{
+				"days": "MW",
+				"hours": "03:00  PM - 04:15  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Environmental Law and Regulations",
 		"Subject": "ESC",
+		"Level": "5140",
 		"Hours": "3",
 		"CRN": "41214",
 		"Meeting": [
-			"T",
-			"06:00  PM - 08:30  PM"
+			{
+				"days": "T",
+				"hours": "06:00  PM - 08:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Seminar I",
 		"Subject": "ESC",
+		"Level": "5700",
 		"Hours": "1",
 		"CRN": "41181",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Plant Ecology",
 		"Subject": "ESC",
+		"Level": "5730",
 		"Hours": "4",
 		"CRN": "43315",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Plant Ecology Laboratory",
 		"Subject": "ESC",
+		"Level": "5730L",
 		"Hours": "0",
 		"CRN": "43317",
 		"Meeting": [
-			"T",
-			"12:20  PM - 03:10  PM"
+			{
+				"days": "T",
+				"hours": "12:20  PM - 03:10  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Internship",
 		"Subject": "ESC",
+		"Level": "5996",
 		"Hours": "1 TO 6",
 		"CRN": "43318",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Internship",
 		"Subject": "ESC",
+		"Level": "5996",
 		"Hours": "1 TO 6",
 		"CRN": "43556",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Internship",
 		"Subject": "ESC",
+		"Level": "5996",
 		"Hours": "1 TO 6",
 		"CRN": "43858",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "5997R",
 		"Hours": "1 TO 6",
 		"CRN": "41948",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "5997R",
 		"Hours": "1 TO 6",
 		"CRN": "41247",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "5997R",
 		"Hours": "1 TO 6",
 		"CRN": "43053",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "5997R",
 		"Hours": "1 TO 6",
 		"CRN": "43561",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "5997R",
 		"Hours": "1 TO 6",
 		"CRN": "43562",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "5997R",
 		"Hours": "1 TO 6",
 		"CRN": "43563",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ESC",
+		"Level": "5997R",
 		"Hours": "1 TO 6",
 		"CRN": "43859",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research: Mathematical Modeling in Evolutionary Ecology",
 		"Subject": "ESC",
+		"Level": "5998R",
 		"Hours": "1 TO 6",
 		"CRN": "42919",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research",
 		"Subject": "ESC",
+		"Level": "5998R",
 		"Hours": "1 TO 6",
 		"CRN": "43564",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research",
 		"Subject": "ESC",
+		"Level": "5998R",
 		"Hours": "1 TO 6",
 		"CRN": "42062",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research",
 		"Subject": "ESC",
+		"Level": "5998R",
 		"Hours": "1 TO 6",
 		"CRN": "43565",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research",
 		"Subject": "ESC",
+		"Level": "5998R",
 		"Hours": "1 TO 6",
 		"CRN": "43860",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research",
 		"Subject": "ESC",
+		"Level": "5998R",
 		"Hours": "1 TO 6",
 		"CRN": "43963",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ESC",
+		"Level": "5999R",
 		"Hours": "1 TO 9",
 		"CRN": "41192",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ESC",
+		"Level": "5999R",
 		"Hours": "1 TO 9",
 		"CRN": "41193",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ESC",
+		"Level": "5999R",
 		"Hours": "1 TO 9",
 		"CRN": "42777",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ESC",
+		"Level": "5999R",
 		"Hours": "1 TO 9",
 		"CRN": "42143",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ESC",
+		"Level": "5999R",
 		"Hours": "1 TO 9",
 		"CRN": "43129",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ESC",
+		"Level": "5999R",
 		"Hours": "1 TO 9",
 		"CRN": "43861",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ESC",
+		"Level": "5999R",
 		"Hours": "1 TO 9",
 		"CRN": "43896",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

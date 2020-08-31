@@ -2,177 +2,225 @@
 	{
 		"Title": "Blueprint Reading & Sketching",
 		"Subject": "ETCM",
+		"Level": "1100",
 		"Hours": "3",
 		"CRN": "42779",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Blueprint Reading & Sketching",
 		"Subject": "ETCM",
+		"Level": "1100",
 		"Hours": "3",
 		"CRN": "43862",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Construction Safety and Risk Management",
 		"Subject": "ETCM",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "40820",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Construction Safety and Risk Management",
 		"Subject": "ETCM",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "40784",
 		"Meeting": [
-			"TT",
-			"08:00  AM - 09:15  AM"
+			{
+				"days": "TT",
+				"hours": "08:00  AM - 09:15  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Construction Documents Technology",
 		"Subject": "ETCM",
+		"Level": "2640",
 		"Hours": "3",
 		"CRN": "40821",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Construction Documents Technology",
 		"Subject": "ETCM",
+		"Level": "2640",
 		"Hours": "3",
 		"CRN": "40785",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Archtectural CAD",
 		"Subject": "ETCM",
+		"Level": "3090",
 		"Hours": "3",
 		"CRN": "42780",
 		"Meeting": [
-			"MW",
-			"05:30  PM - 06:45  PM"
+			{
+				"days": "MW",
+				"hours": "05:30  PM - 06:45  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Building Information Modeling (BIM)",
 		"Subject": "ETCM",
+		"Level": "3150",
 		"Hours": "3",
 		"CRN": "43715",
 		"Meeting": [
-			"TT",
-			"05:30  PM - 06:45  PM"
+			{
+				"days": "TT",
+				"hours": "05:30  PM - 06:45  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Construction Structures",
 		"Subject": "ETCM",
+		"Level": "3240",
 		"Hours": "3",
 		"CRN": "43819",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Construction Structures",
 		"Subject": "ETCM",
+		"Level": "3240",
 		"Hours": "3",
 		"CRN": "43820",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Estimating and Construction Documents II",
 		"Subject": "ETCM",
+		"Level": "4020",
 		"Hours": "3",
 		"CRN": "40786",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Estimating and Construction Documents II",
 		"Subject": "ETCM",
+		"Level": "4020",
 		"Hours": "3",
 		"CRN": "40816",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Construction Management Design",
 		"Subject": "ETCM",
+		"Level": "4500",
 		"Hours": "3",
 		"CRN": "43322",
 		"Meeting": [
-			"T",
-			"06:30  PM - 07:30  PM"
+			{
+				"days": "T",
+				"hours": "06:30  PM - 07:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Construction Management Internship",
 		"Subject": "ETCM",
+		"Level": "4960R",
 		"Hours": "3",
 		"CRN": "42145",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ETCM",
+		"Level": "4998R",
 		"Hours": "3",
 		"CRN": "43690",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Construction Competition",
-		"Subject": "",
-		"Hours": "0",
-		"CRN": "3",
+		"Subject": "ETCM",
+		"Level": "4999R",
+		"Hours": "3",
+		"CRN": "42144",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "T",
+				"hours": "06:30  PM - 07:30  PM"
+			}
 		],
-		"Campus": "Tuesday\nS\nM\nT\nW\nT\nF\nS\n06:30 PM - 07:30 PM Type: Class Building: None Room: None Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	}
 ]

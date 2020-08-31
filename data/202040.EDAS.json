@@ -2,55 +2,70 @@
 	{
 		"Title": "Leadership for School Improvement",
 		"Subject": "EDAS",
+		"Level": "5710",
 		"Hours": "3",
 		"CRN": "40628",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Leadership for School Improvement",
 		"Subject": "EDAS",
+		"Level": "5710",
 		"Hours": "3",
 		"CRN": "41068",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "School Culture and Climate",
 		"Subject": "EDAS",
+		"Level": "5730",
 		"Hours": "3",
 		"CRN": "40998",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Development of Human Capital in Schools",
 		"Subject": "EDAS",
+		"Level": "5760",
 		"Hours": "3",
 		"CRN": "40216",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Practicum in School Leadership",
 		"Subject": "EDAS",
+		"Level": "5820",
 		"Hours": "3",
 		"CRN": "40793",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	}

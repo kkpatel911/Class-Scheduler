@@ -2,44 +2,56 @@
 	{
 		"Title": "Legendary Rome: Epic Founders, Wicked Emperors, Saintly Martyrs",
 		"Subject": "CLAS",
+		"Level": "1200",
 		"Hours": "3",
 		"CRN": "41240",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Legendary Rome: Epic Founders, Wicked Emperors, Saintly Martyrs",
 		"Subject": "CLAS",
+		"Level": "1200",
 		"Hours": "3",
 		"CRN": "41518",
 		"Meeting": [
-			"MWF",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MWF",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Legendary Rome: Epic Founders, Wicked Emperors, Saintly Martyrs",
 		"Subject": "CLAS",
+		"Level": "1200",
 		"Hours": "3",
 		"CRN": "43013",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Classical Mythology",
 		"Subject": "CLAS",
+		"Level": "3960",
 		"Hours": "3",
 		"CRN": "41094",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

@@ -2,308 +2,406 @@
 	{
 		"Title": "Introduction to Civil Engineering",
 		"Subject": "ENCE",
+		"Level": "1010",
 		"Hours": "2",
 		"CRN": "41202",
 		"Meeting": [
-			"M",
-			"12:00  PM - 01:40  PM"
+			{
+				"days": "M",
+				"hours": "12:00  PM - 01:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Engineering Graphics",
 		"Subject": "ENCE",
+		"Level": "1020",
 		"Hours": "1",
 		"CRN": "41203",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Vector Statics",
 		"Subject": "ENCE",
+		"Level": "1040",
 		"Hours": "3",
 		"CRN": "41013",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Vector Statics",
 		"Subject": "ENCE",
+		"Level": "1040",
 		"Hours": "3",
 		"CRN": "41046",
 		"Meeting": [
-			"MWF",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "MWF",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Environmental Engineering",
 		"Subject": "ENCE",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "41430",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Probability and Statistics for Engineering",
 		"Subject": "ENCE",
+		"Level": "2220",
 		"Hours": "3",
 		"CRN": "41371",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Probability and Statistics for Engineering",
 		"Subject": "ENCE",
+		"Level": "2220",
 		"Hours": "3",
 		"CRN": "41372",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Mechanics of Materials",
 		"Subject": "ENCE",
+		"Level": "2460",
 		"Hours": "3",
 		"CRN": "41015",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Mechanics of Materials Laboratory",
 		"Subject": "ENCE",
+		"Level": "2460L",
 		"Hours": "1",
 		"CRN": "41016",
 		"Meeting": [
-			"M",
-			"12:00  PM - 02:50  PM"
+			{
+				"days": "M",
+				"hours": "12:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Mechanics of Materials Laboratory",
 		"Subject": "ENCE",
+		"Level": "2460L",
 		"Hours": "1",
 		"CRN": "42174",
 		"Meeting": [
-			"W",
-			"12:00  PM - 02:50  PM"
+			{
+				"days": "W",
+				"hours": "12:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Civil Engineering Materials",
 		"Subject": "ENCE",
+		"Level": "3500",
 		"Hours": "3",
 		"CRN": "40717",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Civil Engineering Materials Laboratory",
 		"Subject": "ENCE",
+		"Level": "3500L",
 		"Hours": "1",
 		"CRN": "40718",
 		"Meeting": [
-			"W",
-			"12:00  PM - 02:50  PM"
+			{
+				"days": "W",
+				"hours": "12:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Engineering Economy",
 		"Subject": "ENCE",
+		"Level": "3520",
 		"Hours": "3",
 		"CRN": "41373",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Engineering Economy",
 		"Subject": "ENCE",
+		"Level": "3520",
 		"Hours": "3",
 		"CRN": "41429",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Transportation Engineering I",
 		"Subject": "ENCE",
+		"Level": "3620",
 		"Hours": "3",
 		"CRN": "40120",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Structural Analysis I",
 		"Subject": "ENCE",
+		"Level": "3640",
 		"Hours": "3",
 		"CRN": "40560",
 		"Meeting": [
-			"TT",
-			"08:00  AM - 09:15  AM"
+			{
+				"days": "TT",
+				"hours": "08:00  AM - 09:15  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Interdisciplinary Design Project I",
 		"Subject": "ENCE",
+		"Level": "3850",
 		"Hours": "3",
 		"CRN": "41390",
 		"Meeting": [
-			"MW",
-			"05:30  PM - 06:45  PM"
+			{
+				"days": "MW",
+				"hours": "05:30  PM - 06:45  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Foundation Analysis and Design",
 		"Subject": "ENCE",
+		"Level": "4610",
 		"Hours": "3",
 		"CRN": "40121",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Design of Steel Structures",
 		"Subject": "ENCE",
+		"Level": "4680",
 		"Hours": "3",
 		"CRN": "40122",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Interdisciplinary Design Project II",
 		"Subject": "ENCE",
+		"Level": "4850",
 		"Hours": "3",
 		"CRN": "41394",
 		"Meeting": [
-			"MW",
-			"05:30  PM - 06:45  PM"
+			{
+				"days": "MW",
+				"hours": "05:30  PM - 06:45  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Advanced Pavement Design",
+		"Title": "Special Topics in Transportation II",
 		"Subject": "ENCE",
+		"Level": "4999R",
+		"Hours": "3",
+		"CRN": "44041",
+		"Meeting": [
+			{
+				"days": "",
+				"hours": " - "
+			}
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": " Advanced Pavement Design",
+		"Subject": "ENCE",
+		"Level": "5670",
 		"Hours": "3",
 		"CRN": "42176",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
-		"Title": "Advanced Statistics and Design of Experiments",
+		"Title": " Advanced Statistics and Design of Experiments",
 		"Subject": "ENCE",
+		"Level": "5700",
 		"Hours": "3",
 		"CRN": "43070",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Special Topics in Engineering: Urban Watershed Modeling",
+		"Title": " Special Topics in Engineering: Urban Watershed Modeling",
 		"Subject": "ENCE",
+		"Level": "5910R",
 		"Hours": "3",
 		"CRN": "43996",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Individual Studies: Data Fusion for MEPDG Climate Modeling",
+		"Title": " Individual Studies: Data Fusion for MEPDG Climate Modeling",
 		"Subject": "ENCE",
+		"Level": "5997R",
 		"Hours": "3",
 		"CRN": "43969",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Thesis",
+		"Title": " Thesis",
 		"Subject": "ENCE",
+		"Level": "5999R",
 		"Hours": "1 TO 6",
 		"CRN": "43953",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Thesis",
+		"Title": " Thesis",
 		"Subject": "ENCE",
+		"Level": "5999R",
 		"Hours": "1 TO 6",
 		"CRN": "43094",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Thesis",
+		"Title": " Thesis",
 		"Subject": "ENCE",
+		"Level": "5999R",
 		"Hours": "1 TO 6",
 		"CRN": "43539",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Thesis",
+		"Title": " Thesis",
 		"Subject": "ENCE",
+		"Level": "5999R",
 		"Hours": "3",
 		"CRN": "43999",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

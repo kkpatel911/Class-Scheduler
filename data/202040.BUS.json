@@ -1,298 +1,407 @@
 [
 	{
-		"Title": "Success Seminar: Professional Experience I",
+		"Title": "Success Seminar:  Professional Experience I",
 		"Subject": "BUS",
+		"Level": "1410",
 		"Hours": "1",
 		"CRN": "43606",
 		"Meeting": [
-			"M",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "M",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Success Seminar: Professional Experience I",
+		"Title": "Success Seminar:  Professional Experience I",
 		"Subject": "BUS",
+		"Level": "1410",
 		"Hours": "1",
 		"CRN": "43607",
 		"Meeting": [
-			"M",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "M",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Success Seminar: Professional Experience I",
+		"Title": "Success Seminar:  Professional Experience I",
 		"Subject": "BUS",
+		"Level": "1410",
 		"Hours": "1",
 		"CRN": "43608",
 		"Meeting": [
-			"M",
-			"02:00  PM - 02:50  PM"
+			{
+				"days": "M",
+				"hours": "02:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Success Seminar: Professional Experience I",
+		"Title": "Success Seminar:  Professional Experience I",
 		"Subject": "BUS",
+		"Level": "1410",
 		"Hours": "1",
 		"CRN": "43609",
 		"Meeting": [
-			"M",
-			"03:00  PM - 03:50  PM"
+			{
+				"days": "M",
+				"hours": "03:00  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Success Seminar: Professional Experience I",
+		"Title": "Success Seminar:  Professional Experience I",
 		"Subject": "BUS",
+		"Level": "1410",
 		"Hours": "1",
 		"CRN": "43610",
 		"Meeting": [
-			"T",
-			"01:40  PM - 02:30  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 02:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Success Seminar: Professional Experience I",
+		"Title": "Success Seminar:  Professional Experience I",
 		"Subject": "BUS",
+		"Level": "1410",
 		"Hours": "1",
 		"CRN": "43611",
 		"Meeting": [
-			"T",
-			"03:05  PM - 03:55  PM"
+			{
+				"days": "T",
+				"hours": "03:05  PM - 03:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Success Seminar: Professional Experience I",
+		"Title": "Success Seminar:  Professional Experience I",
 		"Subject": "BUS",
+		"Level": "1410",
 		"Hours": "1",
 		"CRN": "43612",
 		"Meeting": [
-			"W",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "W",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Success Seminar: Professional Experience I",
+		"Title": "Success Seminar:  Professional Experience I",
 		"Subject": "BUS",
+		"Level": "1410",
 		"Hours": "1",
 		"CRN": "43613",
 		"Meeting": [
-			"W",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "W",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Success Seminar: Professional Experience I",
+		"Title": "Success Seminar:  Professional Experience I",
 		"Subject": "BUS",
+		"Level": "1410",
 		"Hours": "1",
 		"CRN": "43614",
 		"Meeting": [
-			"W",
-			"02:00  PM - 02:50  PM"
+			{
+				"days": "W",
+				"hours": "02:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Success Seminar: Professional Experience I",
+		"Title": "Success Seminar:  Professional Experience I",
 		"Subject": "BUS",
+		"Level": "1410",
 		"Hours": "1",
 		"CRN": "43615",
 		"Meeting": [
-			"W",
-			"03:00  PM - 03:50  PM"
+			{
+				"days": "W",
+				"hours": "03:00  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Success Seminar: Professional Experience I",
+		"Title": "Success Seminar:  Professional Experience I",
 		"Subject": "BUS",
+		"Level": "1410",
 		"Hours": "1",
 		"CRN": "43616",
 		"Meeting": [
-			"T",
-			"01:40  PM - 02:30  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 02:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Success Seminar: Professional Experience I",
+		"Title": "Success Seminar:  Professional Experience I",
 		"Subject": "BUS",
+		"Level": "1410",
 		"Hours": "1",
 		"CRN": "43617",
 		"Meeting": [
-			"TT",
-			"04:30  PM - 05:20  PM"
+			{
+				"days": "T",
+				"hours": "04:30  PM - 05:20  PM"
+			},
+			{
+				"days": "T",
+				"hours": "04:30  PM - 05:20  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
-		"Title": "Success Seminar: Professional Experience I",
+		"Title": "Success Seminar:  Professional Experience I",
 		"Subject": "BUS",
+		"Level": "1410",
 		"Hours": "1",
 		"CRN": "43825",
 		"Meeting": [
-			"TT",
-			"03:05  PM - 04:20  PM"
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rollins Scholars- Second Year",
 		"Subject": "BUS",
+		"Level": "1999R",
 		"Hours": "1",
 		"CRN": "43619",
 		"Meeting": [
-			"T",
-			"12:15  PM - 01:05  PM"
+			{
+				"days": "T",
+				"hours": "12:15  PM - 01:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Experiential Learning: Business Mentor Program in the College of Business",
 		"Subject": "BUS",
+		"Level": "2900",
 		"Hours": "1",
 		"CRN": "40936",
 		"Meeting": [
-			"WWWFFF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "W",
+				"hours": "09:00  AM - 09:50  AM"
+			},
+			{
+				"days": "W",
+				"hours": "09:00  AM - 09:50  AM"
+			},
+			{
+				"days": "W",
+				"hours": "09:00  AM - 09:50  AM"
+			},
+			{
+				"days": "F",
+				"hours": "09:00  AM - 09:50  AM"
+			},
+			{
+				"days": "F",
+				"hours": "09:00  AM - 09:50  AM"
+			},
+			{
+				"days": "F",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Legal Environment of Business",
 		"Subject": "BUS",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "41955",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Legal Environment of Business",
 		"Subject": "BUS",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "40301",
 		"Meeting": [
-			"TT",
-			"03:05  PM - 04:20  PM"
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Legal Environment of Business",
 		"Subject": "BUS",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "40302",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Legal Environment of Business",
 		"Subject": "BUS",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "41195",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Legal Environment of Business",
 		"Subject": "BUS",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "41065",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Legal Environment of Business",
 		"Subject": "BUS",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "41196",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Legal Environment of Business",
 		"Subject": "BUS",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "41516",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Legal Environment of Business",
 		"Subject": "BUS",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "40300",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Legal Environment of Business",
 		"Subject": "BUS",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "43022",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Business Law",
 		"Subject": "BUS",
+		"Level": "3360",
 		"Hours": "3",
 		"CRN": "43625",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Success Seminar: Career Development",
 		"Subject": "BUS",
+		"Level": "3410",
 		"Hours": "1",
 		"CRN": "40976",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Success Seminar: Career Development",
 		"Subject": "BUS",
+		"Level": "3410",
 		"Hours": "1",
 		"CRN": "41184",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

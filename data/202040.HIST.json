@@ -2,683 +2,827 @@
 	{
 		"Title": "World History from Origins to 1400",
 		"Subject": "HIST",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "41145",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from Origins to 1400",
 		"Subject": "HIST",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "41483",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from Origins to 1400",
 		"Subject": "HIST",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "42180",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from Origins to 1400",
 		"Subject": "HIST",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "41970",
 		"Meeting": [
-			"MWF",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MWF",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from Origins to 1400",
 		"Subject": "HIST",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "43380",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from Origins to 1400",
 		"Subject": "HIST",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "43381",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from Origins to 1400",
 		"Subject": "HIST",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "41142",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from Origins to 1400",
 		"Subject": "HIST",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "41143",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from Origins to 1400",
 		"Subject": "HIST",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "41144",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from Origins to 1400",
 		"Subject": "HIST",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "41303",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from Origins to 1400",
 		"Subject": "HIST",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "42960",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from Origins to 1400",
 		"Subject": "HIST",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "42961",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from Origins to 1400",
 		"Subject": "HIST",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "43382",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from 1400-Present",
 		"Subject": "HIST",
+		"Level": "1120",
 		"Hours": "3",
 		"CRN": "41146",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from 1400-Present",
 		"Subject": "HIST",
+		"Level": "1120",
 		"Hours": "3",
 		"CRN": "41434",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from 1400-Present",
 		"Subject": "HIST",
+		"Level": "1120",
 		"Hours": "3",
 		"CRN": "43367",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from 1400-Present",
 		"Subject": "HIST",
+		"Level": "1120",
 		"Hours": "3",
 		"CRN": "41452",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from 1400-Present",
 		"Subject": "HIST",
+		"Level": "1120",
 		"Hours": "3",
-		"CRN": "41149",
+		"CRN": "41150",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from 1400-Present",
-		"Subject": "",
-		"Hours": "06",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "1120",
+		"Hours": "3",
+		"CRN": "41147",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from 1400-Present",
-		"Subject": "",
-		"Hours": "07",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "1120",
+		"Hours": "3",
+		"CRN": "41148",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World History from 1400-Present",
-		"Subject": "",
-		"Hours": "08",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "1120",
+		"Hours": "3",
+		"CRN": "41231",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
-	},
-	{
-		"Title": "World History from 1400-Present",
-		"Subject": "",
-		"Hours": "09",
-		"CRN": "3",
-		"Meeting": [
-			"",
-			""
-		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The First Year Experience",
-		"Subject": "",
-		"Hours": "01",
-		"CRN": "1",
+		"Subject": "HIST",
+		"Level": "1999R",
+		"Hours": "1",
+		"CRN": "43841",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "W",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
-		"Campus": "Wednesday\nS\nM\nT\nW\nT\nF\nS\n11:00 AM - 11:50 AM Type: Class Building: Engr/Math/CPSC Room: 239 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "United States to 1865",
-		"Subject": "",
-		"Hours": "01",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2010",
+		"Hours": "3",
+		"CRN": "41299",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "United States to 1865",
-		"Subject": "",
-		"Hours": "02",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2010",
+		"Hours": "3",
+		"CRN": "41300",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "United States to 1865",
-		"Subject": "",
-		"Hours": "03",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2010",
+		"Hours": "3",
+		"CRN": "41151",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "United States to 1865",
-		"Subject": "",
-		"Hours": "04",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2010",
+		"Hours": "3",
+		"CRN": "43383",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "United States since 1865",
-		"Subject": "",
-		"Hours": "01",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2020",
+		"Hours": "3",
+		"CRN": "41154",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "MWF",
+				"hours": "08:00  AM - 08:50  AM"
+			}
 		],
-		"Campus": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n08:00 AM - 08:50 AM Type: Class Building: Lupton Hall Room: 392 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "United States since 1865",
-		"Subject": "",
-		"Hours": "02",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2020",
+		"Hours": "3",
+		"CRN": "41152",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n09:25 AM - 10:40 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "United States since 1865",
-		"Subject": "",
-		"Hours": "03",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2020",
+		"Hours": "3",
+		"CRN": "43368",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "United States since 1865",
-		"Subject": "",
-		"Hours": "04",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2020",
+		"Hours": "3",
+		"CRN": "41604",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "United States since 1865",
-		"Subject": "",
-		"Hours": "05",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2020",
+		"Hours": "3",
+		"CRN": "41475",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "History of Tennessee",
-		"Subject": "",
-		"Hours": "01",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2030",
+		"Hours": "3",
+		"CRN": "41180",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "History of Tennessee",
-		"Subject": "",
-		"Hours": "02",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2030",
+		"Hours": "3",
+		"CRN": "43384",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research and Writing in History",
-		"Subject": "",
-		"Hours": "01",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2100",
+		"Hours": "3",
+		"CRN": "41179",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n09:25 AM - 10:40 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research and Writing in History",
-		"Subject": "",
-		"Hours": "02",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2100",
+		"Hours": "3",
+		"CRN": "41236",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n10:50 AM - 12:05 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research and Writing in History",
-		"Subject": "",
-		"Hours": "03",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "2100",
+		"Hours": "3",
+		"CRN": "42769",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
-		"Campus": ""
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research and Writing in History",
-		"Subject": "",
-		"Hours": "2100",
-		"CRN": "04",
+		"Subject": "HIST",
+		"Level": "2100",
+		"Hours": "3",
+		"CRN": "42181",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
-		"Campus": "Fall 2020"
-	},
-	{
-		"Title": "Research and Writing in History",
-		"Subject": "Rhetoric and Composition II\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\n",
-		"Hours": "HIST",
-		"CRN": "2100",
-		"Meeting": [
-			"",
-			""
-		],
-		"Campus": "42769"
-	},
-	{
-		"Title": "Research and Writing in History",
-		"Subject": "Rhetoric and Composition II\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\n",
-		"Hours": "HIST",
-		"CRN": "2100",
-		"Meeting": [
-			"",
-			""
-		],
-		"Campus": "42181"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Medieval Europe: c. 300-1500",
-		"Subject": "Rhetoric and Composition II\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\n",
-		"Hours": "HIST",
-		"CRN": "2210",
+		"Subject": "HIST",
+		"Level": "2210",
+		"Hours": "3",
+		"CRN": "43369",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
-		"Campus": "43369"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Modern Europe: c. 1800-present",
-		"Subject": "Historical Understanding\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\n",
-		"Hours": "HIST",
-		"CRN": "2230",
+		"Subject": "HIST",
+		"Level": "2230",
+		"Hours": "3",
+		"CRN": "43370",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
-		"Campus": "43370"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Early National and Antebellum America",
-		"Subject": "Historical Understanding\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\n",
-		"Hours": "HIST",
-		"CRN": "2420",
+		"Subject": "HIST",
+		"Level": "2420",
+		"Hours": "3",
+		"CRN": "43371",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
-		"Campus": "43371"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "History of Sub-Saharan Africa since 1800",
-		"Subject": "Historical Understanding\n\nLower Division Credit\n\nPotential Test Proctoring Fee\n\n",
-		"Hours": "HIST",
-		"CRN": "2620",
+		"Subject": "HIST",
+		"Level": "2620",
+		"Hours": "3",
+		"CRN": "43372",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "43372"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "History of Sub-Saharan Africa since 1800",
-		"Subject": "Historical Understanding\n\nLower Division Credit\n\nNon-Western Cultures\n\nPotential Test Proctoring Fee\n\n",
-		"Hours": "HIST",
-		"CRN": "2620",
+		"Subject": "HIST",
+		"Level": "2620",
+		"Hours": "3",
+		"CRN": "43373",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "43373"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "History of Sub-Saharan Africa since 1800",
-		"Subject": "Historical Understanding\n\nLower Division Credit\n\nNon-Western Cultures\n\nPotential Test Proctoring Fee\n\n",
-		"Hours": "HIST",
-		"CRN": "2620",
+		"Subject": "HIST",
+		"Level": "2620",
+		"Hours": "3",
+		"CRN": "43968",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "43968"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "History of the Modern Middle East",
-		"Subject": "Historical Understanding\n\nLower Division Credit\n\nNon-Western Cultures\n\nPotential Test Proctoring Fee\n\n",
-		"Hours": "HIST",
-		"CRN": "2880",
+		"Subject": "HIST",
+		"Level": "2880",
+		"Hours": "3",
+		"CRN": "43374",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
-		"Campus": "43374"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Renaissance Culture and Society",
-		"Subject": "Historical Understanding\n\nLower Division Credit\n\nNon-Western Cultures\n\nPotential Test Proctoring Fee\n\n",
-		"Hours": "HIST",
-		"CRN": "3200",
+		"Subject": "HIST",
+		"Level": "3200",
+		"Hours": "3",
+		"CRN": "43375",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
-		"Campus": "43375"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "African American History to 1865",
-		"Subject": "Potential Test Proctoring Fee\n\nUpper Division Credit\n\n",
-		"Hours": "HIST",
-		"CRN": "3450",
+		"Subject": "HIST",
+		"Level": "3450",
+		"Hours": "3",
+		"CRN": "43377",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
-		"Campus": "43377"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "American Popular Culture",
-		"Subject": "Potential Test Proctoring Fee\n\nUpper Division Credit\n\n",
-		"Hours": "HIST",
-		"CRN": "3470",
+		"Subject": "HIST",
+		"Level": "3470",
+		"Hours": "3",
+		"CRN": "43378",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "MW",
+				"hours": "05:00  PM - 06:15  PM"
+			}
 		],
-		"Campus": "43378"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Modern Japan",
 		"Subject": "HIST",
+		"Level": "3640",
 		"Hours": "3",
 		"CRN": "43886",
 		"Meeting": [
-			"T",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "T",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Topics: Evangelicalism in the 18th-Century British Atlantic",
 		"Subject": "HIST",
+		"Level": "3930R",
 		"Hours": "3",
 		"CRN": "42190",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n10:50 AM - 12:05 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Topics: History of Central Europe",
-		"Subject": "",
-		"Hours": "01",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "3930R",
+		"Hours": "3",
+		"CRN": "43566",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:30  PM"
+			}
 		],
-		"Campus": "Tuesday\nS\nM\nT\nW\nT\nF\nS\n05:00 PM - 07:30 PM Type: Class Building: Lupton Hall Room: 393 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Topics: Indian Ocean World",
-		"Subject": "",
-		"Hours": "02",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "3940R",
+		"Hours": "3",
+		"CRN": "42191",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
-		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n02:00 PM - 03:15 PM Type: Class Building: Fletcher Hall Room: 213 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The Historian's Craft: Capstone in History",
-		"Subject": "",
-		"Hours": "0",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "4020",
+		"Hours": "3",
+		"CRN": "41123",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "T",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
-		"Campus": "Tuesday\nS\nM\nT\nW\nT\nF\nS\n02:00 PM - 04:30 PM Type: Class Building: Holt Hall Room: 229 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Reformation and Religious Conflict in Early Modern Europe",
-		"Subject": "",
-		"Hours": "01",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "4500R",
+		"Hours": "3",
+		"CRN": "42192",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n03:05 PM - 04:20 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Marriage and Family in Colonial Africa",
-		"Subject": "",
-		"Hours": "02",
-		"CRN": "3",
+		"Subject": "HIST",
+		"Level": "4500R",
+		"Hours": "3",
+		"CRN": "42193",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n10:50 AM - 12:05 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Internships in History",
-		"Subject": "",
-		"Hours": "0",
-		"CRN": "1 TO 3",
+		"Subject": "HIST",
+		"Level": "4920R",
+		"Hours": "1 TO 3",
+		"CRN": "42194",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
-		"Subject": "",
-		"Hours": "01",
-		"CRN": "1 TO 3",
+		"Subject": "HIST",
+		"Level": "4995R",
+		"Hours": "1 TO 3",
+		"CRN": "43770",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
-		"Subject": "",
-		"Hours": "02",
-		"CRN": "1 TO 3",
+		"Subject": "HIST",
+		"Level": "4995R",
+		"Hours": "1 TO 3",
+		"CRN": "43771",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
-		"Subject": "",
-		"Hours": "03",
-		"CRN": "1 TO 3",
+		"Subject": "HIST",
+		"Level": "4995R",
+		"Hours": "1 TO 3",
+		"CRN": "43772",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
-		"Subject": "",
-		"Hours": "04",
-		"CRN": "1 TO 3",
+		"Subject": "HIST",
+		"Level": "4995R",
+		"Hours": "1 TO 3",
+		"CRN": "43773",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	}
 ]

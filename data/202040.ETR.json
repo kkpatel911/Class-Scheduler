@@ -2,187 +2,238 @@
 	{
 		"Title": "Entrepreneurship: The Mindset and Skillset",
 		"Subject": "ETR",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "41570",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Special Projects",
 		"Subject": "ETR",
+		"Level": "1999R",
 		"Hours": "1",
 		"CRN": "42154",
 		"Meeting": [
-			"TT",
-			"03:05  PM - 04:20  PM"
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Innovation and Creativity in Business",
 		"Subject": "ETR",
+		"Level": "3400",
 		"Hours": "3",
 		"CRN": "41571",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Innovation and Creativity in Business",
 		"Subject": "ETR",
+		"Level": "3400",
 		"Hours": "3",
 		"CRN": "41125",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Innovation and Creativity in Business",
 		"Subject": "ETR",
+		"Level": "3400",
 		"Hours": "3",
 		"CRN": "42931",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Innovation and Creativity in Business",
 		"Subject": "ETR",
+		"Level": "3400",
 		"Hours": "3",
 		"CRN": "42933",
 		"Meeting": [
-			"M",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "M",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Innovation and Creativity in Business",
 		"Subject": "ETR",
+		"Level": "3400",
 		"Hours": "3",
 		"CRN": "43329",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "New Venture Creation",
 		"Subject": "ETR",
+		"Level": "3500",
 		"Hours": "3",
 		"CRN": "41438",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "New Venture Creation",
 		"Subject": "ETR",
+		"Level": "3500",
 		"Hours": "3",
 		"CRN": "41302",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "New Venture Creation",
 		"Subject": "ETR",
+		"Level": "3500",
 		"Hours": "3",
 		"CRN": "42930",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "New Venture Creation",
 		"Subject": "ETR",
+		"Level": "3500",
 		"Hours": "3",
 		"CRN": "43330",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Social Entrepreneurship",
 		"Subject": "ETR",
+		"Level": "3600",
 		"Hours": "3",
 		"CRN": "42155",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Essentials of Entrepreneurial Finance",
 		"Subject": "ETR",
+		"Level": "4200",
 		"Hours": "3",
 		"CRN": "41282",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Managing Venture Growth",
 		"Subject": "ETR",
+		"Level": "4350",
 		"Hours": "3",
 		"CRN": "40242",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Opportunity Assessment",
 		"Subject": "ETR",
+		"Level": "4999R",
 		"Hours": "3",
 		"CRN": "42550",
 		"Meeting": [
-			"M",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Corporate Entrepreneurship and Innovation",
 		"Subject": "ETR",
+		"Level": "5885",
 		"Hours": "3",
 		"CRN": "43331",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ETR",
+		"Level": "5997R",
 		"Hours": "1 TO 9",
 		"CRN": "43808",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

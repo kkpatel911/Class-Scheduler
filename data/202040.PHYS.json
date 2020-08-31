@@ -2,286 +2,364 @@
 	{
 		"Title": "General Physics: Mechanics and Heat",
 		"Subject": "PHYS",
+		"Level": "1030",
 		"Hours": "3",
 		"CRN": "40146",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "General Physics: Mechanics and Heat",
 		"Subject": "PHYS",
+		"Level": "1030",
 		"Hours": "3",
 		"CRN": "40147",
 		"Meeting": [
-			"TT",
-			"05:00  PM - 06:15  PM"
+			{
+				"days": "TT",
+				"hours": "05:00  PM - 06:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "General Physics Laboratory: Mechanics and Heat",
 		"Subject": "PHYS",
+		"Level": "1030L",
 		"Hours": "1",
 		"CRN": "40150",
 		"Meeting": [
-			"M",
-			"10:00  AM - 11:50  AM"
+			{
+				"days": "M",
+				"hours": "10:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "General Physics Laboratory: Mechanics and Heat",
 		"Subject": "PHYS",
+		"Level": "1030L",
 		"Hours": "1",
 		"CRN": "40151",
 		"Meeting": [
-			"M",
-			"10:00  AM - 11:50  AM"
+			{
+				"days": "M",
+				"hours": "10:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "General Physics Laboratory: Mechanics and Heat",
 		"Subject": "PHYS",
+		"Level": "1030L",
 		"Hours": "1",
 		"CRN": "40152",
 		"Meeting": [
-			"M",
-			"12:00  PM - 01:50  PM"
+			{
+				"days": "M",
+				"hours": "12:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "General Physics Laboratory: Mechanics and Heat",
 		"Subject": "PHYS",
+		"Level": "1030L",
 		"Hours": "1",
 		"CRN": "40153",
 		"Meeting": [
-			"M",
-			"12:00  PM - 01:50  PM"
+			{
+				"days": "M",
+				"hours": "12:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "General Physics Laboratory: Mechanics and Heat",
 		"Subject": "PHYS",
+		"Level": "1030L",
 		"Hours": "1",
 		"CRN": "40154",
 		"Meeting": [
-			"M",
-			"02:00  PM - 03:50  PM"
+			{
+				"days": "M",
+				"hours": "02:00  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "General Physics Laboratory: Mechanics and Heat",
 		"Subject": "PHYS",
+		"Level": "1030L",
 		"Hours": "1",
 		"CRN": "44020",
 		"Meeting": [
-			"M",
-			"02:00  PM - 03:50  PM"
+			{
+				"days": "M",
+				"hours": "02:00  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "General Physics: Electromagnetism and Optics",
 		"Subject": "PHYS",
+		"Level": "1040",
 		"Hours": "3",
 		"CRN": "40148",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "General Physics Laboratory: Electromagnetism and Optics",
 		"Subject": "PHYS",
+		"Level": "1040L",
 		"Hours": "1",
 		"CRN": "40149",
 		"Meeting": [
-			"W",
-			"10:00  AM - 11:50  AM"
+			{
+				"days": "W",
+				"hours": "10:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "General Physics Laboratory: Electromagnetism and Optics",
 		"Subject": "PHYS",
+		"Level": "1040L",
 		"Hours": "1",
 		"CRN": "40683",
 		"Meeting": [
-			"W",
-			"10:00  AM - 11:50  AM"
+			{
+				"days": "W",
+				"hours": "10:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Physics: Mechanics and Heat",
 		"Subject": "PHYS",
+		"Level": "2300",
 		"Hours": "3",
 		"CRN": "40155",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Physics Laboratory: Mechanics and Heat",
 		"Subject": "PHYS",
+		"Level": "2300L",
 		"Hours": "1",
 		"CRN": "40157",
 		"Meeting": [
-			"T",
-			"03:00  PM - 04:50  PM"
+			{
+				"days": "T",
+				"hours": "03:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Physics: Electricity and Magnetism",
 		"Subject": "PHYS",
+		"Level": "2310",
 		"Hours": "3",
 		"CRN": "40156",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Physics Laboratory: Electricity and Magnetism",
 		"Subject": "PHYS",
+		"Level": "2310L",
 		"Hours": "1",
 		"CRN": "40158",
 		"Meeting": [
-			"T",
-			"01:40  PM - 03:30  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 03:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Physics Laboratory: Electricity and Magnetism",
 		"Subject": "PHYS",
+		"Level": "2310L",
 		"Hours": "1",
 		"CRN": "40159",
 		"Meeting": [
-			"T",
-			"01:40  PM - 03:30  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 03:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Physics Laboratory: Electricity and Magnetism",
 		"Subject": "PHYS",
+		"Level": "2310L",
 		"Hours": "1",
 		"CRN": "40800",
 		"Meeting": [
-			"T",
-			"03:40  PM - 05:30  PM"
+			{
+				"days": "T",
+				"hours": "03:40  PM - 05:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of Physics Laboratory: Electricity and Magnetism",
 		"Subject": "PHYS",
+		"Level": "2310L",
 		"Hours": "1",
 		"CRN": "41340",
 		"Meeting": [
-			"T",
-			"03:40  PM - 05:30  PM"
+			{
+				"days": "T",
+				"hours": "03:40  PM - 05:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Thermal Physics",
 		"Subject": "PHYS",
+		"Level": "3110",
 		"Hours": "4",
 		"CRN": "43436",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Thermal Physics Laboratory",
 		"Subject": "PHYS",
+		"Level": "3110L",
 		"Hours": "0",
 		"CRN": "43437",
 		"Meeting": [
-			"T",
-			"01:40  PM - 03:30  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 03:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Methods of Experimental Physics I",
 		"Subject": "PHYS",
+		"Level": "3980",
 		"Hours": "3",
 		"CRN": "43438",
 		"Meeting": [
-			"F",
-			"01:00  PM - 04:50  PM"
+			{
+				"days": "F",
+				"hours": "01:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "PHYS",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43742",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "PHYS",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43781",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research",
 		"Subject": "PHYS",
+		"Level": "4997R",
 		"Hours": "1 TO 9",
 		"CRN": "42850",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research",
 		"Subject": "PHYS",
+		"Level": "4997R",
 		"Hours": "1 TO 9",
 		"CRN": "42851",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research",
 		"Subject": "PHYS",
+		"Level": "4997R",
 		"Hours": "1 TO 9",
 		"CRN": "43134",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

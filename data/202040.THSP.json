@@ -2,528 +2,672 @@
 	{
 		"Title": "Performance and Production",
 		"Subject": "THSP",
+		"Level": "1000R",
 		"Hours": "1",
 		"CRN": "42604",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Speaking",
 		"Subject": "THSP",
+		"Level": "1090",
 		"Hours": "3",
 		"CRN": "42615",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Speaking",
 		"Subject": "THSP",
+		"Level": "1090",
 		"Hours": "3",
 		"CRN": "41478",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Speaking",
 		"Subject": "THSP",
+		"Level": "1090",
 		"Hours": "3",
 		"CRN": "41486",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Speaking",
 		"Subject": "THSP",
+		"Level": "1090",
 		"Hours": "3",
 		"CRN": "41809",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Speaking",
 		"Subject": "THSP",
+		"Level": "1090",
 		"Hours": "3",
 		"CRN": "42028",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Speaking",
 		"Subject": "THSP",
+		"Level": "1090",
 		"Hours": "3",
 		"CRN": "40506",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Speaking",
 		"Subject": "THSP",
+		"Level": "1090",
 		"Hours": "3",
 		"CRN": "42999",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Speaking",
 		"Subject": "THSP",
+		"Level": "1090",
 		"Hours": "3",
 		"CRN": "40507",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Speaking",
 		"Subject": "THSP",
+		"Level": "1090",
 		"Hours": "3",
 		"CRN": "43116",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Speaking",
 		"Subject": "THSP",
+		"Level": "1090",
 		"Hours": "3",
 		"CRN": "40508",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Speaking",
 		"Subject": "THSP",
+		"Level": "1090",
 		"Hours": "3",
 		"CRN": "40509",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Speaking",
 		"Subject": "THSP",
+		"Level": "1090",
 		"Hours": "3",
 		"CRN": "41347",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to the Theatre",
 		"Subject": "THSP",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "40919",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to the Theatre",
 		"Subject": "THSP",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "40510",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to the Theatre",
 		"Subject": "THSP",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "43601",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to the Theatre",
 		"Subject": "THSP",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "40905",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to the Theatre",
 		"Subject": "THSP",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "41810",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to the Theatre",
 		"Subject": "THSP",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "43602",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to the Theatre",
 		"Subject": "THSP",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "40670",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to the Theatre",
 		"Subject": "THSP",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "43019",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to the Theatre",
 		"Subject": "THSP",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "42616",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to the Theatre",
 		"Subject": "THSP",
+		"Level": "1110",
 		"Hours": "3",
 		"CRN": "40852",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Dance Technique I",
 		"Subject": "THSP",
+		"Level": "1250",
 		"Hours": "3",
 		"CRN": "40582",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Performance and Production",
 		"Subject": "THSP",
+		"Level": "2000R",
 		"Hours": "1",
 		"CRN": "42606",
 		"Meeting": [
-			"TT",
-			"02:00  PM - 05:00  PM"
+			{
+				"days": "TT",
+				"hours": "02:00  PM - 05:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Performance and Production",
 		"Subject": "THSP",
+		"Level": "2000R",
 		"Hours": "1",
 		"CRN": "42607",
 		"Meeting": [
-			"MWF",
-			"03:00  PM - 05:00  PM"
+			{
+				"days": "MWF",
+				"hours": "03:00  PM - 05:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Voice and Body",
 		"Subject": "THSP",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "41923",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:50  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Film",
 		"Subject": "THSP",
+		"Level": "2800",
 		"Hours": "3",
 		"CRN": "40511",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Film",
 		"Subject": "THSP",
+		"Level": "2800",
 		"Hours": "3",
 		"CRN": "40512",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Film",
 		"Subject": "THSP",
+		"Level": "2800",
 		"Hours": "3",
 		"CRN": "41052",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Film",
 		"Subject": "THSP",
+		"Level": "2800",
 		"Hours": "3",
 		"CRN": "40770",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Film",
 		"Subject": "THSP",
+		"Level": "2800",
 		"Hours": "3",
 		"CRN": "41053",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Film",
 		"Subject": "THSP",
+		"Level": "2800",
 		"Hours": "3",
 		"CRN": "41493",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Film",
 		"Subject": "THSP",
+		"Level": "2800",
 		"Hours": "3",
 		"CRN": "42991",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Film",
 		"Subject": "THSP",
+		"Level": "2800",
 		"Hours": "3",
 		"CRN": "43940",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Performance and Production",
 		"Subject": "THSP",
+		"Level": "3000R",
 		"Hours": "1",
 		"CRN": "42608",
 		"Meeting": [
-			"TT",
-			"02:00  PM - 05:00  PM"
+			{
+				"days": "TT",
+				"hours": "02:00  PM - 05:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Performance and Production",
 		"Subject": "THSP",
+		"Level": "3000R",
 		"Hours": "1",
 		"CRN": "42609",
 		"Meeting": [
-			"MWF",
-			"03:00  PM - 05:00  PM"
+			{
+				"days": "MWF",
+				"hours": "03:00  PM - 05:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Directing I",
 		"Subject": "THSP",
+		"Level": "3310",
 		"Hours": "3",
 		"CRN": "40513",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Theatre History I",
 		"Subject": "THSP",
+		"Level": "3550",
 		"Hours": "3",
 		"CRN": "40539",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Topics in Design/Technical: Drawing and Rendering",
 		"Subject": "THSP",
+		"Level": "3610R",
 		"Hours": "3",
 		"CRN": "43599",
 		"Meeting": [
-			"T",
-			"09:00  AM - 11:00  AM"
+			{
+				"days": "T",
+				"hours": "09:00  AM - 11:00  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Topics in Design/Technical: Stage Management",
 		"Subject": "THSP",
+		"Level": "3610R",
 		"Hours": "3",
 		"CRN": "43600",
 		"Meeting": [
-			"T",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "T",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Performance and Production",
 		"Subject": "THSP",
+		"Level": "4000R",
 		"Hours": "1",
 		"CRN": "42612",
 		"Meeting": [
-			"TT",
-			"02:00  PM - 05:00  PM"
+			{
+				"days": "TT",
+				"hours": "02:00  PM - 05:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Performance and Production",
 		"Subject": "THSP",
+		"Level": "4000R",
 		"Hours": "1",
 		"CRN": "42613",
 		"Meeting": [
-			"MWF",
-			"03:00  PM - 05:00  PM"
+			{
+				"days": "MWF",
+				"hours": "03:00  PM - 05:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Theatre Education Philosophy and Curriculum Design",
 		"Subject": "THSP",
+		"Level": "4120",
 		"Hours": "3",
 		"CRN": "41824",
 		"Meeting": [
-			"F",
-			"09:00  AM - 11:30  AM"
+			{
+				"days": "F",
+				"hours": "09:00  AM - 11:30  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Acting II",
 		"Subject": "THSP",
+		"Level": "4230",
 		"Hours": "3",
 		"CRN": "40635",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 04:40  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Directed Studies in Advanced Production: Arts Administration",
 		"Subject": "THSP",
+		"Level": "4610R",
 		"Hours": "3",
 		"CRN": "43603",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Directed Studies in Advanced Performance: Audition Techniques",
 		"Subject": "THSP",
+		"Level": "4630R",
 		"Hours": "3",
 		"CRN": "42614",
 		"Meeting": [
-			"MWF",
-			"01:00  PM - 02:50  PM"
+			{
+				"days": "MWF",
+				"hours": "01:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "THSP",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "43873",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	}

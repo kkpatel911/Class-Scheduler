@@ -2,858 +2,1364 @@
 	{
 		"Title": "The First Year Experience",
 		"Subject": "EDUC",
+		"Level": "1999R",
 		"Hours": "1",
 		"CRN": "43852",
 		"Meeting": [
-			"T",
-			"10:50  AM - 11:40  AM"
+			{
+				"days": "T",
+				"hours": "10:50  AM - 11:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Investigations of the School in Society",
 		"Subject": "EDUC",
+		"Level": "2000R",
 		"Hours": "3",
 		"CRN": "43011",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Education In The United States",
 		"Subject": "EDUC",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "41057",
 		"Meeting": [
-			"TT",
-			"08:00  AM - 09:15  AM"
+			{
+				"days": "TT",
+				"hours": "08:00  AM - 09:15  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Education In The United States",
 		"Subject": "EDUC",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "42172",
 		"Meeting": [
-			"MWF",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MWF",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Education In The United States",
 		"Subject": "EDUC",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "43877",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Education In The United States",
 		"Subject": "EDUC",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "40225",
 		"Meeting": [
-			"T",
-			"05:00  PM - 07:30  PM"
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Strategies for Early Learners",
 		"Subject": "EDUC",
+		"Level": "2100",
 		"Hours": "3",
 		"CRN": "43678",
 		"Meeting": [
-			"W",
-			"11:00  AM - 12:15  PM"
+			{
+				"days": "W",
+				"hours": "11:00  AM - 12:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Strategies for Early Learners Laboratory",
 		"Subject": "EDUC",
+		"Level": "2100L",
 		"Hours": "0",
 		"CRN": "43679",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Strategies for Early Learners Laboratory",
 		"Subject": "EDUC",
+		"Level": "2100L",
 		"Hours": "0",
 		"CRN": "43680",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Strategies for Early Learners Laboratory",
 		"Subject": "EDUC",
+		"Level": "2100L",
 		"Hours": "0",
 		"CRN": "43681",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Strategies for Early Learners Laboratory",
 		"Subject": "EDUC",
+		"Level": "2100L",
 		"Hours": "0",
 		"CRN": "43682",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Strategies for Early Learners Laboratory",
 		"Subject": "EDUC",
+		"Level": "2100L",
 		"Hours": "0",
 		"CRN": "43683",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Strategies for Early Learners Laboratory",
 		"Subject": "EDUC",
+		"Level": "2100L",
 		"Hours": "0",
 		"CRN": "43684",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Survey of Exceptional Learners",
 		"Subject": "EDUC",
+		"Level": "2200",
 		"Hours": "3",
 		"CRN": "41737",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Survey of Exceptional Learners",
 		"Subject": "EDUC",
+		"Level": "2200",
 		"Hours": "3",
 		"CRN": "43012",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Adolescent Development",
 		"Subject": "EDUC",
+		"Level": "2420",
 		"Hours": "3",
 		"CRN": "42853",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Adolescent Development",
 		"Subject": "EDUC",
+		"Level": "2420",
 		"Hours": "3",
 		"CRN": "42854",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Group Studies",
 		"Subject": "EDUC",
+		"Level": "2999R",
 		"Hours": "1",
 		"CRN": "43059",
 		"Meeting": [
-			"MMMM",
-			"05:30  PM - 06:30  PM"
+			{
+				"days": "M",
+				"hours": "05:30  PM - 06:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "05:30  PM - 06:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "05:30  PM - 06:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "05:30  PM - 06:30  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Young Exceptional Learners: Characteristics and Needs",
 		"Subject": "EDUC",
+		"Level": "3090",
 		"Hours": "3",
 		"CRN": "43795",
 		"Meeting": [
-			"TTTTTT",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "T",
+				"hours": "02:00  PM - 04:30  PM"
+			},
+			{
+				"days": "T",
+				"hours": "02:00  PM - 04:30  PM"
+			},
+			{
+				"days": "T",
+				"hours": "02:00  PM - 04:30  PM"
+			},
+			{
+				"days": "T",
+				"hours": "02:00  PM - 04:30  PM"
+			},
+			{
+				"days": "T",
+				"hours": "02:00  PM - 04:30  PM"
+			},
+			{
+				"days": "T",
+				"hours": "02:00  PM - 04:30  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Methods in Early Intervention and Early Childhood Special Education",
 		"Subject": "EDUC",
+		"Level": "3150",
 		"Hours": "3",
 		"CRN": "40682",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Designing Instruction for the Inclusive Classroom",
 		"Subject": "EDUC",
+		"Level": "3170",
 		"Hours": "3",
 		"CRN": "41044",
 		"Meeting": [
-			"T",
-			"08:00  AM - 09:15  AM"
+			{
+				"days": "T",
+				"hours": "08:00  AM - 09:15  AM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Methods in Special Education",
 		"Subject": "EDUC",
+		"Level": "3180",
 		"Hours": "3",
 		"CRN": "41361",
 		"Meeting": [
-			"M",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Behavior Intervention Planning",
 		"Subject": "EDUC",
+		"Level": "3190",
 		"Hours": "3",
 		"CRN": "41734",
 		"Meeting": [
-			"T",
-			"09:25  AM - 12:10  PM"
+			{
+				"days": "T",
+				"hours": "09:25  AM - 12:10  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Literacy Instruction in the Content Areas",
 		"Subject": "EDUC",
+		"Level": "3210",
 		"Hours": "3",
 		"CRN": "43637",
 		"Meeting": [
-			"T",
-			"05:00  PM - 07:30  PM"
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Literacy I: Instruction for Emergent Learners (Birth-1st Grade)",
 		"Subject": "EDUC",
+		"Level": "3220",
 		"Hours": "3",
 		"CRN": "43634",
 		"Meeting": [
-			"T",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "T",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Literacy I: Instruction for Emergent Learners (Birth-1st Grade)",
 		"Subject": "EDUC",
+		"Level": "3220",
 		"Hours": "3",
 		"CRN": "41218",
 		"Meeting": [
-			"W",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "W",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Literacy II: Instruction for Elementary Learners (2nd-5th Grade)",
 		"Subject": "EDUC",
+		"Level": "3230",
 		"Hours": "3",
 		"CRN": "40228",
 		"Meeting": [
-			"M",
-			"05:00  PM - 07:30  PM"
+			{
+				"days": "M",
+				"hours": "05:00  PM - 07:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Nature and Characteristics of the Individual with Moderate and Severe and/or Multiple Disabilities",
 		"Subject": "EDUC",
+		"Level": "3250",
 		"Hours": "3",
 		"CRN": "42883",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Academic and Behavioral Evaluation",
 		"Subject": "EDUC",
+		"Level": "3300",
 		"Hours": "3",
 		"CRN": "41847",
 		"Meeting": [
-			"W",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "W",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Academic and Behavioral Evaluation Lab",
 		"Subject": "EDUC",
+		"Level": "3300L",
 		"Hours": "0",
 		"CRN": "43804",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Diversity in the Schools",
 		"Subject": "EDUC",
+		"Level": "3350",
 		"Hours": "2",
 		"CRN": "42856",
 		"Meeting": [
-			"T",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "T",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Teaching Strategies and Materials in Elementary Grades Mathematics",
 		"Subject": "EDUC",
+		"Level": "3500",
 		"Hours": "3",
 		"CRN": "40698",
 		"Meeting": [
-			"W",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "W",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Foundations in Teaching English as a Second Language",
 		"Subject": "EDUC",
+		"Level": "3600",
 		"Hours": "3",
 		"CRN": "41935",
 		"Meeting": [
-			"T",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "T",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Field Experience",
 		"Subject": "EDUC",
+		"Level": "3900",
 		"Hours": "1",
 		"CRN": "42857",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Guidance and Management in Inclusive Elementary Classrooms",
 		"Subject": "EDUC",
+		"Level": "3950",
 		"Hours": "3",
 		"CRN": "43533",
 		"Meeting": [
-			"MMMMMM",
-			"09:00  AM - 11:30  AM"
+			{
+				"days": "M",
+				"hours": "09:00  AM - 11:30  AM"
+			},
+			{
+				"days": "M",
+				"hours": "09:00  AM - 11:30  AM"
+			},
+			{
+				"days": "M",
+				"hours": "09:00  AM - 11:30  AM"
+			},
+			{
+				"days": "M",
+				"hours": "09:00  AM - 11:30  AM"
+			},
+			{
+				"days": "M",
+				"hours": "09:00  AM - 11:30  AM"
+			},
+			{
+				"days": "M",
+				"hours": "09:00  AM - 11:30  AM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Instructional Technology for the Adolescent Exceptional Student",
 		"Subject": "EDUC",
+		"Level": "4150",
 		"Hours": "3",
 		"CRN": "42884",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Technology and Learning",
 		"Subject": "EDUC",
+		"Level": "4170",
 		"Hours": "3",
 		"CRN": "42880",
 		"Meeting": [
-			"WWWWWWWW",
-			"05:00  PM - 07:30  PM"
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Technology and Learning",
 		"Subject": "EDUC",
+		"Level": "4170",
 		"Hours": "3",
 		"CRN": "42173",
 		"Meeting": [
-			"MMMMMMMM",
-			"11:00  AM - 01:50  PM"
+			{
+				"days": "M",
+				"hours": "11:00  AM - 01:50  PM"
+			},
+			{
+				"days": "M",
+				"hours": "11:00  AM - 01:50  PM"
+			},
+			{
+				"days": "M",
+				"hours": "11:00  AM - 01:50  PM"
+			},
+			{
+				"days": "M",
+				"hours": "11:00  AM - 01:50  PM"
+			},
+			{
+				"days": "M",
+				"hours": "11:00  AM - 01:50  PM"
+			},
+			{
+				"days": "M",
+				"hours": "11:00  AM - 01:50  PM"
+			},
+			{
+				"days": "M",
+				"hours": "11:00  AM - 01:50  PM"
+			},
+			{
+				"days": "M",
+				"hours": "11:00  AM - 01:50  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Middle Grades Organization Curriculum and Instruction",
 		"Subject": "EDUC",
+		"Level": "4180",
 		"Hours": "3",
 		"CRN": "40229",
 		"Meeting": [
-			"M",
-			"09:00  AM - 11:30  AM"
+			{
+				"days": "M",
+				"hours": "09:00  AM - 11:30  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Procedures for Individuals with Physical and Multiple Disabilities",
 		"Subject": "EDUC",
+		"Level": "4250",
 		"Hours": "3",
 		"CRN": "42882",
 		"Meeting": [
-			"M",
-			"09:00  AM - 11:50  AM"
+			{
+				"days": "M",
+				"hours": "09:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Instructional Procedures for Individuals with Moderate Severe or Multiple Disabilities",
 		"Subject": "EDUC",
+		"Level": "4260",
 		"Hours": "3",
 		"CRN": "42881",
 		"Meeting": [
-			"T",
-			"09:25  AM - 12:15  PM"
+			{
+				"days": "T",
+				"hours": "09:25  AM - 12:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Teaching Strategies and Materials in Foreign Language",
 		"Subject": "EDUC",
+		"Level": "4310",
 		"Hours": "3",
 		"CRN": "43794",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Residency I",
 		"Subject": "EDUC",
+		"Level": "4320",
 		"Hours": "6",
 		"CRN": "41848",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Designing Instruction and Assessment",
 		"Subject": "EDUC",
+		"Level": "4335",
 		"Hours": "3",
 		"CRN": "43021",
 		"Meeting": [
-			"TTTTT",
-			"05:00  PM - 07:30  PM"
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Assessment and IEP Development in Special Education",
 		"Subject": "EDUC",
+		"Level": "4350",
 		"Hours": "3",
 		"CRN": "41473",
 		"Meeting": [
-			"MMMMMM",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:30  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Residency II in Early Childhood Education and Early Childhood Special Education",
 		"Subject": "EDUC",
+		"Level": "4405",
 		"Hours": "10",
 		"CRN": "41456",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Seminar",
 		"Subject": "EDUC",
+		"Level": "4420",
 		"Hours": "2",
 		"CRN": "41464",
 		"Meeting": [
-			"T",
-			"05:00  PM - 07:00  PM"
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Seminar",
 		"Subject": "EDUC",
+		"Level": "4420",
 		"Hours": "2",
 		"CRN": "41465",
 		"Meeting": [
-			"T",
-			"05:00  PM - 07:00  PM"
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Seminar",
 		"Subject": "EDUC",
+		"Level": "4420",
 		"Hours": "2",
 		"CRN": "41466",
 		"Meeting": [
-			"T",
-			"05:00  PM - 07:00  PM"
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Seminar",
 		"Subject": "EDUC",
+		"Level": "4420",
 		"Hours": "2",
 		"CRN": "43803",
 		"Meeting": [
-			"T",
-			"05:00  PM - 07:00  PM"
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Seminar",
 		"Subject": "EDUC",
+		"Level": "4420",
 		"Hours": "2",
 		"CRN": "43534",
 		"Meeting": [
-			"T",
-			"05:00  PM - 07:00  PM"
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Seminar",
 		"Subject": "EDUC",
+		"Level": "4420",
 		"Hours": "2",
 		"CRN": "41468",
 		"Meeting": [
-			"T",
-			"05:00  PM - 07:00  PM"
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Seminar",
 		"Subject": "EDUC",
+		"Level": "4420",
 		"Hours": "2",
 		"CRN": "43938",
 		"Meeting": [
-			"T",
-			"05:00  PM - 07:00  PM"
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Residency II in Secondary Schools",
 		"Subject": "EDUC",
+		"Level": "4435",
 		"Hours": "10",
 		"CRN": "41460",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Residency II in Visual and Performing Arts, Health and Physical Education K-12",
 		"Subject": "EDUC",
+		"Level": "4445",
 		"Hours": "10",
 		"CRN": "42955",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Residency II in Exceptional Learning",
 		"Subject": "EDUC",
+		"Level": "4455",
 		"Hours": "10",
 		"CRN": "43677",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Residency II in Middle Grades",
 		"Subject": "EDUC",
+		"Level": "4465",
 		"Hours": "10",
 		"CRN": "41457",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Student Teaching in Foreign Language Education",
 		"Subject": "EDUC",
+		"Level": "4470",
 		"Hours": "12",
 		"CRN": "42965",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Residency II in Elementary Education and ESL",
 		"Subject": "EDUC",
+		"Level": "4485",
 		"Hours": "10",
 		"CRN": "43646",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Teaching Strategies and Materials in Secondary and Middle Grades English",
 		"Subject": "EDUC",
+		"Level": "4500",
 		"Hours": "3",
 		"CRN": "41459",
 		"Meeting": [
-			"W",
-			"11:00  AM - 01:30  PM"
+			{
+				"days": "W",
+				"hours": "11:00  AM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Teaching Strategies and Materials in Secondary and Middle Grades Mathematics",
 		"Subject": "EDUC",
+		"Level": "4510",
 		"Hours": "3",
 		"CRN": "40232",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Teaching Strategies and Materials in Secondary and Middle Grades Social Science",
 		"Subject": "EDUC",
+		"Level": "4520",
 		"Hours": "3",
 		"CRN": "40233",
 		"Meeting": [
-			"M",
-			"05:00  PM - 07:30  PM"
+			{
+				"days": "M",
+				"hours": "05:00  PM - 07:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Strategies for Assessing Elementary Education Children",
 		"Subject": "EDUC",
+		"Level": "4600",
 		"Hours": "3",
 		"CRN": "43725",
 		"Meeting": [
-			"MMMMMW",
-			"11:00  AM - 12:15  PM"
+			{
+				"days": "M",
+				"hours": "11:00  AM - 12:15  PM"
+			},
+			{
+				"days": "M",
+				"hours": "11:00  AM - 12:15  PM"
+			},
+			{
+				"days": "M",
+				"hours": "11:00  AM - 12:15  PM"
+			},
+			{
+				"days": "M",
+				"hours": "11:00  AM - 12:15  PM"
+			},
+			{
+				"days": "M",
+				"hours": "11:00  AM - 12:15  PM"
+			},
+			{
+				"days": "W",
+				"hours": "11:00  AM - 12:15  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "EDUC",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43734",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "EDUC",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43735",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Group Studies",
 		"Subject": "EDUC",
+		"Level": "4999R",
 		"Hours": "3",
 		"CRN": "43060",
 		"Meeting": [
-			"MMMM",
-			"06:30  PM - 08:30  PM"
+			{
+				"days": "M",
+				"hours": "06:30  PM - 08:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "06:30  PM - 08:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "06:30  PM - 08:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "06:30  PM - 08:30  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Methods of Educational Research",
 		"Subject": "EDUC",
+		"Level": "5010",
 		"Hours": "3",
 		"CRN": "40219",
 		"Meeting": [
-			"MMMMMM",
-			"05:00  PM - 07:30  PM"
+			{
+				"days": "M",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "M",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Collaboration and Consultation",
 		"Subject": "EDUC",
+		"Level": "5080",
 		"Hours": "3",
 		"CRN": "41362",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Social and Historical Foundations of Education",
 		"Subject": "EDUC",
+		"Level": "5200",
 		"Hours": "3",
 		"CRN": "40220",
 		"Meeting": [
-			"T",
-			"05:00  PM - 07:30  PM"
+			{
+				"days": "T",
+				"hours": "05:00  PM - 07:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Human Development Applied to Education",
 		"Subject": "EDUC",
+		"Level": "5210",
 		"Hours": "3",
 		"CRN": "40221",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Instructional Planning and Evaluation",
 		"Subject": "EDUC",
+		"Level": "5220",
 		"Hours": "3",
 		"CRN": "41207",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Literacy Instruction for Elementary School Learners, Grades Two Through Five",
 		"Subject": "EDUC",
+		"Level": "5620",
 		"Hours": "3",
 		"CRN": "40222",
 		"Meeting": [
-			"M",
-			"05:00  PM - 07:30  PM"
+			{
+				"days": "M",
+				"hours": "05:00  PM - 07:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Literacy Instuction for Middle/High School Learners",
 		"Subject": "EDUC",
+		"Level": "5630",
 		"Hours": "3",
 		"CRN": "41363",
 		"Meeting": [
-			"WWWWWWWW",
-			"05:00  PM - 07:30  PM"
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "05:00  PM - 07:30  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Educational Technology",
 		"Subject": "EDUC",
+		"Level": "5750",
 		"Hours": "3",
 		"CRN": "43535",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Culminating Experience",
 		"Subject": "EDUC",
+		"Level": "5900",
 		"Hours": "3",
 		"CRN": "40223",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Advanced Strategies and Methods: Teaching English to Speakers of Other Languages: Birth to 5th Grade",
 		"Subject": "EDUC",
+		"Level": "5922",
 		"Hours": "3",
 		"CRN": "43212",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Induction Experience",
 		"Subject": "EDUC",
+		"Level": "5960",
 		"Hours": "3 TO 9",
 		"CRN": "41439",
 		"Meeting": [
-			"T",
-			"05:30  PM - 07:30  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 07:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Induction Experience",
 		"Subject": "EDUC",
+		"Level": "5960",
 		"Hours": "9",
 		"CRN": "41499",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

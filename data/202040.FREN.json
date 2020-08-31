@@ -2,110 +2,148 @@
 	{
 		"Title": "Elementary French I",
 		"Subject": "FREN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "40266",
 		"Meeting": [
-			"TMWF",
-			"09:25  AM - 10:15  AM"
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:15  AM"
+			},
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary French I",
 		"Subject": "FREN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "40268",
 		"Meeting": [
-			"TMWF",
-			"10:50  AM - 11:40  AM"
+			{
+				"days": "T",
+				"hours": "10:50  AM - 11:40  AM"
+			},
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary French I",
 		"Subject": "FREN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "42944",
 		"Meeting": [
-			"TT",
-			"04:00  PM - 05:40  PM"
+			{
+				"days": "TT",
+				"hours": "04:00  PM - 05:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary French I",
 		"Subject": "FREN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "41915",
 		"Meeting": [
-			"MWF",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MWF",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Intermediate French for Conversation I",
 		"Subject": "FREN",
+		"Level": "2110",
 		"Hours": "3",
 		"CRN": "40270",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Intermediate French for Conversation I",
 		"Subject": "FREN",
+		"Level": "2110",
 		"Hours": "3",
 		"CRN": "40834",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "French Composition and Conversation I",
 		"Subject": "FREN",
+		"Level": "3110",
 		"Hours": "3",
 		"CRN": "43337",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "French Civilization",
 		"Subject": "FREN",
+		"Level": "3230",
 		"Hours": "3",
 		"CRN": "43338",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Textual Analysis III: Francophone Literature",
 		"Subject": "FREN",
+		"Level": "3500",
 		"Hours": "3",
 		"CRN": "43339",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Group Studies",
 		"Subject": "FREN",
+		"Level": "3999R",
 		"Hours": "1 TO 9",
 		"CRN": "43976",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

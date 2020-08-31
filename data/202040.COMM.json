@@ -2,627 +2,798 @@
 	{
 		"Title": "Introduction to Mass Communication",
 		"Subject": "COMM",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40018",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Mass Communication",
 		"Subject": "COMM",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "43853",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Mocs News",
 		"Subject": "COMM",
+		"Level": "1999R",
 		"Hours": "1",
 		"CRN": "43524",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Special Projects",
 		"Subject": "COMM",
+		"Level": "1999R",
 		"Hours": "1",
 		"CRN": "43137",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The Perch",
 		"Subject": "COMM",
+		"Level": "1999R",
 		"Hours": "1",
 		"CRN": "43525",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Mass Media History",
 		"Subject": "COMM",
+		"Level": "2200",
 		"Hours": "3",
 		"CRN": "42565",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Mass Media History",
 		"Subject": "COMM",
+		"Level": "2200",
 		"Hours": "3",
 		"CRN": "43966",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Media Writing I",
 		"Subject": "COMM",
+		"Level": "2300",
 		"Hours": "3",
 		"CRN": "40019",
 		"Meeting": [
-			"TT",
-			"08:00  AM - 09:50  AM"
+			{
+				"days": "TT",
+				"hours": "08:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Media Writing I",
 		"Subject": "COMM",
+		"Level": "2300",
 		"Hours": "3",
 		"CRN": "41966",
 		"Meeting": [
-			"TT",
-			"10:00  AM - 11:50  AM"
+			{
+				"days": "TT",
+				"hours": "10:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Media Writing I",
 		"Subject": "COMM",
+		"Level": "2300",
 		"Hours": "3",
 		"CRN": "40538",
 		"Meeting": [
-			"MW",
-			"03:00  PM - 04:50  PM"
+			{
+				"days": "MW",
+				"hours": "03:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Media Writing I",
 		"Subject": "COMM",
+		"Level": "2300",
 		"Hours": "3",
 		"CRN": "40567",
 		"Meeting": [
-			"TT",
-			"05:00  PM - 06:50  PM"
+			{
+				"days": "TT",
+				"hours": "05:00  PM - 06:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Media Writing I",
 		"Subject": "COMM",
+		"Level": "2300",
 		"Hours": "3",
 		"CRN": "44000",
 		"Meeting": [
-			"MW",
-			"01:00  PM - 02:50  PM"
+			{
+				"days": "MW",
+				"hours": "01:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Media Writing I",
 		"Subject": "COMM",
+		"Level": "2300",
 		"Hours": "3",
 		"CRN": "40929",
 		"Meeting": [
-			"TT",
-			"10:00  AM - 11:50  AM"
+			{
+				"days": "TT",
+				"hours": "10:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Media Writing I",
 		"Subject": "COMM",
+		"Level": "2300",
 		"Hours": "3",
 		"CRN": "43526",
 		"Meeting": [
-			"TT",
-			"08:00  AM - 09:50  AM"
+			{
+				"days": "TT",
+				"hours": "08:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Media Writing II",
 		"Subject": "COMM",
+		"Level": "2310",
 		"Hours": "3",
 		"CRN": "40641",
 		"Meeting": [
-			"TT",
-			"03:00  PM - 04:50  PM"
+			{
+				"days": "TT",
+				"hours": "03:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Media Writing II",
 		"Subject": "COMM",
+		"Level": "2310",
 		"Hours": "3",
 		"CRN": "40642",
 		"Meeting": [
-			"TT",
-			"01:00  PM - 02:50  PM"
+			{
+				"days": "TT",
+				"hours": "01:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Media Writing II",
 		"Subject": "COMM",
+		"Level": "2310",
 		"Hours": "3",
 		"CRN": "41967",
 		"Meeting": [
-			"TT",
-			"01:00  PM - 02:50  PM"
+			{
+				"days": "TT",
+				"hours": "01:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Media Writing II",
 		"Subject": "COMM",
+		"Level": "2310",
 		"Hours": "3",
 		"CRN": "40640",
 		"Meeting": [
-			"MW",
-			"10:00  AM - 11:50  AM"
+			{
+				"days": "MW",
+				"hours": "10:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Media Writing II",
 		"Subject": "COMM",
+		"Level": "2310",
 		"Hours": "3",
 		"CRN": "41037",
 		"Meeting": [
-			"MW",
-			"01:00  PM - 02:50  PM"
+			{
+				"days": "MW",
+				"hours": "01:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Mass Communication Perspectives",
 		"Subject": "COMM",
+		"Level": "3200",
 		"Hours": "3",
 		"CRN": "40020",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Mass Communication Perspectives",
 		"Subject": "COMM",
+		"Level": "3200",
 		"Hours": "3",
 		"CRN": "43266",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Principles of PR & Advertising",
 		"Subject": "COMM",
+		"Level": "3300",
 		"Hours": "3",
 		"CRN": "43660",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Relations Writing",
 		"Subject": "COMM",
+		"Level": "3330",
 		"Hours": "3",
 		"CRN": "42212",
 		"Meeting": [
-			"MW",
-			"10:00  AM - 11:50  AM"
+			{
+				"days": "MW",
+				"hours": "10:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Publication Design I",
 		"Subject": "COMM",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "41226",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Publication Design I",
 		"Subject": "COMM",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "42566",
 		"Meeting": [
-			"MW",
-			"08:00  AM - 09:50  AM"
+			{
+				"days": "MW",
+				"hours": "08:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Publication Design I",
 		"Subject": "COMM",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "42591",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Publication Design I",
 		"Subject": "COMM",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "43531",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Publication Design I",
 		"Subject": "COMM",
+		"Level": "3350",
 		"Hours": "3",
 		"CRN": "43532",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Web Design",
 		"Subject": "COMM",
+		"Level": "3370",
 		"Hours": "3",
 		"CRN": "43527",
 		"Meeting": [
-			"MW",
-			"08:00  AM - 09:50  AM"
+			{
+				"days": "MW",
+				"hours": "08:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Video I",
 		"Subject": "COMM",
+		"Level": "3450",
 		"Hours": "3",
 		"CRN": "42783",
 		"Meeting": [
-			"TT",
-			"03:00  PM - 04:50  PM"
+			{
+				"days": "TT",
+				"hours": "03:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Video I",
 		"Subject": "COMM",
+		"Level": "3450",
 		"Hours": "3",
 		"CRN": "42213",
 		"Meeting": [
-			"MW",
-			"01:00  PM - 02:50  PM"
+			{
+				"days": "MW",
+				"hours": "01:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Television News Production",
 		"Subject": "COMM",
+		"Level": "3500",
 		"Hours": "3",
 		"CRN": "40545",
 		"Meeting": [
-			"TT",
-			"05:00  PM - 06:50  PM"
+			{
+				"days": "TT",
+				"hours": "05:00  PM - 06:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Advanced Reporting",
 		"Subject": "COMM",
+		"Level": "3610",
 		"Hours": "3",
 		"CRN": "42678",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Feature Writing",
 		"Subject": "COMM",
+		"Level": "3630",
 		"Hours": "3",
 		"CRN": "42568",
 		"Meeting": [
-			"TT",
-			"10:00  AM - 11:50  AM"
+			{
+				"days": "TT",
+				"hours": "10:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Photojournalism",
 		"Subject": "COMM",
+		"Level": "3700",
 		"Hours": "3",
 		"CRN": "40909",
 		"Meeting": [
-			"MW",
-			"01:00  PM - 02:50  PM"
+			{
+				"days": "MW",
+				"hours": "01:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Photojournalism",
 		"Subject": "COMM",
+		"Level": "3700",
 		"Hours": "3",
 		"CRN": "41031",
 		"Meeting": [
-			"MW",
-			"03:00  PM - 04:50  PM"
+			{
+				"days": "MW",
+				"hours": "03:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Social Media and Marketing",
 		"Subject": "COMM",
+		"Level": "4010R",
 		"Hours": "3",
 		"CRN": "43652",
 		"Meeting": [
-			"MW",
-			"08:00  AM - 09:50  AM"
+			{
+				"days": "MW",
+				"hours": "08:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Podcasting",
 		"Subject": "COMM",
+		"Level": "4010R",
 		"Hours": "3",
 		"CRN": "43653",
 		"Meeting": [
-			"TT",
-			"01:00  PM - 02:50  PM"
+			{
+				"days": "TT",
+				"hours": "01:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rising Rock",
 		"Subject": "COMM",
+		"Level": "4010R",
 		"Hours": "3",
 		"CRN": "43654",
 		"Meeting": [
-			"MW",
-			"10:00  AM - 11:50  AM"
+			{
+				"days": "MW",
+				"hours": "10:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Sports Writing I",
 		"Subject": "COMM",
+		"Level": "4010R",
 		"Hours": "3",
 		"CRN": "43655",
 		"Meeting": [
-			"TT",
-			"03:00  PM - 04:50  PM"
+			{
+				"days": "TT",
+				"hours": "03:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Screenwriting I",
 		"Subject": "COMM",
+		"Level": "4010R",
 		"Hours": "3",
 		"CRN": "43656",
 		"Meeting": [
-			"MW",
-			"03:00  PM - 04:50  PM"
+			{
+				"days": "MW",
+				"hours": "03:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Social Media and Marketing",
 		"Subject": "COMM",
+		"Level": "4010R",
 		"Hours": "3",
 		"CRN": "43657",
 		"Meeting": [
-			"MW",
-			"03:00  PM - 04:50  PM"
+			{
+				"days": "MW",
+				"hours": "03:00  PM - 04:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Screenwriting I",
 		"Subject": "COMM",
+		"Level": "4010R",
 		"Hours": "3",
 		"CRN": "43658",
 		"Meeting": [
-			"TT",
-			"05:00  PM - 06:50  PM"
+			{
+				"days": "TT",
+				"hours": "05:00  PM - 06:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Photography Entrepreneurship",
 		"Subject": "COMM",
+		"Level": "4010R",
 		"Hours": "3",
 		"CRN": "43920",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "10:00  AM - 11:50  AM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n10:00 AM - 11:50 AM Type: Class Building: Lupton Hall Room: 211 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Communication and Environmental Issues",
-		"Subject": "",
-		"Hours": "0",
-		"CRN": "3",
+		"Subject": "COMM",
+		"Level": "4100",
+		"Hours": "3",
+		"CRN": "40022",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "T",
+				"hours": "03:00  PM - 05:30  PM"
+			}
 		],
-		"Campus": "Tuesday\nS\nM\nT\nW\nT\nF\nS\n03:00 PM - 05:30 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Senior Seminar",
-		"Subject": "",
-		"Hours": "0",
-		"CRN": "3",
+		"Subject": "COMM",
+		"Level": "4200",
+		"Hours": "3",
+		"CRN": "40023",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n01:40 PM - 02:55 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Senior Seminar",
-		"Subject": "",
-		"Hours": "01",
-		"CRN": "3",
+		"Subject": "COMM",
+		"Level": "4200",
+		"Hours": "3",
+		"CRN": "41171",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n01:40 PM - 02:55 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Senior Seminar",
-		"Subject": "",
-		"Hours": "02",
-		"CRN": "3",
+		"Subject": "COMM",
+		"Level": "4200",
+		"Hours": "3",
+		"CRN": "43793",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n03:05 PM - 04:20 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
-	},
-	{
-		"Title": "Mass Communication Law and Ethics",
-		"Subject": "",
-		"Hours": "01",
-		"CRN": "3",
-		"Meeting": [
-			"",
-			""
-		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
-	},
-	{
-		"Title": "Mass Communication Law and Ethics",
-		"Subject": "",
-		"Hours": "02",
-		"CRN": "3",
-		"Meeting": [
-			"",
-			""
-		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Mass Communication Law and Ethics",
 		"Subject": "COMM",
+		"Level": "4510",
+		"Hours": "3",
+		"CRN": "40024",
+		"Meeting": [
+			{
+				"days": "",
+				"hours": " - "
+			}
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Mass Communication Law and Ethics",
+		"Subject": "COMM",
+		"Level": "4510",
+		"Hours": "3",
+		"CRN": "43529",
+		"Meeting": [
+			{
+				"days": "",
+				"hours": " - "
+			}
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Mass Communication Law and Ethics",
+		"Subject": "COMM",
+		"Level": "4510",
 		"Hours": "3",
 		"CRN": "43936",
 		"Meeting": [
-			"MW",
-			"05:00  PM - 06:50  PM"
+			{
+				"days": "MW",
+				"hours": "05:00  PM - 06:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Photojournalism 2",
 		"Subject": "COMM",
+		"Level": "4750",
 		"Hours": "3",
 		"CRN": "41176",
 		"Meeting": [
-			"MW",
-			"05:00  PM - 06:50  PM"
+			{
+				"days": "MW",
+				"hours": "05:00  PM - 06:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Directed Project",
 		"Subject": "COMM",
+		"Level": "4800",
 		"Hours": "3",
 		"CRN": "40025",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Internship",
 		"Subject": "COMM",
+		"Level": "4850",
 		"Hours": "3",
 		"CRN": "40026",
 		"Meeting": [
-			"F",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "F",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Internship",
 		"Subject": "COMM",
+		"Level": "4850",
 		"Hours": "3",
 		"CRN": "42055",
 		"Meeting": [
-			"F",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "F",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "COMM",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "42766",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Communication and Environmental Issues",
 		"Subject": "COMM",
+		"Level": "5100",
 		"Hours": "3",
 		"CRN": "43530",
 		"Meeting": [
-			"T",
-			"03:00  PM - 05:30  PM"
+			{
+				"days": "T",
+				"hours": "03:00  PM - 05:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

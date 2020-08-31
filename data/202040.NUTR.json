@@ -2,66 +2,84 @@
 	{
 		"Title": "Nutrition",
 		"Subject": "NUTR",
+		"Level": "1350",
 		"Hours": "3",
 		"CRN": "42981",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Nutrition",
 		"Subject": "NUTR",
+		"Level": "1350",
 		"Hours": "3",
 		"CRN": "41641",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Food and Culture",
 		"Subject": "NUTR",
+		"Level": "3330",
 		"Hours": "3",
 		"CRN": "41642",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Life Cycle Nutrition",
 		"Subject": "NUTR",
+		"Level": "3340",
 		"Hours": "3",
 		"CRN": "41643",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Sports Nutrition",
 		"Subject": "NUTR",
+		"Level": "3380",
 		"Hours": "3",
 		"CRN": "41644",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
-		"Title": "Nutrition Education: Principles and Practice",
+		"Title": "Nutrition Education:  Principles and Practice",
 		"Subject": "NUTR",
+		"Level": "3400",
 		"Hours": "3",
 		"CRN": "43711",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	}

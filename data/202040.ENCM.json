@@ -2,11 +2,14 @@
 	{
 		"Title": "Dissertation",
 		"Subject": "ENCM",
+		"Level": "7999R",
 		"Hours": "1 TO 12",
 		"CRN": "41187",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

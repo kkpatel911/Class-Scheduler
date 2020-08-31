@@ -2,539 +2,756 @@
 	{
 		"Title": "Introduction to Political Science",
 		"Subject": "PSPS",
+		"Level": "1000",
 		"Hours": "1",
 		"CRN": "41805",
 		"Meeting": [
-			"F",
-			"02:00  PM - 02:50  PM"
+			{
+				"days": "F",
+				"hours": "02:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "American Politics ",
 		"Subject": "PSPS",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "41665",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "American Politics ",
 		"Subject": "PSPS",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "41689",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "American Politics ",
 		"Subject": "PSPS",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "41690",
 		"Meeting": [
-			"TT",
-			"03:05  PM - 04:20  PM"
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "American Politics ",
 		"Subject": "PSPS",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "43918",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "American Politics ",
 		"Subject": "PSPS",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "43444",
 		"Meeting": [
-			"MWF",
-			"02:00  PM - 02:50  PM"
+			{
+				"days": "MWF",
+				"hours": "02:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "American Politics ",
 		"Subject": "PSPS",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "43454",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "World Politics",
 		"Subject": "PSPS",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41692",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Controversies in Public Policy",
 		"Subject": "PSPS",
+		"Level": "1030",
 		"Hours": "3",
 		"CRN": "42432",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Politics, Culture and Society: Non-Western Views",
 		"Subject": "PSPS",
+		"Level": "1040",
 		"Hours": "3",
 		"CRN": "41693",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Judicial Process",
 		"Subject": "PSPS",
+		"Level": "2300",
 		"Hours": "3",
 		"CRN": "41695",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Justice and the American Trial Process",
 		"Subject": "PSPS",
+		"Level": "2310",
 		"Hours": "3",
 		"CRN": "41696",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Policy Theory",
 		"Subject": "PSPS",
+		"Level": "2450",
 		"Hours": "3",
 		"CRN": "41666",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Nonprofit Sector",
 		"Subject": "PSPS",
+		"Level": "2600",
 		"Hours": "3",
 		"CRN": "41685",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Comparative Government",
 		"Subject": "PSPS",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "41939",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Comparative Government",
 		"Subject": "PSPS",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "41945",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Comparative Government",
 		"Subject": "PSPS",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "43455",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research Methods",
 		"Subject": "PSPS",
+		"Level": "3000",
 		"Hours": "3",
 		"CRN": "43445",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research Methods",
 		"Subject": "PSPS",
+		"Level": "3000",
 		"Hours": "3",
 		"CRN": "43878",
 		"Meeting": [
-			"TT",
-			"03:05  PM - 04:20  PM"
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Career Development",
 		"Subject": "PSPS",
+		"Level": "3010",
 		"Hours": "1",
 		"CRN": "42497",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "American Constitutional Law",
 		"Subject": "PSPS",
+		"Level": "3310",
 		"Hours": "3",
 		"CRN": "43447",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Green New Deal",
 		"Subject": "PSPS",
+		"Level": "3400R",
 		"Hours": "3",
 		"CRN": "43448",
 		"Meeting": [
-			"W",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "W",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Urban Public Policy",
 		"Subject": "PSPS",
+		"Level": "3430",
 		"Hours": "3",
 		"CRN": "42442",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Nonprofit Development",
 		"Subject": "PSPS",
+		"Level": "3610",
 		"Hours": "3",
 		"CRN": "41686",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Service Law and Ethics",
 		"Subject": "PSPS",
+		"Level": "3620",
 		"Hours": "3",
 		"CRN": "41687",
 		"Meeting": [
-			"TT",
-			"03:05  PM - 04:20  PM"
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Religion and Politics in a Globalized World",
 		"Subject": "PSPS",
+		"Level": "3830",
 		"Hours": "3",
 		"CRN": "42874",
 		"Meeting": [
-			"M",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Capstone Seminar",
 		"Subject": "PSPS",
+		"Level": "4000",
 		"Hours": "3",
 		"CRN": "42447",
 		"Meeting": [
-			"W",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "W",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "The American Founding",
 		"Subject": "PSPS",
+		"Level": "4050R",
 		"Hours": "3",
 		"CRN": "43449",
 		"Meeting": [
-			"TT",
-			"03:05  PM - 04:20  PM"
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Hannah Arendt: Philosophy, Politics, and Revolution",
 		"Subject": "PSPS",
+		"Level": "4050R",
 		"Hours": "3",
 		"CRN": "43450",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "International Human Rights",
 		"Subject": "PSPS",
+		"Level": "4300R",
 		"Hours": "3",
 		"CRN": "42449",
 		"Meeting": [
-			"M",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Politics of Crime",
 		"Subject": "PSPS",
+		"Level": "4300R",
 		"Hours": "3",
 		"CRN": "43452",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Health Policy",
 		"Subject": "PSPS",
+		"Level": "4400R",
 		"Hours": "3",
 		"CRN": "42450",
 		"Meeting": [
-			"TT",
-			"05:30  PM - 06:45  PM"
+			{
+				"days": "TT",
+				"hours": "05:30  PM - 06:45  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "International Nongovernmental Organizations",
 		"Subject": "PSPS",
+		"Level": "4630",
 		"Hours": "3",
 		"CRN": "41688",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Politics of Authoritarian Regimes",
 		"Subject": "PSPS",
+		"Level": "4800R",
 		"Hours": "3",
 		"CRN": "43453",
 		"Meeting": [
-			"F",
-			"02:30  PM - 05:00  PM"
+			{
+				"days": "F",
+				"hours": "02:30  PM - 05:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Political Science Internship",
 		"Subject": "PSPS",
+		"Level": "4900R",
 		"Hours": "1 TO 12",
 		"CRN": "42452",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Political Science Internship",
 		"Subject": "PSPS",
+		"Level": "4900R",
 		"Hours": "6",
 		"CRN": "43956",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Administration/Nonprofit Internship",
 		"Subject": "PSPS",
+		"Level": "4910",
 		"Hours": "6",
 		"CRN": "42597",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "PSPS",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43743",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "PSPS",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43782",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "PSPS",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43783",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "PSPS",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43784",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "PSPS",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43785",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Research",
+		"Subject": "PSPS",
+		"Level": "4997R",
+		"Hours": "1 TO 9",
+		"CRN": "44042",
+		"Meeting": [
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Administration Foundations",
 		"Subject": "PSPS",
+		"Level": "5111",
 		"Hours": "3",
 		"CRN": "41702",
 		"Meeting": [
-			"M",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "M",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Public Administration Research and Analysis",
 		"Subject": "PSPS",
+		"Level": "5112",
 		"Hours": "3",
 		"CRN": "41705",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Organizational Theory and Administrative Behavior",
 		"Subject": "PSPS",
+		"Level": "5121",
 		"Hours": "3",
 		"CRN": "41701",
 		"Meeting": [
-			"TTTTTTT",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Budgeting and Finance in Public Agencies",
 		"Subject": "PSPS",
+		"Level": "5122",
 		"Hours": "3",
 		"CRN": "41703",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "MPA Internship",
 		"Subject": "PSPS",
+		"Level": "5125",
 		"Hours": "1 TO 12",
 		"CRN": "41704",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Intergovernmental Relations",
 		"Subject": "PSPS",
+		"Level": "5223",
 		"Hours": "3",
 		"CRN": "43456",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Nonprofit Resource Development",
 		"Subject": "PSPS",
+		"Level": "5313",
 		"Hours": "3",
 		"CRN": "43457",
 		"Meeting": [
-			"TTTTTTT",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	}

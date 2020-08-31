@@ -2,176 +2,238 @@
 	{
 		"Title": "Evidence-Based Management and Improvements in HC",
 		"Subject": "PMBA",
+		"Level": "5000R",
 		"Hours": "3",
 		"CRN": "42398",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Opportunity Assessment",
 		"Subject": "PMBA",
+		"Level": "5000R",
 		"Hours": "3",
 		"CRN": "43913",
 		"Meeting": [
-			"M",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "M",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Digital Marketing",
 		"Subject": "PMBA",
+		"Level": "5000R",
 		"Hours": "3",
 		"CRN": "43441",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
+		],
+		"Campus": "UTC Online"
+	},
+	{
+		"Title": "Special Topics: Accounting Data Analytics",
+		"Subject": "PMBA",
+		"Level": "5000R",
+		"Hours": "3",
+		"CRN": "44033",
+		"Meeting": [
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Economics for Managers",
 		"Subject": "PMBA",
+		"Level": "5015",
 		"Hours": "3",
 		"CRN": "41652",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Data Bases and Data Warehouses",
 		"Subject": "PMBA",
+		"Level": "5140",
 		"Hours": "3",
 		"CRN": "42402",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Financial Institutions and Markets",
 		"Subject": "PMBA",
+		"Level": "5181",
 		"Hours": "3",
 		"CRN": "43442",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Data Mining and Analytics",
 		"Subject": "PMBA",
+		"Level": "5190",
 		"Hours": "3",
 		"CRN": "42404",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Organizational Behavior and Leadership",
 		"Subject": "PMBA",
+		"Level": "5250",
 		"Hours": "3",
 		"CRN": "41654",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Strategic Human Capital Management",
 		"Subject": "PMBA",
+		"Level": "5310",
 		"Hours": "3",
 		"CRN": "43443",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Information Technology for Business",
 		"Subject": "PMBA",
+		"Level": "5810",
 		"Hours": "3",
 		"CRN": "42847",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Financial Management",
 		"Subject": "PMBA",
+		"Level": "5820",
 		"Hours": "3",
 		"CRN": "40945",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Quantitative Decision Analysis for Business",
 		"Subject": "PMBA",
+		"Level": "5835",
 		"Hours": "3",
 		"CRN": "41659",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Accounting for Managers",
 		"Subject": "PMBA",
+		"Level": "5855",
 		"Hours": "3",
 		"CRN": "41972",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Marketing Management",
 		"Subject": "PMBA",
+		"Level": "5860",
 		"Hours": "3",
 		"CRN": "41971",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Strategic Management",
 		"Subject": "PMBA",
+		"Level": "5870",
 		"Hours": "3",
 		"CRN": "43624",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Corporate Entrepreneurship and Innovation",
 		"Subject": "PMBA",
+		"Level": "5885",
 		"Hours": "3",
 		"CRN": "42425",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	}

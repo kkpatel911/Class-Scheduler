@@ -2,187 +2,270 @@
 	{
 		"Title": "Conceptual Framework of Therapeutic Occupation",
 		"Subject": "OCTH",
+		"Level": "7101",
 		"Hours": "3",
 		"CRN": "40889",
 		"Meeting": [
-			"M",
-			"01:00  PM - 03:50  PM"
+			{
+				"days": "M",
+				"hours": "01:00  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Leadership in Occupational Therapy",
 		"Subject": "OCTH",
+		"Level": "7104",
 		"Hours": "1",
 		"CRN": "40893",
 		"Meeting": [
-			"W",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "W",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Evidence-Based Practice",
 		"Subject": "OCTH",
+		"Level": "7105",
 		"Hours": "2",
 		"CRN": "40891",
 		"Meeting": [
-			"W",
-			"02:00  PM - 03:50  PM"
+			{
+				"days": "W",
+				"hours": "02:00  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Occupational Therapy Models of Practice I-Occupation",
 		"Subject": "OCTH",
+		"Level": "7110",
 		"Hours": "4",
 		"CRN": "40892",
 		"Meeting": [
-			"TT",
-			"09:00  AM - 11:50  AM"
+			{
+				"days": "TT",
+				"hours": "09:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Musculoskeletal Examination",
 		"Subject": "OCTH",
+		"Level": "7115",
 		"Hours": "2",
 		"CRN": "40890",
 		"Meeting": [
-			"TT",
-			"01:00  PM - 02:20  PM"
+			{
+				"days": "TT",
+				"hours": "01:00  PM - 02:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Musculoskeletal Examination",
 		"Subject": "OCTH",
+		"Level": "7115",
 		"Hours": "2",
 		"CRN": "43909",
 		"Meeting": [
-			"TT",
-			"02:30  PM - 03:50  PM"
+			{
+				"days": "TT",
+				"hours": "02:30  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Human Gross Anatomy",
 		"Subject": "OCTH",
+		"Level": "7116",
 		"Hours": "6",
 		"CRN": "40888",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Occupational Therapy Models of Practice V-Group Process",
 		"Subject": "OCTH",
+		"Level": "7350",
 		"Hours": "4",
 		"CRN": "43730",
 		"Meeting": [
-			"MW",
-			"09:00  AM - 11:50  AM"
+			{
+				"days": "MW",
+				"hours": "09:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research II in Occupational Therapy",
 		"Subject": "OCTH",
+		"Level": "7405",
 		"Hours": "3",
 		"CRN": "40988",
 		"Meeting": [
-			"MTWTFMTWT",
-			"08:00  AM - 10:00  AM"
+			{
+				"days": "M",
+				"hours": "08:00  AM - 10:00  AM"
+			},
+			{
+				"days": "TWT",
+				"hours": "08:00  AM - 09:00  AM"
+			},
+			{
+				"days": "F",
+				"hours": "01:00  PM - 04:00  PM"
+			},
+			{
+				"days": "MTWT",
+				"hours": "04:00  PM - 05:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research II in Occupational Therapy",
 		"Subject": "OCTH",
+		"Level": "7405",
 		"Hours": "3",
 		"CRN": "41001",
 		"Meeting": [
-			"TWT",
-			"08:00  AM - 09:00  AM"
+			{
+				"days": "TWT",
+				"hours": "08:00  AM - 09:00  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research II in Occupational Therapy",
 		"Subject": "OCTH",
+		"Level": "7405",
 		"Hours": "3",
 		"CRN": "41796",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Research II in Occupational Therapy",
 		"Subject": "OCTH",
+		"Level": "7405",
 		"Hours": "3",
 		"CRN": "41797",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Level 1 Fieldwork and Professional Practice II",
 		"Subject": "OCTH",
+		"Level": "7406",
 		"Hours": "2",
 		"CRN": "41002",
 		"Meeting": [
-			"W",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "W",
+				"hours": "01:00  PM - 01:50  PM"
+			},
+			{
+				"days": "W",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Occupational Therapy Models of Practice VII-Pediatrics",
 		"Subject": "OCTH",
+		"Level": "7470",
 		"Hours": "4",
 		"CRN": "40990",
 		"Meeting": [
-			"TT",
-			"01:00  PM - 03:50  PM"
+			{
+				"days": "TT",
+				"hours": "01:00  PM - 03:50  PM"
+			},
+			{
+				"days": "TT",
+				"hours": "01:00  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Occupational Therapy Models of Practice VIII-Technology",
 		"Subject": "OCTH",
+		"Level": "7480",
 		"Hours": "4",
 		"CRN": "40991",
 		"Meeting": [
-			"TM",
-			"09:00  AM - 11:50  AM"
+			{
+				"days": "T",
+				"hours": "09:00  AM - 11:50  AM"
+			},
+			{
+				"days": "T",
+				"hours": "09:00  AM - 11:50  AM"
+			},
+			{
+				"days": "M",
+				"hours": "01:00  PM - 03:50  PM"
+			},
+			{
+				"days": "M",
+				"hours": "01:00  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Level II Fieldwork",
 		"Subject": "OCTH",
+		"Level": "7701",
 		"Hours": "9",
 		"CRN": "41107",
 		"Meeting": [
-			"T",
-			"01:00  PM - 03:50  PM"
+			{
+				"days": "T",
+				"hours": "01:00  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Preparation for Licensure",
 		"Subject": "OCTH",
+		"Level": "7704",
 		"Hours": "3",
 		"CRN": "41108",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	}

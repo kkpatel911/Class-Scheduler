@@ -2,188 +2,239 @@
 	{
 		"Title": "Engineering Technology Management Seminar I",
 		"Subject": "ETEM",
+		"Level": "1000",
 		"Hours": "1",
 		"CRN": "41025",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Engineering Technology Management Seminar I",
 		"Subject": "ETEM",
+		"Level": "1000",
 		"Hours": "1",
 		"CRN": "40823",
 		"Meeting": [
-			"F",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "F",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Material Science and Technology",
 		"Subject": "ETEM",
+		"Level": "1320",
 		"Hours": "3",
 		"CRN": "40824",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Introduction to Material Science and Technology",
 		"Subject": "ETEM",
+		"Level": "1320",
 		"Hours": "3",
 		"CRN": "40825",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Material Science and Technology",
 		"Subject": "ETEM",
+		"Level": "1320",
 		"Hours": "3",
 		"CRN": "43863",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Project Management and Practice",
 		"Subject": "ETEM",
+		"Level": "3550",
 		"Hours": "3",
 		"CRN": "40826",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Project Management and Practice",
 		"Subject": "ETEM",
+		"Level": "3550",
 		"Hours": "3",
 		"CRN": "40827",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Engineering Management Design",
 		"Subject": "ETEM",
+		"Level": "4500",
 		"Hours": "3",
 		"CRN": "43324",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Engineering Management Design",
 		"Subject": "ETEM",
+		"Level": "4500",
 		"Hours": "3",
 		"CRN": "41902",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Value Management",
 		"Subject": "ETEM",
+		"Level": "4540",
 		"Hours": "3",
 		"CRN": "43325",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Value Management",
 		"Subject": "ETEM",
+		"Level": "4540",
 		"Hours": "3",
 		"CRN": "43323",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Quality Improvement",
 		"Subject": "ETEM",
+		"Level": "4560",
 		"Hours": "3",
 		"CRN": "40828",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Quality Improvement",
 		"Subject": "ETEM",
+		"Level": "4560",
 		"Hours": "3",
 		"CRN": "42151",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Facilities Management",
 		"Subject": "ETEM",
+		"Level": "4590",
 		"Hours": "3",
 		"CRN": "40829",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Facilities Management",
 		"Subject": "ETEM",
+		"Level": "4590",
 		"Hours": "3",
 		"CRN": "42152",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Engineering Management Internship",
 		"Subject": "ETEM",
+		"Level": "4960R",
 		"Hours": "3",
 		"CRN": "42153",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Industrial Safety",
 		"Subject": "ETEM",
+		"Level": "4999R",
 		"Hours": "3",
 		"CRN": "43689",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UTC Online"
 	}
 ]

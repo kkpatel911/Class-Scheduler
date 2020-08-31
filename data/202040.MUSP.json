@@ -2,132 +2,168 @@
 	{
 		"Title": "Piano Instruction",
 		"Subject": "MUSP",
+		"Level": "2511R",
 		"Hours": "2",
 		"CRN": "42623",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Voice Instruction",
 		"Subject": "MUSP",
+		"Level": "2550R",
 		"Hours": "2",
 		"CRN": "42624",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Voice Instruction",
 		"Subject": "MUSP",
+		"Level": "2550R",
 		"Hours": "2",
 		"CRN": "42625",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Flute Instruction",
 		"Subject": "MUSP",
+		"Level": "2571R",
 		"Hours": "2",
 		"CRN": "43583",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Trumpet Instruction",
 		"Subject": "MUSP",
+		"Level": "2591R",
 		"Hours": "2",
 		"CRN": "43827",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Percussion Instruction",
 		"Subject": "MUSP",
+		"Level": "2610R",
 		"Hours": "2",
 		"CRN": "42628",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Piano Instruction",
 		"Subject": "MUSP",
+		"Level": "4511R",
 		"Hours": "2",
 		"CRN": "43663",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Voice Instruction",
 		"Subject": "MUSP",
+		"Level": "4550R",
 		"Hours": "2",
 		"CRN": "43584",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Voice Instruction",
 		"Subject": "MUSP",
+		"Level": "4550R",
 		"Hours": "2",
 		"CRN": "43585",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Flute Instruction",
 		"Subject": "MUSP",
+		"Level": "4571R",
 		"Hours": "2",
 		"CRN": "42632",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Clarinet Instruction",
 		"Subject": "MUSP",
+		"Level": "4573R",
 		"Hours": "2",
 		"CRN": "42633",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Percussion Instruction",
 		"Subject": "MUSP",
+		"Level": "4610R",
 		"Hours": "2",
 		"CRN": "42634",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

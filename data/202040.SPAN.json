@@ -2,341 +2,470 @@
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "40276",
 		"Meeting": [
-			"MWFT",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MWF",
+				"hours": "12:00  PM - 12:50  PM"
+			},
+			{
+				"days": "T",
+				"hours": "12:15  PM - 01:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "40277",
 		"Meeting": [
-			"MWFT",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			},
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:15  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "41059",
 		"Meeting": [
-			"TMWF",
-			"09:25  AM - 10:15  AM"
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:15  AM"
+			},
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "40280",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:40  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "40278",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "40282",
 		"Meeting": [
-			"MW",
-			"04:00  PM - 05:40  PM"
+			{
+				"days": "MW",
+				"hours": "04:00  PM - 05:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "40285",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "40284",
 		"Meeting": [
-			"TMWF",
-			"01:40  PM - 02:30  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 02:30  PM"
+			},
+			{
+				"days": "MWF",
+				"hours": "02:00  PM - 02:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "40283",
 		"Meeting": [
-			"TMWF",
-			"12:15  PM - 01:05  PM"
+			{
+				"days": "T",
+				"hours": "12:15  PM - 01:05  PM"
+			},
+			{
+				"days": "MWF",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "40281",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "40286",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "40287",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "41884",
 		"Meeting": [
-			"MWFT",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			},
+			{
+				"days": "T",
+				"hours": "10:50  AM - 11:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish I",
 		"Subject": "SPAN",
+		"Level": "1010",
 		"Hours": "4",
 		"CRN": "43039",
 		"Meeting": [
-			"TMWF",
-			"08:00  AM - 08:50  AM"
+			{
+				"days": "T",
+				"hours": "08:00  AM - 08:50  AM"
+			},
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish II",
 		"Subject": "SPAN",
+		"Level": "1020",
 		"Hours": "4",
 		"CRN": "40934",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:50  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish II",
 		"Subject": "SPAN",
+		"Level": "1020",
 		"Hours": "4",
 		"CRN": "40836",
 		"Meeting": [
-			"MWFT",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			},
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:15  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Elementary Spanish II",
 		"Subject": "SPAN",
+		"Level": "1020",
 		"Hours": "4",
 		"CRN": "41683",
 		"Meeting": [
-			"MWFT",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MWF",
+				"hours": "12:00  PM - 12:50  PM"
+			},
+			{
+				"days": "T",
+				"hours": "12:15  PM - 01:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Intermediate Spanish for Conversation I",
 		"Subject": "SPAN",
+		"Level": "2110",
 		"Hours": "3",
 		"CRN": "40837",
 		"Meeting": [
-			"MWF",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MWF",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Intermediate Spanish for Conversation I",
 		"Subject": "SPAN",
+		"Level": "2110",
 		"Hours": "3",
 		"CRN": "40288",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Intermediate Spanish for Conversation II",
 		"Subject": "SPAN",
+		"Level": "2120",
 		"Hours": "3",
 		"CRN": "42466",
 		"Meeting": [
-			"MWF",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MWF",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Intermediate Spanish for Reading I",
 		"Subject": "SPAN",
+		"Level": "2130",
 		"Hours": "3",
 		"CRN": "40838",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Intermediate Spanish for Reading I",
 		"Subject": "SPAN",
+		"Level": "2130",
 		"Hours": "3",
 		"CRN": "40289",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Intermediate Spanish for Reading I",
 		"Subject": "SPAN",
+		"Level": "2130",
 		"Hours": "3",
 		"CRN": "41895",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Intermediate Spanish for Reading II",
 		"Subject": "SPAN",
+		"Level": "2140",
 		"Hours": "3",
 		"CRN": "40839",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Spanish Composition and Conversation I",
 		"Subject": "SPAN",
+		"Level": "3110",
 		"Hours": "3",
 		"CRN": "42467",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Textual Analysis and Composition",
 		"Subject": "SPAN",
+		"Level": "3130",
 		"Hours": "3",
 		"CRN": "41346",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Advanced Spanish Grammar and Writing I",
 		"Subject": "SPAN",
+		"Level": "3210",
 		"Hours": "3",
 		"CRN": "41026",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Latin American Culture",
 		"Subject": "SPAN",
+		"Level": "3250",
 		"Hours": "3",
 		"CRN": "43597",
 		"Meeting": [
-			"MWF",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "MWF",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Spanish Internship",
 		"Subject": "SPAN",
+		"Level": "3400",
 		"Hours": "3",
 		"CRN": "40798",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Advanced Conversation",
 		"Subject": "SPAN",
+		"Level": "3450R",
 		"Hours": "1 TO 2",
 		"CRN": "42699",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Celestina and the End of the Middle Ages",
 		"Subject": "SPAN",
+		"Level": "4010R",
 		"Hours": "3",
 		"CRN": "43480",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}

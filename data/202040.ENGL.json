@@ -2,2717 +2,3596 @@
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40031",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40032",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40033",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40920",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40034",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "41271",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40037",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40036",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40038",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40039",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "41272",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40041",
 		"Meeting": [
-			"MWF",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MWF",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40042",
 		"Meeting": [
-			"MWF",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MWF",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
 		"CRN": "40043",
 		"Meeting": [
-			"MWF",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "MWF",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
 		"Subject": "ENGL",
+		"Level": "1010",
 		"Hours": "3",
-		"CRN": "40044",
+		"CRN": "40045",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
-		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n02:00 PM - 03:15 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "17",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40046",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n03:25 PM - 04:40 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "18",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40047",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "19",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40571",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n09:25 AM - 10:40 AM Type: Class Building: Lupton Hall Room: 241 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "20",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40048",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n09:25 AM - 10:40 AM Type: Class Building: Engr/Math/CPSC Room: 219 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "21",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40049",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n10:50 AM - 12:05 PM Type: Class Building: Engr/Math/CPSC Room: 219 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "22",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40572",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n10:50 AM - 12:05 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "23",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40050",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n12:15 PM - 01:30 PM Type: Class Building: Brock Hall Room: 405 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "24",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40051",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n01:40 PM - 02:55 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "25",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "41274",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n01:40 PM - 02:55 PM Type: Class Building: Brock Hall Room: 405 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "26",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40052",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n03:05 PM - 04:20 PM Type: Class Building: Lupton Hall Room: 240 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "27",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40573",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "M",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n03:05 PM - 04:20 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "28",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40053",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "Monday\nS\nM\nT\nW\nT\nF\nS\n05:30 PM - 08:00 PM Type: Class Building: Engr/Math/CPSC Room: 219 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "29",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "43937",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "30",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40054",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "MW",
+				"hours": "09:00  AM - 09:50  AM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "Tuesday,Thursday\nS\nM\nT\nW\nT\nF\nS\n01:40 PM - 02:55 PM Type: Class Building: Engr/Math/CPSC Room: 219 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "84",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40055",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n09:00 AM - 09:50 AM Type: Class Building: Fletcher Hall Room: 200 Start Date: 08/17/2020 End Date: 12/08/2020\nNone\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: HYBRID Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "85",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40056",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "86",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40646",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "87",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "41487",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "88",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "41489",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "89",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "41490",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "MW",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "90",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "42275",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "MW",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
-		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n12:00 PM - 12:50 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "91",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "42276",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "MW",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
-		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n01:00 PM - 01:50 PM Type: Class Building: Fletcher Hall Room: 212 Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "92",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "42277",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n01:00 PM - 01:50 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "93",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40035",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "94",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "40040",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "95",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "41285",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "96",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "41286",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "97",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "41287",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "98",
-		"CRN": "3",
+		"Subject": "ENGL",
+		"Level": "1010",
+		"Hours": "3",
+		"CRN": "43298",
 		"Meeting": [
-			"",
-			""
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
-	},
-	{
-		"Title": "Rhetoric and Composition I",
-		"Subject": "",
-		"Hours": "99",
-		"CRN": "3",
-		"Meeting": [
-			"",
-			""
-		],
-		"Campus": "None\nS\nM\nT\nW\nT\nF\nS\n - Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
-	},
-	{
-		"Title": "Rhetoric and Composition I with Writing Tutorial",
-		"Subject": "",
-		"Hours": "01",
-		"CRN": "4",
-		"Meeting": [
-			"",
-			""
-		],
-		"Campus": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n09:00 AM - 09:50 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020\nTuesday\nS\nM\nT\nW\nT\nF\nS\n09:25 AM - 10:40 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
-	},
-	{
-		"Title": "Rhetoric and Composition I with Writing Tutorial",
-		"Subject": "",
-		"Hours": "02",
-		"CRN": "4",
-		"Meeting": [
-			"",
-			""
-		],
-		"Campus": "Monday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n09:00 AM - 09:50 AM Type: Class Building: Lupton Hall Room: 302 Start Date: 08/17/2020 End Date: 12/08/2020\nFriday\nS\nM\nT\nW\nT\nF\nS\n09:00 AM - 09:50 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020\nThursday\nS\nM\nT\nW\nT\nF\nS\n09:25 AM - 10:40 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
-	},
-	{
-		"Title": "Rhetoric and Composition I with Writing Tutorial",
-		"Subject": "",
-		"Hours": "03",
-		"CRN": "4",
-		"Meeting": [
-			"",
-			""
-		],
-		"Campus": "Thursday\nS\nM\nT\nW\nT\nF\nS\n09:25 AM - 10:40 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020\nMonday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n10:00 AM - 10:50 AM Type: Class Building: Lupton Hall Room: 302 Start Date: 08/17/2020 End Date: 12/08/2020\nFriday\nS\nM\nT\nW\nT\nF\nS\n10:00 AM - 10:50 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
-	},
-	{
-		"Title": "Rhetoric and Composition I with Writing Tutorial",
-		"Subject": "",
-		"Hours": "04",
-		"CRN": "4",
-		"Meeting": [
-			"",
-			""
-		],
-		"Campus": "Monday,Wednesday,Friday\nS\nM\nT\nW\nT\nF\nS\n10:00 AM - 10:50 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020\nThursday\nS\nM\nT\nW\nT\nF\nS\n10:50 AM - 12:05 PM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
-	},
-	{
-		"Title": "Rhetoric and Composition I with Writing Tutorial",
-		"Subject": "",
-		"Hours": "05",
-		"CRN": "4",
-		"Meeting": [
-			"",
-			""
-		],
-		"Campus": "Thursday\nS\nM\nT\nW\nT\nF\nS\n09:25 AM - 10:40 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020\nMonday,Wednesday\nS\nM\nT\nW\nT\nF\nS\n10:00 AM - 10:50 AM Type: Class Building: Engr/Math/CPSC Room: 232 Start Date: 08/17/2020 End Date: 12/08/2020\nFriday\nS\nM\nT\nW\nT\nF\nS\n10:00 AM - 10:50 AM Type: Class Building: Off Campus Room: INTERNET Start Date: 08/17/2020 End Date: 12/08/2020"
+		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
+		"Hours": "4",
+		"CRN": "40647",
+		"Meeting": [
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			},
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:40  AM"
+			}
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Rhetoric and Composition I with Writing Tutorial",
+		"Subject": "ENGL",
+		"Level": "1011",
+		"Hours": "4",
+		"CRN": "40648",
+		"Meeting": [
+			{
+				"days": "MW",
+				"hours": "09:00  AM - 09:50  AM"
+			},
+			{
+				"days": "F",
+				"hours": "09:00  AM - 09:50  AM"
+			},
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:40  AM"
+			}
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Rhetoric and Composition I with Writing Tutorial",
+		"Subject": "ENGL",
+		"Level": "1011",
+		"Hours": "4",
+		"CRN": "40713",
+		"Meeting": [
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:40  AM"
+			},
+			{
+				"days": "MW",
+				"hours": "10:00  AM - 10:50  AM"
+			},
+			{
+				"days": "F",
+				"hours": "10:00  AM - 10:50  AM"
+			}
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Rhetoric and Composition I with Writing Tutorial",
+		"Subject": "ENGL",
+		"Level": "1011",
+		"Hours": "4",
+		"CRN": "40650",
+		"Meeting": [
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			},
+			{
+				"days": "T",
+				"hours": "10:50  AM - 12:05  PM"
+			}
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Rhetoric and Composition I with Writing Tutorial",
+		"Subject": "ENGL",
+		"Level": "1011",
+		"Hours": "4",
+		"CRN": "40652",
+		"Meeting": [
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:40  AM"
+			},
+			{
+				"days": "MW",
+				"hours": "10:00  AM - 10:50  AM"
+			},
+			{
+				"days": "F",
+				"hours": "10:00  AM - 10:50  AM"
+			}
+		],
+		"Campus": "UT Chattanooga"
+	},
+	{
+		"Title": "Rhetoric and Composition I with Writing Tutorial",
+		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40653",
 		"Meeting": [
-			"TMWF",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "T",
+				"hours": "10:50  AM - 12:05  PM"
+			},
+			{
+				"days": "MW",
+				"hours": "11:00  AM - 11:50  AM"
+			},
+			{
+				"days": "F",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40654",
 		"Meeting": [
-			"TMWF",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "T",
+				"hours": "10:50  AM - 12:05  PM"
+			},
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40655",
 		"Meeting": [
-			"TMWF",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "T",
+				"hours": "10:50  AM - 12:05  PM"
+			},
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40656",
 		"Meeting": [
-			"MWFT",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MW",
+				"hours": "12:00  PM - 12:50  PM"
+			},
+			{
+				"days": "F",
+				"hours": "12:00  PM - 12:50  PM"
+			},
+			{
+				"days": "T",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40657",
 		"Meeting": [
-			"MWFT",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MW",
+				"hours": "12:00  PM - 12:50  PM"
+			},
+			{
+				"days": "F",
+				"hours": "12:00  PM - 12:50  PM"
+			},
+			{
+				"days": "T",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "43220",
 		"Meeting": [
-			"TMWF",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "T",
+				"hours": "12:15  PM - 01:30  PM"
+			},
+			{
+				"days": "MWF",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40661",
 		"Meeting": [
-			"TMW",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 02:55  PM"
+			},
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40663",
 		"Meeting": [
-			"TMW",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "T",
+				"hours": "01:40  PM - 02:55  PM"
+			},
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40662",
 		"Meeting": [
-			"TTT",
-			"08:00  AM - 09:15  AM"
+			{
+				"days": "TT",
+				"hours": "08:00  AM - 09:15  AM"
+			},
+			{
+				"days": "T",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40677",
 		"Meeting": [
-			"TTT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			},
+			{
+				"days": "T",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40678",
 		"Meeting": [
-			"TTT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			},
+			{
+				"days": "T",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40679",
 		"Meeting": [
-			"TTW",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			},
+			{
+				"days": "W",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40680",
 		"Meeting": [
-			"TTW",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			},
+			{
+				"days": "W",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40681",
 		"Meeting": [
-			"TTW",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40685",
 		"Meeting": [
-			"TTW",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			},
+			{
+				"days": "W",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "41047",
 		"Meeting": [
-			"TTW",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			},
+			{
+				"days": "W",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "41048",
 		"Meeting": [
-			"TTW",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			},
+			{
+				"days": "W",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "41050",
 		"Meeting": [
-			"WTT",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "W",
+				"hours": "02:00  PM - 03:15  PM"
+			},
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "41111",
 		"Meeting": [
-			"WTT",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "W",
+				"hours": "02:00  PM - 03:15  PM"
+			},
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40649",
 		"Meeting": [
-			"MWT",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MW",
+				"hours": "09:00  AM - 09:50  AM"
+			},
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:40  AM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40651",
 		"Meeting": [
-			"TMW",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "T",
+				"hours": "09:25  AM - 10:40  AM"
+			},
+			{
+				"days": "MW",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40658",
 		"Meeting": [
-			"TMW",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "T",
+				"hours": "10:50  AM - 12:05  PM"
+			},
+			{
+				"days": "MW",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition I with Writing Tutorial",
 		"Subject": "ENGL",
+		"Level": "1011",
 		"Hours": "4",
 		"CRN": "40660",
 		"Meeting": [
-			"MWT",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MW",
+				"hours": "10:00  AM - 10:50  AM"
+			},
+			{
+				"days": "T",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41254",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "40057",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "40058",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "42224",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "40926",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "40059",
 		"Meeting": [
-			"MWF",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MWF",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "40060",
 		"Meeting": [
-			"MWF",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MWF",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41277",
 		"Meeting": [
-			"MWF",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "MWF",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41278",
 		"Meeting": [
-			"MWF",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "MWF",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "40061",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "43225",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "43025",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41423",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41488",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41544",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41545",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41276",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41546",
 		"Meeting": [
-			"M",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "M",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41950",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "43667",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41275",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41964",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41290",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41291",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "40062",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41289",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "43307",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "43309",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41292",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric and Composition II",
 		"Subject": "ENGL",
+		"Level": "1020",
 		"Hours": "3",
 		"CRN": "41293",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Western Humanities I",
 		"Subject": "ENGL",
+		"Level": "1130",
 		"Hours": "3",
 		"CRN": "40029",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Western Humanities I",
 		"Subject": "ENGL",
+		"Level": "1130",
 		"Hours": "3",
 		"CRN": "40027",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Western Humanities I",
 		"Subject": "ENGL",
+		"Level": "1130",
 		"Hours": "3",
 		"CRN": "40028",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Western Humanities I",
 		"Subject": "ENGL",
+		"Level": "1130",
 		"Hours": "3",
 		"CRN": "43072",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Western Humanities II",
 		"Subject": "ENGL",
+		"Level": "1150",
 		"Hours": "3",
 		"CRN": "40030",
 		"Meeting": [
-			"MWF",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MWF",
+				"hours": "12:00  PM - 12:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Western Humanities II",
 		"Subject": "ENGL",
+		"Level": "1150",
 		"Hours": "3",
 		"CRN": "41280",
 		"Meeting": [
-			"MWF",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "MWF",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Values in 20th-Century American Fiction",
 		"Subject": "ENGL",
+		"Level": "1310",
 		"Hours": "3",
 		"CRN": "41118",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Values in 20th-Century American Fiction",
 		"Subject": "ENGL",
+		"Level": "1310",
 		"Hours": "3",
 		"CRN": "41295",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Values in 20th-Century American Fiction",
 		"Subject": "ENGL",
+		"Level": "1310",
 		"Hours": "3",
 		"CRN": "41296",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Literature",
 		"Subject": "ENGL",
+		"Level": "1330",
 		"Hours": "3",
 		"CRN": "40948",
 		"Meeting": [
-			"MWF",
-			"08:00  AM - 08:50  AM"
+			{
+				"days": "MWF",
+				"hours": "08:00  AM - 08:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Literature",
 		"Subject": "ENGL",
+		"Level": "1330",
 		"Hours": "3",
 		"CRN": "40923",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Literature",
 		"Subject": "ENGL",
+		"Level": "1330",
 		"Hours": "3",
 		"CRN": "41119",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Literature",
 		"Subject": "ENGL",
+		"Level": "1330",
 		"Hours": "3",
 		"CRN": "41550",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Literature",
 		"Subject": "ENGL",
+		"Level": "1330",
 		"Hours": "3",
 		"CRN": "41414",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Literature",
 		"Subject": "ENGL",
+		"Level": "1330",
 		"Hours": "3",
 		"CRN": "41415",
 		"Meeting": [
-			"TT",
-			"03:05  PM - 04:20  PM"
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Literature",
 		"Subject": "ENGL",
+		"Level": "1330",
 		"Hours": "3",
 		"CRN": "40949",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Literature",
 		"Subject": "ENGL",
+		"Level": "1330",
 		"Hours": "3",
 		"CRN": "40982",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Literature",
 		"Subject": "ENGL",
+		"Level": "1330",
 		"Hours": "3",
 		"CRN": "43513",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Literary Analysis",
 		"Subject": "ENGL",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "40579",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Literary Analysis",
 		"Subject": "ENGL",
+		"Level": "2010",
 		"Hours": "3",
 		"CRN": "42545",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Rhetorical Analysis",
 		"Subject": "ENGL",
+		"Level": "2050",
 		"Hours": "3",
 		"CRN": "40065",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Rhetorical Analysis",
 		"Subject": "ENGL",
+		"Level": "2050",
 		"Hours": "3",
 		"CRN": "40064",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Topics in Lit: The Western in Fiction and Film",
 		"Subject": "ENGL",
+		"Level": "2060R",
 		"Hours": "3",
 		"CRN": "43244",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Topics in Literature: Greek Myth and the Hero",
 		"Subject": "ENGL",
+		"Level": "2060R",
 		"Hours": "3",
 		"CRN": "43245",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Revolutionizing Intersectional Adolescence",
 		"Subject": "ENGL",
+		"Level": "2060R",
 		"Hours": "3",
 		"CRN": "43246",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Environmental Literature",
 		"Subject": "ENGL",
+		"Level": "2070R",
 		"Hours": "3",
 		"CRN": "42232",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Race, Gender, and Video Games",
 		"Subject": "ENGL",
+		"Level": "2080R",
 		"Hours": "3",
 		"CRN": "43248",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "YA Lit in the Age of Twitter",
 		"Subject": "ENGL",
+		"Level": "2080R",
 		"Hours": "3",
 		"CRN": "43250",
 		"Meeting": [
-			"MWF",
-			"08:00  AM - 08:50  AM"
+			{
+				"days": "MWF",
+				"hours": "08:00  AM - 08:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Survey of American Literature",
 		"Subject": "ENGL",
+		"Level": "2130",
 		"Hours": "3",
 		"CRN": "43514",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Survey of American Literature",
 		"Subject": "ENGL",
+		"Level": "2130",
 		"Hours": "3",
 		"CRN": "43515",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Survey of British Literature",
 		"Subject": "ENGL",
+		"Level": "2230",
 		"Hours": "3",
 		"CRN": "40067",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Survey of British Literature",
 		"Subject": "ENGL",
+		"Level": "2230",
 		"Hours": "3",
 		"CRN": "40066",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Children's Literature",
 		"Subject": "ENGL",
+		"Level": "2280",
 		"Hours": "3",
 		"CRN": "40070",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Literature for the Adolescent",
 		"Subject": "ENGL",
+		"Level": "2290",
 		"Hours": "3",
 		"CRN": "40071",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Literature for the Adolescent",
 		"Subject": "ENGL",
+		"Level": "2290",
 		"Hours": "3",
 		"CRN": "41567",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Popular Fiction: Tolkien's Lord of the Rings",
 		"Subject": "ENGL",
+		"Level": "2510R",
 		"Hours": "3",
 		"CRN": "42734",
 		"Meeting": [
-			"MWF",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "MWF",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Popular Fiction: Horror",
 		"Subject": "ENGL",
+		"Level": "2510R",
 		"Hours": "3",
 		"CRN": "42735",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "African-American Literature",
 		"Subject": "ENGL",
+		"Level": "2520",
 		"Hours": "3",
 		"CRN": "40069",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "43067",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "40072",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "40951",
 		"Meeting": [
-			"TT",
-			"08:00  AM - 09:15  AM"
+			{
+				"days": "TT",
+				"hours": "08:00  AM - 09:15  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "41033",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "40574",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "40073",
 		"Meeting": [
-			"MWF",
-			"09:00  AM - 09:50  AM"
+			{
+				"days": "MWF",
+				"hours": "09:00  AM - 09:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "41121",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "40845",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "40843",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "40844",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "41554",
 		"Meeting": [
-			"MWF",
-			"01:00  PM - 01:50  PM"
+			{
+				"days": "MWF",
+				"hours": "01:00  PM - 01:50  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "43251",
 		"Meeting": [
-			"MWF",
-			"10:00  AM - 10:50  AM"
+			{
+				"days": "MWF",
+				"hours": "10:00  AM - 10:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "43621",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "42997",
 		"Meeting": [
-			"MW",
-			"12:00  PM - 12:50  PM"
+			{
+				"days": "MW",
+				"hours": "12:00  PM - 12:50  PM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing",
 		"Subject": "ENGL",
+		"Level": "2700",
 		"Hours": "3",
 		"CRN": "42998",
 		"Meeting": [
-			"MW",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MW",
+				"hours": "11:00  AM - 11:50  AM"
+			},
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Scientific Writing",
 		"Subject": "ENGL",
+		"Level": "2820",
 		"Hours": "3",
 		"CRN": "41281",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Scientific Writing",
 		"Subject": "ENGL",
+		"Level": "2820",
 		"Hours": "3",
 		"CRN": "40847",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Scientific Writing",
 		"Subject": "ENGL",
+		"Level": "2820",
 		"Hours": "3",
 		"CRN": "42234",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Scientific Writing",
 		"Subject": "ENGL",
+		"Level": "2820",
 		"Hours": "3",
 		"CRN": "43066",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Scientific Writing",
 		"Subject": "ENGL",
+		"Level": "2820",
 		"Hours": "3",
 		"CRN": "43117",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Scientific Writing",
 		"Subject": "ENGL",
+		"Level": "2820",
 		"Hours": "3",
 		"CRN": "43333",
 		"Meeting": [
-			"MWF",
-			"11:00  AM - 11:50  AM"
+			{
+				"days": "MWF",
+				"hours": "11:00  AM - 11:50  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Scientific Writing",
 		"Subject": "ENGL",
+		"Level": "2820",
 		"Hours": "3",
 		"CRN": "43850",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Scientific Writing",
 		"Subject": "ENGL",
+		"Level": "2820",
 		"Hours": "3",
 		"CRN": "43851",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Scientific Writing",
 		"Subject": "ENGL",
+		"Level": "2820",
 		"Hours": "3",
 		"CRN": "43993",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Scientific Writing",
 		"Subject": "ENGL",
+		"Level": "2820",
 		"Hours": "3",
 		"CRN": "43627",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Scientific Writing",
 		"Subject": "ENGL",
+		"Level": "2820",
 		"Hours": "3",
 		"CRN": "43316",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Scientific Writing",
 		"Subject": "ENGL",
+		"Level": "2820",
 		"Hours": "3",
 		"CRN": "41298",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Scientific Writing",
 		"Subject": "ENGL",
+		"Level": "2820",
 		"Hours": "3",
 		"CRN": "40075",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Writing for the Social Sciences",
 		"Subject": "ENGL",
+		"Level": "2830",
 		"Hours": "3",
 		"CRN": "40078",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "41034",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "40716",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "41365",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "40637",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "43118",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "43994",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "43848",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "43849",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "43320",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "43321",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "41503",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "40848",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "40805",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "40952",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "40954",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "40953",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Professional Writing",
 		"Subject": "ENGL",
+		"Level": "2880",
 		"Hours": "3",
 		"CRN": "40955",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Literatures of Early America",
 		"Subject": "ENGL",
+		"Level": "3110",
 		"Hours": "3",
 		"CRN": "43632",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "American Lit Since WWII",
 		"Subject": "ENGL",
+		"Level": "3150",
 		"Hours": "3",
 		"CRN": "43252",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Shakespeare",
 		"Subject": "ENGL",
+		"Level": "3340",
 		"Hours": "3",
 		"CRN": "40080",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Shakespeare",
 		"Subject": "ENGL",
+		"Level": "3340",
 		"Hours": "3",
 		"CRN": "40081",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "English Romantics",
 		"Subject": "ENGL",
+		"Level": "3380",
 		"Hours": "3",
 		"CRN": "43254",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Reading Like a Writer: The Short Lyric Tradition",
 		"Subject": "ENGL",
+		"Level": "3720",
 		"Hours": "3",
 		"CRN": "43517",
 		"Meeting": [
-			"M",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "M",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing: Nonfiction",
 		"Subject": "ENGL",
+		"Level": "3740R",
 		"Hours": "3",
 		"CRN": "42242",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing: Poetry",
 		"Subject": "ENGL",
+		"Level": "3750R",
 		"Hours": "3",
 		"CRN": "42244",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing: Fiction",
 		"Subject": "ENGL",
+		"Level": "3760R",
 		"Hours": "3",
 		"CRN": "42245",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Creative Writing: Fiction",
 		"Subject": "ENGL",
+		"Level": "3760R",
 		"Hours": "3",
 		"CRN": "42246",
 		"Meeting": [
-			"TT",
-			"03:05  PM - 04:20  PM"
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Literary Editing and Publishing",
 		"Subject": "ENGL",
+		"Level": "3780R",
 		"Hours": "3",
 		"CRN": "42247",
 		"Meeting": [
-			"W",
-			"02:00  PM - 04:30  PM"
+			{
+				"days": "W",
+				"hours": "02:00  PM - 04:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Contemporary English Grammar",
 		"Subject": "ENGL",
+		"Level": "3820",
 		"Hours": "3",
 		"CRN": "40548",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Writing Beyond the Academy",
 		"Subject": "ENGL",
+		"Level": "3830",
 		"Hours": "3",
 		"CRN": "40079",
 		"Meeting": [
-			"TT",
-			"10:50  AM - 12:05  PM"
+			{
+				"days": "TT",
+				"hours": "10:50  AM - 12:05  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Writing Beyond the Academy",
 		"Subject": "ENGL",
+		"Level": "3830",
 		"Hours": "3",
 		"CRN": "42248",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Persuasion & Propaganda",
 		"Subject": "ENGL",
+		"Level": "3850",
 		"Hours": "3",
 		"CRN": "40082",
 		"Meeting": [
-			"MW",
-			"03:25  PM - 04:40  PM"
+			{
+				"days": "MW",
+				"hours": "03:25  PM - 04:40  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Major American Figures: Faulkner",
 		"Subject": "ENGL",
+		"Level": "4270R",
 		"Hours": "3",
 		"CRN": "43256",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Major British Figures: John Donne",
 		"Subject": "ENGL",
+		"Level": "4470R",
 		"Hours": "3",
 		"CRN": "43260",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Fiction, Fashion and Feminism",
 		"Subject": "ENGL",
+		"Level": "4500",
 		"Hours": "3",
 		"CRN": "43542",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "History of the English Language",
 		"Subject": "ENGL",
+		"Level": "4650",
 		"Hours": "3",
 		"CRN": "40546",
 		"Meeting": [
-			"TT",
-			"01:40  PM - 02:55  PM"
+			{
+				"days": "TT",
+				"hours": "01:40  PM - 02:55  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Feminist Literary Criticism",
 		"Subject": "ENGL",
+		"Level": "4710",
 		"Hours": "3",
 		"CRN": "43518",
 		"Meeting": [
-			"TT",
-			"03:05  PM - 04:20  PM"
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Writing for Teachers",
 		"Subject": "ENGL",
+		"Level": "4810",
 		"Hours": "3",
 		"CRN": "40083",
 		"Meeting": [
-			"MW",
-			"02:00  PM - 03:15  PM"
+			{
+				"days": "MW",
+				"hours": "02:00  PM - 03:15  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Major Issues in Rhetoric: Rhetoric, Food, and Culture",
 		"Subject": "ENGL",
+		"Level": "4870R",
 		"Hours": "3",
 		"CRN": "43268",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Major Issues in Rhetoric: Dig Cultures and Activism",
 		"Subject": "ENGL",
+		"Level": "4870R",
 		"Hours": "3",
 		"CRN": "42252",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Parody, Humor, and Satire",
 		"Subject": "ENGL",
+		"Level": "4900R",
 		"Hours": "3",
 		"CRN": "42253",
 		"Meeting": [
-			"TT",
-			"03:05  PM - 04:20  PM"
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:20  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Writing Workshop: Flash Nonfiction",
 		"Subject": "ENGL",
+		"Level": "4910R",
 		"Hours": "3",
 		"CRN": "43709",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Novel Writing Workshop",
 		"Subject": "ENGL",
+		"Level": "4920R",
 		"Hours": "3",
 		"CRN": "42255",
 		"Meeting": [
-			"M",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "M",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Speculative Fiction Workshop",
 		"Subject": "ENGL",
+		"Level": "4930R",
 		"Hours": "3",
 		"CRN": "42256",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Poetry Workshop",
 		"Subject": "ENGL",
+		"Level": "4940R",
 		"Hours": "3",
 		"CRN": "43282",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Internship",
 		"Subject": "ENGL",
+		"Level": "4960R",
 		"Hours": "3",
 		"CRN": "42257",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Senior Seminar: From Plate to Page",
 		"Subject": "ENGL",
+		"Level": "4980",
 		"Hours": "3",
 		"CRN": "40712",
 		"Meeting": [
-			"TT",
-			"09:25  AM - 10:40  AM"
+			{
+				"days": "TT",
+				"hours": "09:25  AM - 10:40  AM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "ENGL",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43738",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "ENGL",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43764",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "ENGL",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43765",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "ENGL",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43766",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "ENGL",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43767",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Departmental Thesis",
 		"Subject": "ENGL",
+		"Level": "4995R",
 		"Hours": "1 TO 3",
 		"CRN": "43768",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Individual Studies",
 		"Subject": "ENGL",
+		"Level": "4998R",
 		"Hours": "1 TO 9",
 		"CRN": "42936",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Introduction to Graduate Studies in English: Methodology and Bibliography",
 		"Subject": "ENGL",
+		"Level": "5000",
 		"Hours": "3",
 		"CRN": "40645",
 		"Meeting": [
-			"M",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "M",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Teaching College Writing",
 		"Subject": "ENGL",
+		"Level": "5270",
 		"Hours": "3",
 		"CRN": "41564",
 		"Meeting": [
-			"W",
-			"05:30  PM - 07:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 07:00  PM"
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Advanced Internship in Writing",
 		"Subject": "ENGL",
+		"Level": "5290R",
 		"Hours": "3",
 		"CRN": "43856",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Novel Writing Workshop",
 		"Subject": "ENGL",
+		"Level": "5500R",
 		"Hours": "3",
 		"CRN": "41366",
 		"Meeting": [
-			"M",
-			"05:30  PM - 07:00  PM"
+			{
+				"days": "M",
+				"hours": "05:30  PM - 07:00  PM"
+			}
 		],
 		"Campus": "UTC Online"
 	},
 	{
 		"Title": "Poetry Workshop",
 		"Subject": "ENGL",
+		"Level": "5520",
 		"Hours": "3",
 		"CRN": "43702",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Speculative Fiction Workshop",
 		"Subject": "ENGL",
+		"Level": "5530R",
 		"Hours": "3",
 		"CRN": "41566",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Seminar in a Major Figure: Faulkner",
 		"Subject": "ENGL",
+		"Level": "5850R",
 		"Hours": "3",
 		"CRN": "43283",
 		"Meeting": [
-			"W",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "W",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Seminar in a Major Figure: John Donne",
 		"Subject": "ENGL",
+		"Level": "5850R",
 		"Hours": "3",
 		"CRN": "43284",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Parody, Humor, and Satire",
 		"Subject": "ENGL",
+		"Level": "5950R",
 		"Hours": "3",
 		"CRN": "43701",
 		"Meeting": [
-			"TT",
-			"03:05  PM - 04:00  PM"
+			{
+				"days": "TT",
+				"hours": "03:05  PM - 04:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Workshop: Writing Flas Nonfiction",
 		"Subject": "ENGL",
+		"Level": "5950R",
 		"Hours": "3",
 		"CRN": "43710",
 		"Meeting": [
-			"TT",
-			"12:15  PM - 01:30  PM"
+			{
+				"days": "TT",
+				"hours": "12:15  PM - 01:30  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Digital Culture and Activism",
 		"Subject": "ENGL",
+		"Level": "5970R",
 		"Hours": "3",
 		"CRN": "43700",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Rhetoric, Food, and Culture",
 		"Subject": "ENGL",
+		"Level": "5970R",
 		"Hours": "3",
 		"CRN": "43703",
 		"Meeting": [
-			"T",
-			"05:30  PM - 08:00  PM"
+			{
+				"days": "T",
+				"hours": "05:30  PM - 08:00  PM"
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ENGL",
+		"Level": "5999R",
 		"Hours": "1 TO 6",
 		"CRN": "43726",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ENGL",
+		"Level": "5999R",
 		"Hours": "1 TO 6",
 		"CRN": "43727",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ENGL",
+		"Level": "5999R",
 		"Hours": "1 TO 6",
 		"CRN": "43728",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ENGL",
+		"Level": "5999R",
 		"Hours": "1 TO 6",
 		"CRN": "43729",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ENGL",
+		"Level": "5999R",
 		"Hours": "1 TO 6",
 		"CRN": "43805",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ENGL",
+		"Level": "5999R",
 		"Hours": "1 TO 6",
 		"CRN": "43806",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ENGL",
+		"Level": "5999R",
 		"Hours": "1 TO 6",
 		"CRN": "43807",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ENGL",
+		"Level": "5999R",
 		"Hours": "1 TO 6",
 		"CRN": "43826",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ENGL",
+		"Level": "5999R",
 		"Hours": "3",
 		"CRN": "43974",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ENGL",
+		"Level": "5999R",
 		"Hours": "2",
 		"CRN": "44004",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	},
 	{
 		"Title": "Thesis",
 		"Subject": "ENGL",
+		"Level": "5999R",
 		"Hours": "1 TO 6",
 		"CRN": "44031",
 		"Meeting": [
-			"",
-			" - "
+			{
+				"days": "",
+				"hours": " - "
+			}
 		],
 		"Campus": "UT Chattanooga"
 	}
