@@ -34,10 +34,9 @@ app.post('/chart', function(req,res) {
       .then((values) => {
         // Flatten class datas so we have a single array of class info
         let pertinentClassData = [].concat.apply([], values)
-
-        // Numbers 1-24 represent 8:00am-8:00pm on Monday by half-hour. 25-48 represent 8:00am-8:00pm on Tuesday.
+        
+        // Numbers 1-27 represent 8:00am-9:30pm on Monday by half-hour. 25-54 represent 8:00am-9:30pm on Tuesday.
         var createdCalendar = buildCalendar(mockInput, pertinentClassData); // Created calendar format: { CPSC1100: [0, 1, 2, 8, 9, 12, 13, 41, 42], CPSC1110: [22, 76], ... }
-        console.log(createdCalendar)
     
         res.render('chart',
           { name: "Class Layout by Week",
