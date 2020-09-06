@@ -33,6 +33,20 @@ html
             return axis.categories[point[isY ? 'y' : 'x']];
         }
 
+        function formatData(data) {
+            var chartArray = []
+            var classData = Object.values(data)
+            classData = [].concat.apply([], classData);
+            for(var x = 0; x < !{chartX}; x++) {
+                for(var y = 0; y < !{chartY}; y++) {
+                    var index = x*!{chartY} + y;
+                    chartArray[index] = [x, y, classData.filter(v => v === index).length];
+                }
+            }
+            console.log(chartArray)
+            return chartArray;
+        }
+
         window.onload = function () {
             Highcharts.chart('container', {
                 credits: {
@@ -64,7 +78,8 @@ html
                                  '4:00-4:30', '4:30-5:00', 
                                  '5:00-5:30', '5:30-6:00', 
                                  '6:00-6:30', '6:30-7:00', 
-                                 '7:00-7:30', '7:30-8:00'],
+                                 '7:00-7:30', '7:30-8:00',
+                                 '8:00-8:30', '8:30-9:00', '9:00-9:30'],
                     title: null
                 },
 
@@ -104,7 +119,7 @@ html
 
                 series: [
                     {
-                    data: JSON.parse('!{barArray}'),
+                    data: formatData(JSON.parse('!{barArray}')),
                     borderWidth: 1,
                     name: "#{seriesName}"
                     }

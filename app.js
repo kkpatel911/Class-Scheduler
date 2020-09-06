@@ -4,6 +4,7 @@ var app = express();
 const fs = require("fs");
 const buildCalendar = require("./lib/buildCalendar");
 const readClassInfo = require("./lib/readClass");
+const { create } = require("domain");
 
 app.set('views', __dirname + '/views')
 app.set('view engine', 'jade')
@@ -35,12 +36,15 @@ app.post('/chart', function(req,res) {
         // Flatten class datas so we have a single array of class info
         let pertinentClassData = [].concat.apply([], values)
         
-        // Numbers 1-27 represent 8:00am-9:30pm on Monday by half-hour. 25-54 represent 8:00am-9:30pm on Tuesday.
+        // Numbers 1-27 represent 8:00am-9:30pm on Monday by half-hour. 28-54 represent 8:00am-9:30pm on Tuesday.
         var createdCalendar = buildCalendar(mockInput, pertinentClassData); // Created calendar format: { CPSC1100: [0, 1, 2, 8, 9, 12, 13, 41, 42], CPSC1110: [22, 76], ... }
-    
+        console.log(createdCalendar)
+        
         res.render('chart',
           { name: "Class Layout by Week",
             barArray: JSON.stringify(createdCalendar),
+            chartX: 7,
+            chartY: 27
           });
       });
 });
