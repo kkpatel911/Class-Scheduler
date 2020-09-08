@@ -16,22 +16,17 @@ app.get('/', function(req,res) {
 });
 
 app.post('/chart', function(req,res) {
-  // TODO: Make a method to use this data to get all CRNs that match these criteria
+  // TODO: Translate data from configSearch front-end
   /*console.log(req.body.major1)
   console.log(req.body.classNumber1)
   console.log(req.body.geneds)*/
 
   // Make front-end somehow allow users to submit all classes as a single array:
-  var mockInput = ["CPSC1100", "CPSC1110", "MATH1850", "MATH1960"]
+  var mockInput = ["CPSC1100", "CPSC1110", "CPSC2100", "MATH1950", "MATH1960"]
 
-    // TODO: Go through req to find REAL input, find out WHICH files need to be opened
-
-
-    // Open data/202040.CPSC.json and data/202040.MATH.json and put both into a single dictionary
-    // WARNING: Run readClassInfo asynchronously with all other required classes
-    Promise.all([
-      readClassInfo("CPSC", 2020, "Fall"),
-      readClassInfo("MATH", 2020, "Fall")])
+    // Go through req to find REAL input, find out WHICH files need to be opened
+    classProcessingArray = mockInput.map(name => readClassInfo(name.replace(/[0-9]/g, ''), 2020, "Fall"))
+    Promise.all(classProcessingArray)
       .then((values) => {
         // Flatten class datas so we have a single array of class info
         let pertinentClassData = [].concat.apply([], values)
