@@ -7,7 +7,7 @@ const readClassInfo = require("./lib/readClass");
 const { create } = require("domain");
 
 app.set('views', __dirname + '/views')
-app.set('view engine', 'jade')
+app.set('view engine', 'pug')
 app.use(express.static(__dirname + '/public'))
 app.use(bodyParser.urlencoded({ extended: false }));
 
