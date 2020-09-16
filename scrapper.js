@@ -83,7 +83,6 @@ async function createData(major, term) {
           meetingTimes.push(meetInfo)
         });
 
-        console.log("Debug session:")
         console.log(classNum, " of ", classes.length)
         titleLinkArray[m] = {
           Title: classes.eq(classNum).children().eq(0).find('a').text(),
