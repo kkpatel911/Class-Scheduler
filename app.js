@@ -15,7 +15,7 @@ app.get('/', function(req,res) {
     res.render('configSearch');
 });
 
-app.post('/chart', function(req,res) {
+app.get('/chart', function(req,res) {
   // TODO: Translate data from configSearch front-end
   /*console.log(req.body.major1)
   console.log(req.body.classNumber1)
