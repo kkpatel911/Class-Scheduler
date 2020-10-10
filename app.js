@@ -6,6 +6,17 @@ const buildCalendar = require("./lib/buildCalendar");
 const readClassInfo = require("./lib/readClass");
 const { create } = require("domain");
 
+const { Client } = require('pg');
+
+const client = new Client({
+  connectionString: process.env.DATABASE_URL,
+  ssl: {
+    rejectUnauthorized: false
+  }
+});
+
+client.connect();
+
 app.set('views', __dirname + '/views')
 app.set('view engine', 'pug')
 app.use(express.static(__dirname + '/public'))
@@ -38,11 +49,69 @@ app.get('/chart', function(req,res) {
         res.render('chart',
           { name: "Class Layout by Week",
             barArray: JSON.stringify(createdCalendar),
-            chartX: 7,
+            chartX: 5,
             chartY: 27
           });
       });
 });
+
+// Ajax call. Returns status of save
+app.post('/saveChart', function(req,res) {
+  // TODO: Get data from request
+  var mockInput = {
+    CPSC1100: [
+       62, 63, 64,  65,  66,  67, 68,   2,   3,  56, 57, 110,
+      111, 44, 45,  46,  47,  67, 68,  69,  70,  41, 42,  43,
+       95, 96, 97,   4,   5,  58, 59, 112, 113,  13, 14,  15,
+       16, 22, 23,  24,  25,  26, 76,  77,  78,  79, 80,   6,
+        7, 60, 61, 114, 115,  44, 45,  46,  47,  62, 63,  64,
+       65, 66, 67,  68,   2,   3, 56,  57, 110, 111, 44,  45,
+       46, 47, 67,  68,  69,  70, 41,  42,  43,  95, 96,  97,
+        4,  5, 58,  59, 112, 113, 13,  14,  15,  16, 22,  23,
+       24, 25, 26,  76
+    ],
+    CPSC1110: [
+       6,  7, 60, 61, 114, 115, 42, 43, 44, 45,  31,  32,
+      33, 34, 15, 16,  17,  69, 70, 71, 31, 32,  33,  34,
+       6,  7, 60, 61, 114, 115,  6,  7, 60, 61, 114, 115,
+      42, 43, 44, 45,  31,  32, 33, 34, 15, 16,  17,  69,
+      70, 71, 31, 32,  33,  34,  6,  7, 60, 61, 114, 115,
+       6,  7, 60, 61, 114, 115, 42, 43, 44, 45,  31,  32,
+      33, 34, 15, 16,  17,  69, 70, 71, 31, 32,  33,  34,
+       6,  7, 60, 61, 114, 115
+    ],
+    MATH1950: [
+      0, 1, 2, 54, 55, 56, 108, 109, 110,
+      6, 7, 8, 60, 61, 62, 114, 115, 116,
+      0, 1, 2, 54, 55, 56, 108, 109, 110,
+      6, 7, 8, 60, 61, 62, 114, 115, 116
+    ]
+  }
+  var mockName = "NewCalendar"
+
+  // Save data in database
+  client.query('INSERT INTO calendar(name) VALUES ($1) RETURNING calendarID;', [mockName], (err, res) => {
+    if (err) throw err;
+    console.log("CalendarID: ", res.rows[0]['calendarid'])
+    var calendarID = res.rows[0]['calendarid'];
+    if (calendarID > 0) {
+      for (var className in mockInput) {
+        client.query('INSERT INTO calendarRow(calendarid, classname, timeslots) VALUES ($1, $2, $3);', [calendarID, className, mockInput[className]]);
+      }
+    }
+  });
+  /*client.query('SELECT * FROM Calendar;', (err, res) => {
+    if (err) throw err;
+    for (let row of res.rows) {
+      console.log(JSON.stringify(row));
+    }
+    client.end();
+  });*/
+  res.render('configSearch');
+});
+
+// Create a search page to find calendars by their name
+
 
 console.log("Server has started on port 8080");
 app.listen(8080)

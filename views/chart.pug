@@ -24,7 +24,8 @@ html
                 #container(style="min-width: 500px; height: 500px; margin: 0 auto")
         .row.justify-content-center
             .col-6
-                button.form-control(type="submit") Save as Club Scheduler Page
+                form(action='/saveChart', method='POST')
+                    button.form-control(type="submit") Save as Club Scheduler Page
     script.
         function getPointCategoryName(point, dimension) {
             var series = point.series,
