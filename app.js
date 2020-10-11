@@ -20,15 +20,20 @@ app.get('/', function(req,res) {
 
 // Show/Load calendar
 app.get('/chart', function(req,res) {
-  // TODO: Translate data from configSearch front-end
-  /*console.log(req.body.major1)
-  console.log(req.body.classNumber1)
-  console.log(req.body.geneds)*/
-  // TODO: If an extension is noted, call it by id
-
-  // Make front-end somehow allow users to submit all classes as a single array:
-  var mockInput = ["CPSC1100", "CPSC1110", "CPSC2100", "MATH1950", "MATH1960"]
-
+  // If an extension is noted, call it by id
+  console.log(req.query.id)
+  if(req.query.id) {
+    dataTier.loadCalendar(req.query.id, function(calendarData) {
+      res.render('chart',
+        { name: "Class Layout by Week",
+          barArray: JSON.stringify(calendarData),
+          chartX: 5,
+          chartY: 27
+        });
+    })
+  } else {
+    // TODO: Translate data from configSearch front-end
+    var mockInput = ["CPSC1100", "CPSC1110", "CPSC2100", "MATH1950", "MATH1960"]
     // Go through req to find REAL input, find out WHICH files need to be opened
     classProcessingArray = mockInput.map(name => readClassInfo(name.replace(/[0-9]/g, ''), 2020, "Fall"))
     Promise.all(classProcessingArray)
@@ -46,6 +51,7 @@ app.get('/chart', function(req,res) {
             chartY: 27
           });
       });
+  }
 });
 
 // Save calendar
