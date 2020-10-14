@@ -20,7 +20,7 @@ router.get('/', function(req, res, next) {
     })
   } else {
     // TODO: Translate data from configSearch front-end
-    var mockInput = ["CPSC1100", "CPSC1110", "CPSC2100", "MATH1950", "MATH1960"]
+    var mockInput = ["CPSC1100", "CPSC1110", "CPSC2100", "MATH1950", "MATH1960", "MATH2030"]
     // Go through req to find REAL input, find out WHICH files need to be opened
     classProcessingArray = mockInput.map(name => readClassInfo(name.replace(/[0-9]/g, ''), 2020, "Fall"))
     Promise.all(classProcessingArray)

@@ -10,14 +10,9 @@ router.post('/', function(req,res) {
 
   // Save data in database
   dataTier.saveCalendar(calendarInput, calendarName);
-
+  
+  //res.redirect('/chart?id=' + ); 
   res.render('configSearch');
-  res.render('chart',
-    { name: calendarName,
-      barArray: JSON.stringify(calendarInput),
-      chartX: 5,
-      chartY: 27
-    });
 });
 
 module.exports = router;

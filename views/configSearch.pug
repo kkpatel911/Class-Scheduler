@@ -69,19 +69,41 @@ html
           .col-md-1.col-2.pl-0
             button.btn-secondary.form-control
               i.fa.fa-plus
+        // TODO: Onchange use an ajax call to update the class list below, which the user can then dynamically add to
+        .row.pt-3
+          .col-md-6.col-10.pr-0
+            input.form-control(name="decisionA", value="CPSC 1100", readonly)
+        .row.pt-3
+          .col-md-6.col-10.pr-0
+            input.form-control(name="decisionA", value="CPSC 1110", readonly)
+        .row.pt-3
+          .col-md-6.col-10.pr-0
+            input.form-control(name="decisionA", value="CPSC 2100", readonly)
+        .row.pt-3
+          .col-md-6.col-10.pr-0
+            input.form-control(name="decisionA", value="MATH 1950", readonly)
+        .row.pt-3
+          .col-md-6.col-10.pr-0
+            input.form-control(name="decisionA", value="MATH 1960", readonly)
+        .row.pt-3
+          .col-md-6.col-10.pr-0
+            input.form-control(name="decisionA", value="MATH 2030", readonly)
         // Submit!
-        .row.py-3.border-bottom.border-secondary
-          .col-6.border
-            dl
-              dt Requirement 1: Create a calendar based on UTC catalog times
-              dd Make buildCalendar works
-              dd Make chart.pug script to translate calendar dictionary
-              dd Replace mockInput in app.js with advanced configSearch front-end that builds and submits a list of classes
-              dd Create presets txt files with class names
-              dd Make app.js run scrapper if the json files don't exist
-            dl
-              dt Requirement 2: Save calendar and allow other users to access it
-              dd Saving calendar
-              dd app.js path to saved calendars (redirect to path after saving)
-              dd Visitor giving name and adding personal times to calendar (student times = 2x strong)
-          input.btn-primary.form-control.col-md-2.offset-md-4.col-3.offset-3(type='submit', value='Search')
+        //.row.py-3.border-bottom.border-secondary
+        //  .col-6.border
+        //    dl
+        //      dt Requirement 1: Create a calendar based on UTC catalog times
+        //      dd
+        //        s Make sure buildCalendar works
+        //      dd
+        //        s Make chart.pug script to translate calendar dictionary
+        //      dd Let user define list of classes input in front-end
+        //      dd Create presets txt files with class names
+        //      dd Make app.js run scrapper if the json files don't exist
+        //    dl
+        //      dt Requirement 2: Save calendar and allow other users to access it
+        //      dd 
+        //        s Saving calendar
+        //      dd app.js path to saved calendars (redirect to path after saving)
+        //      dd Visitor giving name and adding personal times to calendar (student times = 2x strong)
+        //  input.btn-primary.form-control.col-md-2.offset-md-4.col-3.offset-3(type='submit', value='Search')
