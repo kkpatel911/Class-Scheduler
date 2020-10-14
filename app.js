@@ -1,79 +1,45 @@
-// Load packages
-var express = require("express");
-const bodyParser = require('body-parser');
+var createError = require('http-errors');
+var express = require('express');
+var path = require('path');
+var cookieParser = require('cookie-parser');
+var logger = require('morgan');
+
+var indexRouter = require('./routes/index');
+var chartRouter = require('./routes/chart');
+var saveRouter = require('./routes/save');
+
 var app = express();
-const fs = require("fs");
-const buildCalendar = require("./lib/buildCalendar");
-const readClassInfo = require("./lib/readClass");
-const dataTier = require("./lib/dataTier");
 
-// Set up express
-app.set('views', __dirname + '/views')
-app.set('view engine', 'pug')
-app.use(express.static(__dirname + '/public'))
-app.use(bodyParser.urlencoded({ extended: false }));
+// view engine setup
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'pug');
 
-// Website Root
-app.get('/', function(req,res) {
-    res.render('configSearch');
-});
+app.use(logger('dev'));
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
+app.use(cookieParser());
+app.use(express.static(path.join(__dirname, 'public')));
 
-// Show/Load calendar
-app.get('/chart', function(req,res) {
-  // If an extension is noted, call it by id
-  console.log(req.query.id)
-  if(req.query.id) {
-    dataTier.loadCalendar(req.query.id, function(calendarData) {
-      res.render('chart',
-        { name: "Class Layout by Week",
-          barArray: JSON.stringify(calendarData),
-          chartX: 5,
-          chartY: 27
-        });
-    })
-  } else {
-    // TODO: Translate data from configSearch front-end
-    var mockInput = ["CPSC1100", "CPSC1110", "CPSC2100", "MATH1950", "MATH1960"]
-    // Go through req to find REAL input, find out WHICH files need to be opened
-    classProcessingArray = mockInput.map(name => readClassInfo(name.replace(/[0-9]/g, ''), 2020, "Fall"))
-    Promise.all(classProcessingArray)
-      .then((values) => {
-        // Flatten class datas so we have a single array of class info
-        let pertinentClassData = [].concat.apply([], values)
-        
-        // Numbers 1-27 represent 8:00am-9:30pm on Monday by half-hour. 28-54 represent 8:00am-9:30pm on Tuesday.
-        var createdCalendar = buildCalendar(mockInput, pertinentClassData); // Created calendar format: { CPSC1100: [0, 1, 2, 8, 9, 12, 13, 41, 42], CPSC1110: [22, 76], ... }
-        
-        res.render('chart',
-          { name: "Class Layout by Week",
-            barArray: JSON.stringify(createdCalendar),
-            chartX: 5,
-            chartY: 27
-          });
-      });
-  }
-});
-
-// Save calendar
-app.post('/saveChart', function(req,res) {
-  // TODO: Get data from request
-  var calendarInput = JSON.parse(req.body.calendarData);
-  var calendarName = req.body.calendarName;
-
-  // Save data in database
-  dataTier.saveCalendar(calendarInput, calendarName);
-
-  res.render('configSearch');
-  res.render('chart',
-    { name: calendarName,
-      barArray: JSON.stringify(calendarInput),
-      chartX: 5,
-      chartY: 27
-    });
-});
-
+app.use('/', indexRouter);
+app.use('/chart', chartRouter);
+app.use('/saveChart', saveRouter);
 // TODO: Create a search page to find calendars by their name
 
 
-console.log("Server has started on port 8080");
-app.listen(8080)
+// catch 404 and forward to error handler
+app.use(function(req, res, next) {
+  next(createError(404));
+});
+
+// error handler
+app.use(function(err, req, res, next) {
+  // set locals, only providing error in development
+  res.locals.message = err.message;
+  res.locals.error = req.app.get('env') === 'development' ? err : {};
+
+  // render the error page
+  res.status(err.status || 500);
+  res.render('error');
+});
+
+module.exports = app;
