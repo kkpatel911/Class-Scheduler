@@ -6,11 +6,8 @@ html
     link(rel="stylesheet", href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css")
     script(src='https://code.jquery.com/jquery-3.5.1.min.js')
     script(src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js")
-    script(type='text/javascript', src="http://code.highcharts.com/highcharts.js")
-    script(type='text/javascript', src="http://code.highcharts.com/modules/exporting.js")
-    script(type='text/javascript', src="https://code.highcharts.com/modules/heatmap.js")
-    script(type='text/javascript', src="http://code.highcharts.com/modules/export-data.js")
-    script(type='text/javascript', src="http://code.highcharts.com/modules/accessibility.js")
+    script(type='text/javascript', src="/packages/highcharts/highcharts.js")
+    script(type='text/javascript', src="/packages/highcharts/heatmap.js")
     title Delivered Leads
   body
     .container
@@ -23,10 +20,21 @@ html
             .col-12
                 #container(style="min-width: 500px; height: 500px; margin: 0 auto")
         .row.justify-content-center
-            .col-6
-                form(action='/saveChart', method='POST')
-                    button.form-control(type="submit") Save as Club Scheduler Page
+            .col-6#submitRow
+                button.form-control#saveCalendarBtn Save as Club Scheduler Page
+        form.invisble#nameform(action='/saveChart', method='POST')
+            .row.justify-content-center
+                input(type="hidden", name="calendarData", id="calendarData", value='')
+                .col-4
+                    input.form-control(type="text", name="calendarName", placeholder='Calendar Name', required)
+                .col-2
+                    button.form-control.btn-primary(type="submit") Save
     script.
+        $('#saveCalendarBtn').click(function() {
+            $('#submitRow').addClass('invisble');
+            $('#nameform').removeClass('invisble');
+        });
+
         function getPointCategoryName(point, dimension) {
             var series = point.series,
                 isY = dimension === 'y',
@@ -49,6 +57,9 @@ html
         }
 
         window.onload = function () {
+            console.log(!{barArray})
+            $('#calendarData').val('!{barArray}')
+
             Highcharts.chart('container', {
                 credits: {
                     enabled: false

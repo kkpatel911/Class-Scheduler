@@ -6,16 +6,14 @@ const fs = require("fs");
 const $ = require("jquery");
 const { json } = require("express");
 
-// TODO: Also put class start and end in data
+// TODO: Also put class start and end dates in data
 
 async function timeout(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 async function createData(major, term) {
-  const browser = await puppeteer.launch({
-    headless: false
-  });
+  const browser = await puppeteer.launch({headless: false});
 
   const page = await browser.newPage();
   await page.setViewport({ width: 1920, height: 1080 });
