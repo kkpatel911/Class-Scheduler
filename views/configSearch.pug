@@ -52,7 +52,7 @@ html
               option Business General
               option Geneds
           .col-md-1.col-2.pl-0
-            button.btn-secondary.form-control
+            button.btn-secondary.form-control(type="button")
               i.fa.fa-plus
         
         // Majors & Years (dynamically add readonly input fields copying values using add button)
@@ -67,7 +67,7 @@ html
           .col-md-3.col-5.pr-0
             input#inputClassNumber.form-control(name="classNumber1")
           .col-md-1.col-2.pl-0
-            button.btn-secondary.form-control
+            button.btn-secondary.form-control(type="button")
               i.fa.fa-plus
         // TODO: Onchange use an ajax call to update the class list below, which the user can then dynamically add to
         .row.pt-3
@@ -89,7 +89,8 @@ html
           .col-md-6.col-10.pr-0
             input.form-control(name="decisionA", value="MATH 2030", readonly)
         // Submit!
-        //.row.py-3.border-bottom.border-secondary
+        .row.py-3.border-bottom.border-secondary
+          input.btn-primary.form-control.col-md-2.offset-md-4.col-3.offset-3(type='submit', value='Search')
         //  .col-6.border
         //    dl
         //      dt Requirement 1: Create a calendar based on UTC catalog times
@@ -106,4 +107,3 @@ html
         //        s Saving calendar
         //      dd app.js path to saved calendars (redirect to path after saving)
         //      dd Visitor giving name and adding personal times to calendar (student times = 2x strong)
-        //  input.btn-primary.form-control.col-md-2.offset-md-4.col-3.offset-3(type='submit', value='Search')
