@@ -17,7 +17,7 @@ html
       .row.py-3
         .col-12
           h4.text-center.border-bottom.border-secondary.pb-3 Find the class-free times for your target audience!
-      form(action='/chart', method='GET')
+      form(action='/chart', method='POST')
         // Days of the week to check
         //- .row.py-3
         //-   .col-lg-2.col-md-3.col-sm-4.col-6
@@ -72,22 +72,22 @@ html
         // TODO: Onchange use an ajax call to update the class list below, which the user can then dynamically add to
         .row.pt-3
           .col-md-6.col-10.pr-0
-            input.form-control(name="decisionA", value="CPSC 1100", readonly)
+            input.form-control(name="classes", value="CPSC1100", readonly)
+          .col-md-1.col-2.pl-0
+            button.btn-secondary.form-control(type="button")
+              i.fa.fa-times
         .row.pt-3
           .col-md-6.col-10.pr-0
-            input.form-control(name="decisionA", value="CPSC 1110", readonly)
+            input.form-control(name="classes", value="CPSC1110", readonly)
+          .col-md-1.col-2.pl-0
+            button.btn-secondary.form-control(type="button")
+              i.fa.fa-times
         .row.pt-3
           .col-md-6.col-10.pr-0
-            input.form-control(name="decisionA", value="CPSC 2100", readonly)
-        .row.pt-3
-          .col-md-6.col-10.pr-0
-            input.form-control(name="decisionA", value="MATH 1950", readonly)
-        .row.pt-3
-          .col-md-6.col-10.pr-0
-            input.form-control(name="decisionA", value="MATH 1960", readonly)
-        .row.pt-3
-          .col-md-6.col-10.pr-0
-            input.form-control(name="decisionA", value="MATH 2030", readonly)
+            input.form-control(name="classes", value="CPSC2100", readonly)
+          .col-md-1.col-2.pl-0
+            button.btn-secondary.form-control(type="button")
+              i.fa.fa-times
         // Submit!
         .row.py-3.border-bottom.border-secondary
           input.btn-primary.form-control.col-md-2.offset-md-4.col-3.offset-3(type='submit', value='Search')
