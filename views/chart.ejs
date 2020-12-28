@@ -63,8 +63,7 @@
         }
 
         window.onload = function() {
-            console.log('<%- barArray %>');
-            $('#calendarData').val('')
+            $('#calendarData').val('<%- barArray %>')
 
             Highcharts.chart('container', {
                 credits: {
