@@ -25,15 +25,17 @@
                 <div id="container" style="min-width: 500px; height: 500px; margin: 0 auto"></div>
             </div>
         </div>
-        <div class="row justify-content-center">
-            <div class="col-6" id="submitRow"><button class="form-control" id="saveCalendarBtn">Save as Club Scheduler Page</button></div>
-        </div>
-        <form class="invisble" id="nameform" action="/saveChart" method="POST">
-            <div class="row justify-content-center"><input type="hidden" name="calendarData" id="calendarData" value="" />
-                <div class="col-4"><input class="form-control" type="text" name="calendarName" placeholder="Calendar Name" required="required" /></div>
-                <div class="col-2"><button class="form-control btn-primary" type="submit">Save</button></div>
+        <% if(!isAlreadySaved) { %>
+            <div class="row justify-content-center">
+                <div class="col-6" id="submitRow"><button class="form-control" id="saveCalendarBtn">Save as Club Scheduler Page</button></div>
             </div>
-        </form>
+            <form class="invisble" id="nameform" action="/saveChart" method="POST">
+                <div class="row justify-content-center"><input type="hidden" name="calendarData" id="calendarData" value="" />
+                    <div class="col-4"><input class="form-control" type="text" name="calendarName" placeholder="Calendar Name" required="required" /></div>
+                    <div class="col-2"><button class="form-control btn-primary" type="submit">Save</button></div>
+                </div>
+            </form>
+        <% } %>
     </div>
     <script>
         $('#saveCalendarBtn').click(function() {

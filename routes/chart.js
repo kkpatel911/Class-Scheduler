@@ -14,7 +14,8 @@ router.get('/:id', function(req, res, next) {
         { name: "Class Layout by Week",
           barArray: JSON.stringify(calendarData),
           chartX: 5,
-          chartY: 27
+          chartY: 27,
+          isAlreadySaved: true
         });
     })
 });
@@ -37,7 +38,8 @@ router.post('/', function(req, res, next) {
         { name: "Class Layout by Week",
           barArray: JSON.stringify(createdCalendar),
           chartX: 5,
-          chartY: 27
+          chartY: 27,
+          isAlreadySaved: false
         });
     });
 });
