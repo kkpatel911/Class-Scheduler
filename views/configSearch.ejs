@@ -1,0 +1,47 @@
+<%- include('includes/header.ejs') %>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-6 align-self-center">
+                <h1 class="py-5 float-right display-4">Moc Meetup</h1>
+            </div>
+            <div class="col-6"><img src="images/logo.png" /></div>
+        </div>
+        <div class="row py-3">
+            <div class="col-12">
+                <h4 class="text-center border-bottom border-secondary pb-3">Find the class-free times for your target audience!</h4>
+            </div>
+        </div>
+        <form action="/chart" method="POST">
+            <!-- Days of the week to check-->
+            <!-- Onchange use an ajax call to update the class list below, which the user can then dynamically add to-->
+            <div class="row pt-3">
+                <div class="col-md-6 col-10 pr-0"><select class="form-control" id="inputState" name="major1"><option selected="">Use a Preset...</option><option>Computer Science Freshman</option><option>Computer Science General</option><option>Business Freshman</option><option>Business General</option><option>Geneds</option></select></div>
+                <div
+                    class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-plus"></i></button></div>
+            </div>
+            <!-- Majors & Years (dynamically add readonly input fields copying values using add button)-->
+            <div class="row pt-3">
+                <div class="col-md-3 col-5"><select class="form-control" id="inputState" name="major1"><option selected="">Choose...</option><option>ART</option><option>BUS</option><option>CPSC</option><option>ENGR</option></select></div>
+                <div class="col-md-3 col-5 pr-0"><input class="form-control" id="inputClassNumber" name="classNumber1" /></div>
+                <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-plus"></i></button></div>
+            </div>
+            <!-- TODO: Onchange use an ajax call to update the class list below, which the user can then dynamically add to-->
+            <div class="row pt-3">
+                <div class="col-md-6 col-10 pr-0"><input class="form-control" name="classes" value="CPSC1100" readonly="readonly" /></div>
+                <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-md-6 col-10 pr-0"><input class="form-control" name="classes" value="CPSC1110" readonly="readonly" /></div>
+                <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-md-6 col-10 pr-0"><input class="form-control" name="classes" value="CPSC2100" readonly="readonly" /></div>
+                <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
+            </div>
+            <!-- Submit!-->
+            <div class="row py-3 border-bottom border-secondary"><input class="btn-primary form-control col-md-2 offset-md-4 col-3 offset-3" type="submit" value="Search" /></div>
+        </form>
+    </div>
+
+<%- include('includes/footer.ejs') %>

@@ -9,15 +9,13 @@ router.post('/', function(req,res) {
   var calendarName = req.body.calendarName;
 
   // Save data in database
-  dataTier.saveCalendar(calendarInput, calendarName);
-
-  res.render('configSearch');
-  res.render('chart',
-    { name: calendarName,
-      barArray: JSON.stringify(calendarInput),
-      chartX: 5,
-      chartY: 27
-    });
+  dataTier.saveCalendar(calendarInput, calendarName, function(calendarID) {
+    if (calendarID > 0)
+      res.redirect('/chart/' + calendarID);
+    else
+      res.redirect('/');
+  });
+  
 });
 
 module.exports = router;
