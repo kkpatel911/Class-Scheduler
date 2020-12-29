@@ -1,20 +1,10 @@
-<html>
+<%- include('includes/header.ejs') %>
 
-<head>
-    <!--link(rel='stylesheet', href='/stylesheets/style.css')-->
-    <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-    <script type="text/javascript" src="/packages/highcharts/highcharts.js"></script>
-    <script type="text/javascript" src="/packages/highcharts/heatmap.js"></script>
-    <title>Query Class Schedule </title>
-</head>
-
-<body>
     <form method="POST" action="/chart"><input type="hidden" name="_method" value="PUT" />
         <p>Major (leave blank to include all majors) <input type="text" name="subject" /></p>
         <!--p Term input(type="text", name="term")-->
         <p>Include General Education Classes? <input type="checkbox" name="geneds" /></p>
         <p><input type="submit" /></p>
     </form>
-</body>
 
-</html>
+<%- include('includes/footer.ejs') %>

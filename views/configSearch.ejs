@@ -1,16 +1,5 @@
-<html>
+<%- include('includes/header.ejs') %>
 
-<head>
-    <!-- CSS only-->
-    <link rel="stylesheet" href="stylesheets/style.css" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
-    <title>Configure Club Schedule Search</title>
-</head>
-
-<body>
     <div class="container">
         <div class="row">
             <div class="col-6 align-self-center">
@@ -30,30 +19,29 @@
                 <div class="col-md-6 col-10 pr-0"><select class="form-control" id="inputState" name="major1"><option selected="">Use a Preset...</option><option>Computer Science Freshman</option><option>Computer Science General</option><option>Business Freshman</option><option>Business General</option><option>Geneds</option></select></div>
                 <div
                     class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-plus"></i></button></div>
+            </div>
+            <!-- Majors & Years (dynamically add readonly input fields copying values using add button)-->
+            <div class="row pt-3">
+                <div class="col-md-3 col-5"><select class="form-control" id="inputState" name="major1"><option selected="">Choose...</option><option>ART</option><option>BUS</option><option>CPSC</option><option>ENGR</option></select></div>
+                <div class="col-md-3 col-5 pr-0"><input class="form-control" id="inputClassNumber" name="classNumber1" /></div>
+                <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-plus"></i></button></div>
+            </div>
+            <!-- TODO: Onchange use an ajax call to update the class list below, which the user can then dynamically add to-->
+            <div class="row pt-3">
+                <div class="col-md-6 col-10 pr-0"><input class="form-control" name="classes" value="CPSC1100" readonly="readonly" /></div>
+                <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-md-6 col-10 pr-0"><input class="form-control" name="classes" value="CPSC1110" readonly="readonly" /></div>
+                <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-md-6 col-10 pr-0"><input class="form-control" name="classes" value="CPSC2100" readonly="readonly" /></div>
+                <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
+            </div>
+            <!-- Submit!-->
+            <div class="row py-3 border-bottom border-secondary"><input class="btn-primary form-control col-md-2 offset-md-4 col-3 offset-3" type="submit" value="Search" /></div>
+        </form>
     </div>
-    <!-- Majors & Years (dynamically add readonly input fields copying values using add button)-->
-    <div class="row pt-3">
-        <div class="col-md-3 col-5"><select class="form-control" id="inputState" name="major1"><option selected="">Choose...</option><option>ART</option><option>BUS</option><option>CPSC</option><option>ENGR</option></select></div>
-        <div class="col-md-3 col-5 pr-0"><input class="form-control" id="inputClassNumber" name="classNumber1" /></div>
-        <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-plus"></i></button></div>
-    </div>
-    <!-- TODO: Onchange use an ajax call to update the class list below, which the user can then dynamically add to-->
-    <div class="row pt-3">
-        <div class="col-md-6 col-10 pr-0"><input class="form-control" name="classes" value="CPSC1100" readonly="readonly" /></div>
-        <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
-    </div>
-    <div class="row pt-3">
-        <div class="col-md-6 col-10 pr-0"><input class="form-control" name="classes" value="CPSC1110" readonly="readonly" /></div>
-        <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
-    </div>
-    <div class="row pt-3">
-        <div class="col-md-6 col-10 pr-0"><input class="form-control" name="classes" value="CPSC2100" readonly="readonly" /></div>
-        <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
-    </div>
-    <!-- Submit!-->
-    <div class="row py-3 border-bottom border-secondary"><input class="btn-primary form-control col-md-2 offset-md-4 col-3 offset-3" type="submit" value="Search" /></div>
-    </form>
-    </div>
-</body>
 
-</html>
+<%- include('includes/footer.ejs') %>
