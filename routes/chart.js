@@ -5,6 +5,18 @@ const buildCalendar = require("../lib/buildCalendar");
 const readClassInfo = require("../lib/readClass");
 const dataTier = require("../lib/dataTier");
 
+// GET calendar search
+router.get('/search', function(req, res, next) {
+  // If an extension is noted, call it by id
+  var searchTerm = req.param('searchterm') || ''
+  dataTier.searchCalendarsByName(searchTerm, function(calendarData) {
+    res.render('search',
+    {
+      calendars: calendarData
+    });
+  })
+});
+
 // GET calendar
 router.get('/:id', function(req, res, next) {
   // If an extension is noted, call it by id
