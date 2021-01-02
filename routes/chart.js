@@ -2,7 +2,6 @@ var express = require('express');
 var router = express.Router();
 
 const buildCalendar = require("../lib/buildCalendar");
-const readClassInfo = require("../lib/readClass");
 const dataTier = require("../lib/dataTier");
 
 // GET calendar search
@@ -36,15 +35,17 @@ router.get('/:id', function(req, res, next) {
 router.post('/', function(req, res, next) {
   // TODO: Translate data from configSearch front-end
   var mockInput = req.body.classes
+  console.log(typeof mockInput)
+  if (typeof mockInput !== "array" && typeof mockInput !== "object") {
+    mockInput = [mockInput]
+  }
+  console.log(mockInput)
   // Go through req to find REAL input, find out WHICH files need to be opened
-  classProcessingArray = mockInput.map(name => readClassInfo(name.replace(/[0-9]/g, ''), 2020, "Fall"))
+  classProcessingArray = mockInput.map(name => dataTier.getClassData(name.replace(/[0-9]/g, ''), name.replace(/[a-zA-Z]/g, '')))
   Promise.all(classProcessingArray)
     .then((values) => {
-      // Flatten class datas so we have a single array of class info
-      let pertinentClassData = [].concat.apply([], values)
-      
       // Numbers 1-27 represent 8:00am-9:30pm on Monday by half-hour. 28-54 represent 8:00am-9:30pm on Tuesday.
-      var createdCalendar = buildCalendar(mockInput, pertinentClassData); // Created calendar format: { CPSC1100: [0, 1, 2, 8, 9, 12, 13, 41, 42], CPSC1110: [22, 76], ... }
+      var createdCalendar = buildCalendar(mockInput, values); // Created calendar format: { CPSC1100: [0, 1, 2, 8, 9, 12, 13, 41, 42], CPSC1110: [22, 76], ... }
       
       res.render('chart',
         { name: "Class Layout by Week",

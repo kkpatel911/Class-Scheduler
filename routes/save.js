@@ -4,7 +4,7 @@ const dataTier = require("../lib/dataTier");
 
 // POST calendar to database
 router.post('/', function(req,res) {
-  // TODO: Get data from request
+  // Get data from request
   var calendarInput = JSON.parse(req.body.calendarData);
   var calendarName = req.body.calendarName;
 
