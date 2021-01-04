@@ -13,20 +13,20 @@
             </div>
         </div>
         <form action="/chart" method="POST">
-            <!-- Days of the week to check-->
-            <!-- Onchange use an ajax call to update the class list below, which the user can then dynamically add to-->
+            <!-- On submit use an ajax call to get all classes from the preset chosen, which the user can then dynamically add to-->
             <div class="row pt-3">
                 <div class="col-md-6 col-10 pr-0"><select class="form-control" id="inputState" name="major1"><option selected="">Use a Preset...</option><option>Computer Science Freshman</option><option>Computer Science General</option><option>Business Freshman</option><option>Business General</option><option>Geneds</option></select></div>
                 <div
                     class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-plus"></i></button></div>
             </div>
+            <!-- TODO: Get options from Controller using EJS to place in -->
             <!-- Majors & Years (dynamically add readonly input fields copying values using add button)-->
             <div class="row pt-3">
                 <div class="col-md-3 col-5"><select class="form-control" id="inputState" name="major1"><option selected="">Choose...</option><option>ART</option><option>BUS</option><option>CPSC</option><option>ENGR</option></select></div>
                 <div class="col-md-3 col-5 pr-0"><input class="form-control" id="inputClassNumber" name="classNumber1" /></div>
                 <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-plus"></i></button></div>
             </div>
-            <!-- TODO: Onchange use an ajax call to update the class list below, which the user can then dynamically add to-->
+            <!-- TODO: On submit use javascript to update the class list below, which the user can then dynamically add to-->
             <div class="row pt-3">
                 <div class="col-md-6 col-10 pr-0"><input class="form-control" name="classes" value="CPSC1100" readonly="readonly" /></div>
                 <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>

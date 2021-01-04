@@ -1,0 +1,41 @@
+#! /app/.heroku/node/bin/node
+async function scrape_calendar() {
+    const dataTier = require("../lib/dataTier");
+    const scraper = require("../lib/scrapper");
+    // Find term
+    var d = new Date();
+    var year = d.getFullYear();
+    var month = d.getMonth();
+    var day = d.getDate();
+    var term = "202020"
+    if (month <= 3 || (month == 4 && day <= 5))
+        term = year.toString() + "20"
+    else if (month <= 6 || (month == 7 && day <= 5))
+        term = year.toString() + "30"
+    else
+        term = year.toString() + "40"
+
+    // Double-check for subjects that don't have any classes
+    var unusedSubjects = await dataTier.findUnusedSubjects(term)
+    console.log(unusedSubjects)
+    for(let newSubject of unusedSubjects) {
+        console.log(newSubject)
+        // Scrape data by subject and term
+        await scraper.scrapeData(newSubject, term)
+    }
+    // If a subject has a term earlier than current term, scrape
+    var dirtySubject = await dataTier.getSubjectWithPreviousTerm(term)
+    while(dirtySubject != null && dirtySubject != undefined) {
+        console.log(term)
+        console.log(dirtySubject)
+        // Remove pre-existing classes in this subject in this term (so we won't have duplicates)
+        await dataTier.clearClassDataBySubjectInTerm(dirtySubject, term)
+        // Scrape data by subject and term
+        await scraper.scrapeData(dirtySubject, term)
+        // Delete date from that subject with old term
+        await dataTier.clearClassDataBySubjectAndTerm(dirtySubject, term)
+        var dirtySubject = await dataTier.getSubjectWithPreviousTerm(term)
+    }
+}
+
+scrape_calendar();
