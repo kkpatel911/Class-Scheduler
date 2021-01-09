@@ -15,14 +15,6 @@ async function scrape_calendar() {
     else
         term = year.toString() + "40"
 
-    // Double-check for subjects that don't have any classes
-    var unusedSubjects = await dataTier.findUnusedSubjects(term)
-    console.log(unusedSubjects)
-    for(let newSubject of unusedSubjects) {
-        console.log(newSubject)
-        // Scrape data by subject and term
-        await scraper.scrapeData(newSubject, term)
-    }
     // If a subject has a term earlier than current term, scrape
     var dirtySubject = await dataTier.getSubjectWithPreviousTerm(term)
     while(dirtySubject != null && dirtySubject != undefined) {
@@ -35,6 +27,14 @@ async function scrape_calendar() {
         // Delete date from that subject with old term
         await dataTier.clearClassDataBySubjectAndTerm(dirtySubject, term)
         var dirtySubject = await dataTier.getSubjectWithPreviousTerm(term)
+    }
+    // Double-check for subjects that don't have any classes
+    var unusedSubjects = await dataTier.findUnusedSubjects(term)
+    console.log(unusedSubjects)
+    for(let newSubject of unusedSubjects) {
+        console.log(newSubject)
+        // Scrape data by subject and term
+        await scraper.scrapeData(newSubject, term)
     }
 }
 
