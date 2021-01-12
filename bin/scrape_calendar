@@ -36,6 +36,7 @@ async function scrape_calendar() {
         // Scrape data by subject and term
         await scraper.scrapeData(newSubject, term)
     }
+    process.exit();
 }
 
 scrape_calendar();
