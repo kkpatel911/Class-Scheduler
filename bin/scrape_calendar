@@ -2,18 +2,9 @@
 async function scrape_calendar() {
     const dataTier = require("../lib/dataTier");
     const scraper = require("../lib/scrapper");
+    const utils = require("../lib/utils");
     // Find term
-    var d = new Date();
-    var year = d.getFullYear();
-    var month = d.getMonth();
-    var day = d.getDate();
-    var term = "202020"
-    if (month <= 3 || (month == 4 && day <= 5))
-        term = year.toString() + "20"
-    else if (month <= 6 || (month == 7 && day <= 5))
-        term = year.toString() + "30"
-    else
-        term = year.toString() + "40"
+    var term = utils.getTerm()
 
     // If a subject has a term earlier than current term, scrape
     var dirtySubject = await dataTier.getSubjectWithPreviousTerm(term)
@@ -29,13 +20,7 @@ async function scrape_calendar() {
         var dirtySubject = await dataTier.getSubjectWithPreviousTerm(term)
     }
     // Double-check for subjects that don't have any classes
-    var unusedSubjects = await dataTier.findUnusedSubjects(term)
-    console.log(unusedSubjects)
-    for(let newSubject of unusedSubjects) {
-        console.log(newSubject)
-        // Scrape data by subject and term
-        await scraper.scrapeData(newSubject, term)
-    }
+    await scraper.scrapeUnusedClasses(term)
     process.exit();
 }
 
