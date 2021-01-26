@@ -16,6 +16,13 @@ router.get('/search', function(req, res, next) {
   })
 });
 
+// GET classroom search
+router.get('/classroom', function(req, res, next) {
+  dataTier.getBuildings(function(buildingsArray) {
+    res.render('classroom', { buildings: buildingsArray });
+  })
+});
+
 // GET calendar
 router.get('/:id', function(req, res, next) {
   // If an extension is noted, call it by id
