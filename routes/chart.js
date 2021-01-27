@@ -3,6 +3,7 @@ var router = express.Router();
 
 const buildCalendar = require("../lib/buildCalendar");
 const dataTier = require("../lib/dataTier");
+var CryptoJS = require("crypto-js");
 
 // GET calendar search
 router.get('/search', function(req, res, next) {
@@ -26,16 +27,18 @@ router.get('/classroom', function(req, res, next) {
 // GET calendar
 router.get('/:id', function(req, res, next) {
   // If an extension is noted, call it by id
-  console.log(req.params.id)
-    dataTier.loadCalendar(req.params.id, function(calendarData) {
-      res.render('chart',
-        { name: "Class Layout by Week",
-          barArray: JSON.stringify(calendarData),
-          chartX: 5,
-          chartY: 27,
-          isAlreadySaved: true
-        });
-    })
+  console.log(req.params.id);
+  var bytes  = CryptoJS.AES.decrypt(req.params.id, PROCESS.ENV.CHART_ENCODER_KEY);
+  var plaintext = bytes.toString(CryptoJS.enc.Utf8);
+  dataTier.loadCalendar(plaintext, function(calendarData) {
+    res.render('chart',
+      { name: "Class Layout by Week",
+        barArray: JSON.stringify(calendarData),
+        chartX: 5,
+        chartY: 27,
+        isAlreadySaved: true
+      });
+  })
 });
 
 // POST search params
