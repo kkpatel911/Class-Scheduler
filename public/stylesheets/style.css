@@ -10,3 +10,9 @@ a {
 .invisble {
   display:none
 }
+
+input.classes {
+  border: none;
+  background-color: transparent;
+  color: inherit;
+}

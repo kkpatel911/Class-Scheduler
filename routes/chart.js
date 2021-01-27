@@ -42,13 +42,12 @@ router.get('/:id', function(req, res, next) {
 router.post('/', function(req, res, next) {
   // TODO: Translate data from configSearch front-end
   var mockInput = req.body.classes
-  console.log(typeof mockInput)
   if (typeof mockInput !== "array" && typeof mockInput !== "object") {
     mockInput = [mockInput]
   }
   console.log(mockInput)
   // Go through req to find REAL input, find out WHICH files need to be opened
-  classProcessingArray = mockInput.map(name => dataTier.getClassData(name.replace(/[0-9]/g, ''), name.replace(/[a-zA-Z]/g, '')))
+  classProcessingArray = mockInput.map(name => dataTier.getClassData(name.replace(/^\s*/g, '').replace(/\s*$/g, '')))
   Promise.all(classProcessingArray)
     .then((values) => {
       // Numbers 1-27 represent 8:00am-9:30pm on Monday by half-hour. 28-54 represent 8:00am-9:30pm on Tuesday.
