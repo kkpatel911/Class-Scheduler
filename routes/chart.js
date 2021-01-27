@@ -28,7 +28,7 @@ router.get('/classroom', function(req, res, next) {
 router.get('/:id', function(req, res, next) {
   // If an extension is noted, call it by id
   console.log(req.params.id);
-  var bytes  = CryptoJS.AES.decrypt(req.params.id, PROCESS.ENV.CHART_ENCODER_KEY);
+  var bytes  = CryptoJS.AES.decrypt(req.params.id, process.env.CHART_ENCODER_KEY);
   var plaintext = bytes.toString(CryptoJS.enc.Utf8);
   dataTier.loadCalendar(plaintext, function(calendarData) {
     res.render('chart',
