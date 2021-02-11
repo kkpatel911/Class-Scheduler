@@ -13,34 +13,61 @@
             </div>
         </div>
         <form action="/chart" method="POST">
-            <!-- Days of the week to check-->
-            <!-- Onchange use an ajax call to update the class list below, which the user can then dynamically add to-->
-            <div class="row pt-3">
-                <div class="col-md-6 col-10 pr-0"><select class="form-control" id="inputState" name="major1"><option selected="">Use a Preset...</option><option>Computer Science Freshman</option><option>Computer Science General</option><option>Business Freshman</option><option>Business General</option><option>Geneds</option></select></div>
-                <div
-                    class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-plus"></i></button></div>
+            <!-- On submit use an ajax call to get all classes from the preset chosen, which the user can then dynamically add to-->
+            <div class="row py-3 justify-content-around">
+                <div class="col-md-6 col-10">
+                    <!-- TODO: Add onchange value that clears this element and adds text to listbox below -->
+                    <input list="classroomList" class="form-control" placeholder="Enter a class name"/>
+                    <datalist id="classroomList">
+                        <% for(let className of classes){ %>
+                            <option value="<%= className %>"><%= className %></option>
+                        <% } %>
+                    </select>
+                </div>
             </div>
             <!-- Majors & Years (dynamically add readonly input fields copying values using add button)-->
-            <div class="row pt-3">
-                <div class="col-md-3 col-5"><select class="form-control" id="inputState" name="major1"><option selected="">Choose...</option><option>ART</option><option>BUS</option><option>CPSC</option><option>ENGR</option></select></div>
-                <div class="col-md-3 col-5 pr-0"><input class="form-control" id="inputClassNumber" name="classNumber1" /></div>
-                <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-plus"></i></button></div>
+            <div class="row justify-content-around">
+                <div class="col-md-6 col-10 px-3">
+                    <ul class="border border-dark rounded bg-secondary text-white py-2 mb-0">
+                        <!-- PLACEHOLDERS: Will start empty and get classes added using javascript -->
+                        <li>
+                            <div class="row">
+                                <div class="col-9 align-self-center"><input class="classes" name="classes" value="Fundamentals of Computer Science" size=100 readonly></div>
+                                <div class="col-3"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="row">
+                                <div class="col-9 align-self-center"><input class="classes" name="classes" value="Data Structures and Program Design" size=100 readonly></div>
+                                <div class="col-3"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="row">
+                                <div class="col-9 align-self-center"><input class="classes" name="classes" value="Software Design and Development" size=100 readonly></div>
+                                <div class="col-3"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
             </div>
-            <!-- TODO: Onchange use an ajax call to update the class list below, which the user can then dynamically add to-->
-            <div class="row pt-3">
-                <div class="col-md-6 col-10 pr-0"><input class="form-control" name="classes" value="CPSC1100" readonly="readonly" /></div>
-                <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
+            <!-- Presets box -->
+            <div class="row justify-content-around">
+                <div class="col-md-6 col-10">
+                    <select class="form-control" id="inputState" name="major1">
+                        <option selected="">Add a Preset...</option>
+                        <!-- TODO: Populate presets -->
+                        <option>Computer Science Freshman</option>
+                        <option>Computer Science Sophomores</option>
+                        <option>Business Freshman</option>
+                    </select>
+                </div>
             </div>
-            <div class="row pt-3">
-                <div class="col-md-6 col-10 pr-0"><input class="form-control" name="classes" value="CPSC1110" readonly="readonly" /></div>
-                <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
-            </div>
-            <div class="row pt-3">
-                <div class="col-md-6 col-10 pr-0"><input class="form-control" name="classes" value="CPSC2100" readonly="readonly" /></div>
-                <div class="col-md-1 col-2 pl-0"><button class="btn-secondary form-control" type="button"><i class="fa fa-times"></i></button></div>
-            </div>
+            
             <!-- Submit!-->
-            <div class="row py-3 border-bottom border-secondary"><input class="btn-primary form-control col-md-2 offset-md-4 col-3 offset-3" type="submit" value="Search" /></div>
+            <div class="row justify-content-around py-3 border-bottom border-secondary">
+                <input class="btn-primary form-control col-md-2 col-3" type="submit" value="Search" />
+            </div>
         </form>
     </div>
 

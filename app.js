@@ -7,6 +7,7 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var chartRouter = require('./routes/chart');
 var saveRouter = require('./routes/save');
+var scrapeRouter = require('./routes/scraper');
 
 var app = express();
 
@@ -21,10 +22,9 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
+app.use('/scrape', scrapeRouter);
 app.use('/chart', chartRouter);
 app.use('/saveChart', saveRouter);
-// TODO: Create a search page to find calendars by their name
-
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

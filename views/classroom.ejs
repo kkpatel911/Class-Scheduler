@@ -1,0 +1,42 @@
+<%- include('includes/header.ejs') %>
+
+    <div class="container">
+        <form>
+            <div class="row pt-5 justify-content-center">
+                <!-- Building select -->
+                <div class="col-md-3 col-5 pr-0">
+                    <select class="form-select form-control" aria-label="Select building to search by">
+                        <option selected>Select a building</option>
+                        <% for(let buildingName of buildings){ %>
+                            <option value="<%= buildingName %>"><%= buildingName %></option>
+                        <% } %>
+                    </select>
+                </div>
+                <!-- Time select -->
+                <div class="col-md-3 col-5 pl-0"><input type="time" class="form-control" name="time" value="14:00" /></div>
+            </div>
+            <div class="row pb-5 justify-content-center">
+                <div class="col-md-6 col-10"><button class="btn-secondary form-control" type="button"><i class="fa fa-search"></i></button></div>
+            </div>
+        </form>
+
+        <!--- Print Datatable --->
+        <div class="row justify-content-around">
+            <div class="col-md-8 col-10 border border-3 border-info rounded">
+                <table id="searchTable" class="table grid">
+                    <thead class="text-center">
+                    <tr>
+                        <th id="searchTable_rooms">Available Rooms</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td aria-label="Name"><i>Enter a search</i></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+<%- include('includes/footer.ejs') %>

@@ -2,8 +2,8 @@ var express = require('express');
 var router = express.Router();
 
 const buildCalendar = require("../lib/buildCalendar");
-const readClassInfo = require("../lib/readClass");
 const dataTier = require("../lib/dataTier");
+var CryptoJS = require("crypto-js");
 
 // GET calendar search
 router.get('/search', function(req, res, next) {
@@ -17,34 +17,44 @@ router.get('/search', function(req, res, next) {
   })
 });
 
+// GET classroom search
+router.get('/classroom', function(req, res, next) {
+  dataTier.getBuildings(function(buildingsArray) {
+    res.render('classroom', { buildings: buildingsArray });
+  })
+});
+
 // GET calendar
 router.get('/:id', function(req, res, next) {
   // If an extension is noted, call it by id
-  console.log(req.params.id)
-    dataTier.loadCalendar(req.params.id, function(calendarData) {
-      res.render('chart',
-        { name: "Class Layout by Week",
-          barArray: JSON.stringify(calendarData),
-          chartX: 5,
-          chartY: 27,
-          isAlreadySaved: true
-        });
-    })
+  console.log(req.params.id);
+  var bytes  = CryptoJS.AES.decrypt(req.params.id, process.env.CHART_ENCODER_KEY);
+  var plaintext = bytes.toString(CryptoJS.enc.Utf8);
+  dataTier.loadCalendar(plaintext, function(calendarData) {
+    res.render('chart',
+      { name: "Class Layout by Week",
+        barArray: JSON.stringify(calendarData),
+        chartX: 5,
+        chartY: 27,
+        isAlreadySaved: true
+      });
+  })
 });
 
 // POST search params
 router.post('/', function(req, res, next) {
   // TODO: Translate data from configSearch front-end
   var mockInput = req.body.classes
+  if (typeof mockInput !== "array" && typeof mockInput !== "object") {
+    mockInput = [mockInput]
+  }
+  console.log(mockInput)
   // Go through req to find REAL input, find out WHICH files need to be opened
-  classProcessingArray = mockInput.map(name => readClassInfo(name.replace(/[0-9]/g, ''), 2020, "Fall"))
+  classProcessingArray = mockInput.map(name => dataTier.getClassData(name.replace(/^\s*/g, '').replace(/\s*$/g, '')))
   Promise.all(classProcessingArray)
     .then((values) => {
-      // Flatten class datas so we have a single array of class info
-      let pertinentClassData = [].concat.apply([], values)
-      
       // Numbers 1-27 represent 8:00am-9:30pm on Monday by half-hour. 28-54 represent 8:00am-9:30pm on Tuesday.
-      var createdCalendar = buildCalendar(mockInput, pertinentClassData); // Created calendar format: { CPSC1100: [0, 1, 2, 8, 9, 12, 13, 41, 42], CPSC1110: [22, 76], ... }
+      var createdCalendar = buildCalendar(mockInput, values); // Created calendar format: { CPSC1100: [0, 1, 2, 8, 9, 12, 13, 41, 42], CPSC1110: [22, 76], ... }
       
       res.render('chart',
         { name: "Class Layout by Week",
