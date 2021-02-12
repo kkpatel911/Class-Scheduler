@@ -11,8 +11,20 @@ router.post('/', function(req,res) {
 
   // Save data in database
   dataTier.saveCalendar(calendarInput, calendarName, function(calendarID) {
+    var key = "example"
+    if(process.env.CHART_ENCODER_KEY) {
+      key = process.env.CHART_ENCODER_KEY
+    } else {
+      try {
+        configVars = require('./config')
+        key = configVars['encoding_key'];
+      }
+      catch (e) {
+        console.log("WARNING: No config file or database found. Saved calendar will be unfindable on web app");
+      }
+    }
     if (calendarID > 0) {
-      var chartKey = CryptoJS.AES.encrypt(calendarID.toString(), process.env.CHART_ENCODER_KEY)
+      var chartKey = CryptoJS.AES.encrypt(calendarID.toString(), key)
       res.redirect('/chart/' + encodeURIComponent(chartKey.toString()));
     }
     else

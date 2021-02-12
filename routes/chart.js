@@ -27,8 +27,19 @@ router.get('/classroom', function(req, res, next) {
 // GET calendar
 router.get('/:id', function(req, res, next) {
   // If an extension is noted, call it by id
-  console.log(req.params.id);
-  var bytes  = CryptoJS.AES.decrypt(req.params.id, process.env.CHART_ENCODER_KEY);
+  var key = "example"
+  if(process.env.CHART_ENCODER_KEY) {
+    key = process.env.CHART_ENCODER_KEY
+  } else {
+    try {
+      configVars = require('./config')
+      key = configVars['encoding_key'];
+    }
+    catch (e) {
+      console.log("WARNING: No config file or database found. Loaded calendar will not be the same as on web app");
+    }
+  }
+  var bytes  = CryptoJS.AES.decrypt(req.params.id, key);
   var plaintext = bytes.toString(CryptoJS.enc.Utf8);
   dataTier.loadCalendar(plaintext, function(calendarData) {
     res.render('chart',
