@@ -1,0 +1,30 @@
+// Our Custom sass code
+// Blue = #2176AE and #57B8FF (buttons + page content)
+// Yellow = #B66D0D and #FBB136 (magnifying glass + navbar)
+$theme-colors: (
+  "primary": #57B8FF,
+  "info": #2176AE,
+  "secondary": #B66D0D,
+  "warning": #FBB136
+);
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+container {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.invisble {
+  display:none
+}
+
+input.classes {
+  border: none;
+  background-color: transparent;
+  color: inherit;
+}
